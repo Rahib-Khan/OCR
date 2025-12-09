@@ -1,0 +1,4675 @@
+======================================================================
+TABLE STRUCTURE ANALYSIS
+======================================================================
+
+This report shows how pages are grouped by table structure.
+Pages with similar column layouts are grouped together.
+Use this to reconstruct continuous tables in your spreadsheet.
+
+
+Table Group 1:
+----------------------------------------------------------------------
+  Pages: 1 to 8 (8 pages)
+  Page numbers: [1, 2, 3, 4, 5, 6, 7, 8]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 837, 1047, 1222, 1400, 1556, 1692, 1822, 1951, 2082, 2217, 2352, 2484, 2616, 2750, 2898]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1047 (Data column)
+    Column 4: 1047 to 1222 (Data column)
+    Column 5: 1222 to 1400 (Data column)
+    Column 6: 1400 to 1556 (Data column)
+    Column 7: 1556 to 1692 (Data column)
+    Column 8: 1692 to 1822 (Data column)
+    Column 9: 1822 to 1951 (Data column)
+    Column 10: 1951 to 2082 (Data column)
+    Column 11: 2082 to 2217 (Data column)
+    Column 12: 2217 to 2352 (Data column)
+    Column 13: 2352 to 2484 (Data column)
+    Column 14: 2484 to 2616 (Data column)
+    Column 15: 2616 to 2750 (Data column)
+    Column 16: 2750 to 2898 (Data column)
+    Column 17: 2898 to end (Data column)
+
+Table Group 2:
+----------------------------------------------------------------------
+  Pages: 9 to 10 (2 pages)
+  Page numbers: [9, 10]
+  Number of columns: 17
+  Column separators at x-positions: [1, 807, 1019, 1195, 1355, 1526, 1658, 1790, 1923, 2052, 2185, 2320, 2449, 2582, 2717, 2890]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 807 (Data column)
+    Column 2: 807 to 1019 (Data column)
+    Column 3: 1019 to 1195 (Data column)
+    Column 4: 1195 to 1355 (Data column)
+    Column 5: 1355 to 1526 (Data column)
+    Column 6: 1526 to 1658 (Data column)
+    Column 7: 1658 to 1790 (Data column)
+    Column 8: 1790 to 1923 (Data column)
+    Column 9: 1923 to 2052 (Data column)
+    Column 10: 2052 to 2185 (Data column)
+    Column 11: 2185 to 2320 (Data column)
+    Column 12: 2320 to 2449 (Data column)
+    Column 13: 2449 to 2582 (Data column)
+    Column 14: 2582 to 2717 (Data column)
+    Column 15: 2717 to 2890 (Data column)
+    Column 16: 2890 to end (Data column)
+
+Table Group 3:
+----------------------------------------------------------------------
+  Pages: 11 to 12 (2 pages)
+  Page numbers: [11, 12]
+  Number of columns: 18
+  Column separators at x-positions: [1, 696, 839, 1047, 1223, 1401, 1557, 1693, 1823, 1952, 2083, 2218, 2352, 2483, 2615, 2749, 2896]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 696 (Data column)
+    Column 2: 696 to 839 (Data column)
+    Column 3: 839 to 1047 (Data column)
+    Column 4: 1047 to 1223 (Data column)
+    Column 5: 1223 to 1401 (Data column)
+    Column 6: 1401 to 1557 (Data column)
+    Column 7: 1557 to 1693 (Data column)
+    Column 8: 1693 to 1823 (Data column)
+    Column 9: 1823 to 1952 (Data column)
+    Column 10: 1952 to 2083 (Data column)
+    Column 11: 2083 to 2218 (Data column)
+    Column 12: 2218 to 2352 (Data column)
+    Column 13: 2352 to 2483 (Data column)
+    Column 14: 2483 to 2615 (Data column)
+    Column 15: 2615 to 2749 (Data column)
+    Column 16: 2749 to 2896 (Data column)
+    Column 17: 2896 to end (Data column)
+
+Table Group 4:
+----------------------------------------------------------------------
+  Pages: 13 to 13 (1 page)
+  Page numbers: [13]
+  Number of columns: 17
+  Column separators at x-positions: [0, 694, 914, 1076, 1242, 1407, 1576, 1742, 1907, 2073, 2241, 2404, 2572, 2737, 2909, 2911]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 914 (Data column)
+    Column 3: 914 to 1076 (Data column)
+    Column 4: 1076 to 1242 (Data column)
+    Column 5: 1242 to 1407 (Data column)
+    Column 6: 1407 to 1576 (Data column)
+    Column 7: 1576 to 1742 (Data column)
+    Column 8: 1742 to 1907 (Data column)
+    Column 9: 1907 to 2073 (Data column)
+    Column 10: 2073 to 2241 (Data column)
+    Column 11: 2241 to 2404 (Data column)
+    Column 12: 2404 to 2572 (Data column)
+    Column 13: 2572 to 2737 (Data column)
+    Column 14: 2737 to 2909 (Data column)
+    Column 15: 2909 to 2911 (Data column)
+    Column 16: 2911 to end (Data column)
+
+Table Group 5:
+----------------------------------------------------------------------
+  Pages: 14 to 14 (1 page)
+  Page numbers: [14]
+  Number of columns: 18
+  Column separators at x-positions: [367, 374, 1062, 1280, 1442, 1608, 1773, 1941, 2105, 2269, 2434, 2603, 2765, 2932, 3095, 3265, 3267]
+
+  Column structure:
+    Column 0: 0 to 367 (Label/Header column)
+    Column 1: 367 to 374 (Data column)
+    Column 2: 374 to 1062 (Data column)
+    Column 3: 1062 to 1280 (Data column)
+    Column 4: 1280 to 1442 (Data column)
+    Column 5: 1442 to 1608 (Data column)
+    Column 6: 1608 to 1773 (Data column)
+    Column 7: 1773 to 1941 (Data column)
+    Column 8: 1941 to 2105 (Data column)
+    Column 9: 2105 to 2269 (Data column)
+    Column 10: 2269 to 2434 (Data column)
+    Column 11: 2434 to 2603 (Data column)
+    Column 12: 2603 to 2765 (Data column)
+    Column 13: 2765 to 2932 (Data column)
+    Column 14: 2932 to 3095 (Data column)
+    Column 15: 3095 to 3265 (Data column)
+    Column 16: 3265 to 3267 (Data column)
+    Column 17: 3267 to end (Data column)
+
+Table Group 6:
+----------------------------------------------------------------------
+  Pages: 15 to 16 (2 pages)
+  Page numbers: [15, 16]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 910, 1072, 1238, 1402, 1571, 1735, 1900, 2066, 2234, 2397, 2565, 2728, 2899, 2902]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 910 (Data column)
+    Column 3: 910 to 1072 (Data column)
+    Column 4: 1072 to 1238 (Data column)
+    Column 5: 1238 to 1402 (Data column)
+    Column 6: 1402 to 1571 (Data column)
+    Column 7: 1571 to 1735 (Data column)
+    Column 8: 1735 to 1900 (Data column)
+    Column 9: 1900 to 2066 (Data column)
+    Column 10: 2066 to 2234 (Data column)
+    Column 11: 2234 to 2397 (Data column)
+    Column 12: 2397 to 2565 (Data column)
+    Column 13: 2565 to 2728 (Data column)
+    Column 14: 2728 to 2899 (Data column)
+    Column 15: 2899 to 2902 (Data column)
+    Column 16: 2902 to end (Data column)
+
+Table Group 7:
+----------------------------------------------------------------------
+  Pages: 17 to 17 (1 page)
+  Page numbers: [17]
+  Number of columns: 17
+  Column separators at x-positions: [252, 258, 943, 1323, 1488, 1653, 1821, 1986, 2149, 2314, 2482, 2644, 2811, 2975, 3145, 3148]
+
+  Column structure:
+    Column 0: 0 to 252 (Label/Header column)
+    Column 1: 252 to 258 (Data column)
+    Column 2: 258 to 943 (Data column)
+    Column 3: 943 to 1323 (Data column)
+    Column 4: 1323 to 1488 (Data column)
+    Column 5: 1488 to 1653 (Data column)
+    Column 6: 1653 to 1821 (Data column)
+    Column 7: 1821 to 1986 (Data column)
+    Column 8: 1986 to 2149 (Data column)
+    Column 9: 2149 to 2314 (Data column)
+    Column 10: 2314 to 2482 (Data column)
+    Column 11: 2482 to 2644 (Data column)
+    Column 12: 2644 to 2811 (Data column)
+    Column 13: 2811 to 2975 (Data column)
+    Column 14: 2975 to 3145 (Data column)
+    Column 15: 3145 to 3148 (Data column)
+    Column 16: 3148 to end (Data column)
+
+Table Group 8:
+----------------------------------------------------------------------
+  Pages: 18 to 18 (1 page)
+  Page numbers: [18]
+  Number of columns: 17
+  Column separators at x-positions: [0, 2, 690, 908, 1070, 1235, 1400, 1567, 1731, 1895, 2061, 2229, 2391, 2558, 2721, 2891]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 690 (Data column)
+    Column 3: 690 to 908 (Data column)
+    Column 4: 908 to 1070 (Data column)
+    Column 5: 1070 to 1235 (Data column)
+    Column 6: 1235 to 1400 (Data column)
+    Column 7: 1400 to 1567 (Data column)
+    Column 8: 1567 to 1731 (Data column)
+    Column 9: 1731 to 1895 (Data column)
+    Column 10: 1895 to 2061 (Data column)
+    Column 11: 2061 to 2229 (Data column)
+    Column 12: 2229 to 2391 (Data column)
+    Column 13: 2391 to 2558 (Data column)
+    Column 14: 2558 to 2721 (Data column)
+    Column 15: 2721 to 2891 (Data column)
+    Column 16: 2891 to end (Data column)
+
+Table Group 9:
+----------------------------------------------------------------------
+  Pages: 19 to 20 (2 pages)
+  Page numbers: [19, 20]
+  Number of columns: 17
+  Column separators at x-positions: [1, 693, 912, 1074, 1239, 1404, 1573, 1738, 1902, 2068, 2237, 2399, 2567, 2731, 2902, 2905]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 693 (Data column)
+    Column 2: 693 to 912 (Data column)
+    Column 3: 912 to 1074 (Data column)
+    Column 4: 1074 to 1239 (Data column)
+    Column 5: 1239 to 1404 (Data column)
+    Column 6: 1404 to 1573 (Data column)
+    Column 7: 1573 to 1738 (Data column)
+    Column 8: 1738 to 1902 (Data column)
+    Column 9: 1902 to 2068 (Data column)
+    Column 10: 2068 to 2237 (Data column)
+    Column 11: 2237 to 2399 (Data column)
+    Column 12: 2399 to 2567 (Data column)
+    Column 13: 2567 to 2731 (Data column)
+    Column 14: 2731 to 2902 (Data column)
+    Column 15: 2902 to 2905 (Data column)
+    Column 16: 2905 to end (Data column)
+
+Table Group 10:
+----------------------------------------------------------------------
+  Pages: 21 to 21 (1 page)
+  Page numbers: [21]
+  Number of columns: 16
+  Column separators at x-positions: [695, 913, 1078, 1242, 1408, 1577, 1741, 1906, 2072, 2240, 2403, 2570, 2734, 2906, 2908]
+
+  Column structure:
+    Column 0: 0 to 695 (Label/Header column)
+    Column 1: 695 to 913 (Data column)
+    Column 2: 913 to 1078 (Data column)
+    Column 3: 1078 to 1242 (Data column)
+    Column 4: 1242 to 1408 (Data column)
+    Column 5: 1408 to 1577 (Data column)
+    Column 6: 1577 to 1741 (Data column)
+    Column 7: 1741 to 1906 (Data column)
+    Column 8: 1906 to 2072 (Data column)
+    Column 9: 2072 to 2240 (Data column)
+    Column 10: 2240 to 2403 (Data column)
+    Column 11: 2403 to 2570 (Data column)
+    Column 12: 2570 to 2734 (Data column)
+    Column 13: 2734 to 2906 (Data column)
+    Column 14: 2906 to 2908 (Data column)
+    Column 15: 2908 to end (Data column)
+
+Table Group 11:
+----------------------------------------------------------------------
+  Pages: 22 to 22 (1 page)
+  Page numbers: [22]
+  Number of columns: 18
+  Column separators at x-positions: [0, 3, 692, 911, 1073, 1239, 1404, 1573, 1738, 1902, 2068, 2237, 2400, 2568, 2734, 2906, 2910]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 3 (Data column)
+    Column 2: 3 to 692 (Data column)
+    Column 3: 692 to 911 (Data column)
+    Column 4: 911 to 1073 (Data column)
+    Column 5: 1073 to 1239 (Data column)
+    Column 6: 1239 to 1404 (Data column)
+    Column 7: 1404 to 1573 (Data column)
+    Column 8: 1573 to 1738 (Data column)
+    Column 9: 1738 to 1902 (Data column)
+    Column 10: 1902 to 2068 (Data column)
+    Column 11: 2068 to 2237 (Data column)
+    Column 12: 2237 to 2400 (Data column)
+    Column 13: 2400 to 2568 (Data column)
+    Column 14: 2568 to 2734 (Data column)
+    Column 15: 2734 to 2906 (Data column)
+    Column 16: 2906 to 2910 (Data column)
+    Column 17: 2910 to end (Data column)
+
+Table Group 12:
+----------------------------------------------------------------------
+  Pages: 23 to 25 (3 pages)
+  Page numbers: [23, 24, 25]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 836, 1045, 1222, 1398, 1554, 1690, 1820, 1948, 2080, 2214, 2350, 2481, 2614, 2748, 2896]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 836 (Data column)
+    Column 3: 836 to 1045 (Data column)
+    Column 4: 1045 to 1222 (Data column)
+    Column 5: 1222 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1948 (Data column)
+    Column 10: 1948 to 2080 (Data column)
+    Column 11: 2080 to 2214 (Data column)
+    Column 12: 2214 to 2350 (Data column)
+    Column 13: 2350 to 2481 (Data column)
+    Column 14: 2481 to 2614 (Data column)
+    Column 15: 2614 to 2748 (Data column)
+    Column 16: 2748 to 2896 (Data column)
+    Column 17: 2896 to end (Data column)
+
+Table Group 13:
+----------------------------------------------------------------------
+  Pages: 26 to 26 (1 page)
+  Page numbers: [26]
+  Number of columns: 17
+  Column separators at x-positions: [2, 808, 1019, 1194, 1354, 1525, 1657, 1790, 1922, 2052, 2184, 2320, 2450, 2582, 2718, 2891]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 808 (Data column)
+    Column 2: 808 to 1019 (Data column)
+    Column 3: 1019 to 1194 (Data column)
+    Column 4: 1194 to 1354 (Data column)
+    Column 5: 1354 to 1525 (Data column)
+    Column 6: 1525 to 1657 (Data column)
+    Column 7: 1657 to 1790 (Data column)
+    Column 8: 1790 to 1922 (Data column)
+    Column 9: 1922 to 2052 (Data column)
+    Column 10: 2052 to 2184 (Data column)
+    Column 11: 2184 to 2320 (Data column)
+    Column 12: 2320 to 2450 (Data column)
+    Column 13: 2450 to 2582 (Data column)
+    Column 14: 2582 to 2718 (Data column)
+    Column 15: 2718 to 2891 (Data column)
+    Column 16: 2891 to end (Data column)
+
+Table Group 14:
+----------------------------------------------------------------------
+  Pages: 27 to 27 (1 page)
+  Page numbers: [27]
+  Number of columns: 18
+  Column separators at x-positions: [305, 1002, 1143, 1353, 1530, 1706, 1862, 1998, 2129, 2257, 2388, 2522, 2656, 2788, 2920, 3053, 3201]
+
+  Column structure:
+    Column 0: 0 to 305 (Label/Header column)
+    Column 1: 305 to 1002 (Data column)
+    Column 2: 1002 to 1143 (Data column)
+    Column 3: 1143 to 1353 (Data column)
+    Column 4: 1353 to 1530 (Data column)
+    Column 5: 1530 to 1706 (Data column)
+    Column 6: 1706 to 1862 (Data column)
+    Column 7: 1862 to 1998 (Data column)
+    Column 8: 1998 to 2129 (Data column)
+    Column 9: 2129 to 2257 (Data column)
+    Column 10: 2257 to 2388 (Data column)
+    Column 11: 2388 to 2522 (Data column)
+    Column 12: 2522 to 2656 (Data column)
+    Column 13: 2656 to 2788 (Data column)
+    Column 14: 2788 to 2920 (Data column)
+    Column 15: 2920 to 3053 (Data column)
+    Column 16: 3053 to 3201 (Data column)
+    Column 17: 3201 to end (Data column)
+
+Table Group 15:
+----------------------------------------------------------------------
+  Pages: 28 to 28 (1 page)
+  Page numbers: [28]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 911, 1072, 1237, 1401, 1570, 1734, 1898, 2064, 2232, 2395, 2563, 2728, 2900, 2903]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 911 (Data column)
+    Column 3: 911 to 1072 (Data column)
+    Column 4: 1072 to 1237 (Data column)
+    Column 5: 1237 to 1401 (Data column)
+    Column 6: 1401 to 1570 (Data column)
+    Column 7: 1570 to 1734 (Data column)
+    Column 8: 1734 to 1898 (Data column)
+    Column 9: 1898 to 2064 (Data column)
+    Column 10: 2064 to 2232 (Data column)
+    Column 11: 2232 to 2395 (Data column)
+    Column 12: 2395 to 2563 (Data column)
+    Column 13: 2563 to 2728 (Data column)
+    Column 14: 2728 to 2900 (Data column)
+    Column 15: 2900 to 2903 (Data column)
+    Column 16: 2903 to end (Data column)
+
+Table Group 16:
+----------------------------------------------------------------------
+  Pages: 29 to 29 (1 page)
+  Page numbers: [29]
+  Number of columns: 18
+  Column separators at x-positions: [289, 294, 980, 1198, 1360, 1525, 1690, 1858, 2023, 2186, 2352, 2520, 2683, 2849, 3012, 3182, 3186]
+
+  Column structure:
+    Column 0: 0 to 289 (Label/Header column)
+    Column 1: 289 to 294 (Data column)
+    Column 2: 294 to 980 (Data column)
+    Column 3: 980 to 1198 (Data column)
+    Column 4: 1198 to 1360 (Data column)
+    Column 5: 1360 to 1525 (Data column)
+    Column 6: 1525 to 1690 (Data column)
+    Column 7: 1690 to 1858 (Data column)
+    Column 8: 1858 to 2023 (Data column)
+    Column 9: 2023 to 2186 (Data column)
+    Column 10: 2186 to 2352 (Data column)
+    Column 11: 2352 to 2520 (Data column)
+    Column 12: 2520 to 2683 (Data column)
+    Column 13: 2683 to 2849 (Data column)
+    Column 14: 2849 to 3012 (Data column)
+    Column 15: 3012 to 3182 (Data column)
+    Column 16: 3182 to 3186 (Data column)
+    Column 17: 3186 to end (Data column)
+
+Table Group 17:
+----------------------------------------------------------------------
+  Pages: 30 to 30 (1 page)
+  Page numbers: [30]
+  Number of columns: 17
+  Column separators at x-positions: [0, 691, 909, 1071, 1236, 1401, 1568, 1731, 1896, 2061, 2230, 2393, 2560, 2724, 2894, 2896]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 691 (Data column)
+    Column 2: 691 to 909 (Data column)
+    Column 3: 909 to 1071 (Data column)
+    Column 4: 1071 to 1236 (Data column)
+    Column 5: 1236 to 1401 (Data column)
+    Column 6: 1401 to 1568 (Data column)
+    Column 7: 1568 to 1731 (Data column)
+    Column 8: 1731 to 1896 (Data column)
+    Column 9: 1896 to 2061 (Data column)
+    Column 10: 2061 to 2230 (Data column)
+    Column 11: 2230 to 2393 (Data column)
+    Column 12: 2393 to 2560 (Data column)
+    Column 13: 2560 to 2724 (Data column)
+    Column 14: 2724 to 2894 (Data column)
+    Column 15: 2894 to 2896 (Data column)
+    Column 16: 2896 to end (Data column)
+
+Table Group 18:
+----------------------------------------------------------------------
+  Pages: 31 to 35 (5 pages)
+  Page numbers: [31, 32, 33, 34, 35]
+  Number of columns: 18
+  Column separators at x-positions: [1, 697, 839, 1050, 1225, 1403, 1559, 1695, 1826, 1955, 2087, 2221, 2356, 2488, 2620, 2754, 2902]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 697 (Data column)
+    Column 2: 697 to 839 (Data column)
+    Column 3: 839 to 1050 (Data column)
+    Column 4: 1050 to 1225 (Data column)
+    Column 5: 1225 to 1403 (Data column)
+    Column 6: 1403 to 1559 (Data column)
+    Column 7: 1559 to 1695 (Data column)
+    Column 8: 1695 to 1826 (Data column)
+    Column 9: 1826 to 1955 (Data column)
+    Column 10: 1955 to 2087 (Data column)
+    Column 11: 2087 to 2221 (Data column)
+    Column 12: 2221 to 2356 (Data column)
+    Column 13: 2356 to 2488 (Data column)
+    Column 14: 2488 to 2620 (Data column)
+    Column 15: 2620 to 2754 (Data column)
+    Column 16: 2754 to 2902 (Data column)
+    Column 17: 2902 to end (Data column)
+
+Table Group 19:
+----------------------------------------------------------------------
+  Pages: 36 to 36 (1 page)
+  Page numbers: [36]
+  Number of columns: 13
+  Column separators at x-positions: [392, 1089, 1231, 1440, 1613, 1790, 1946, 2211, 2339, 2871, 3004, 3138]
+
+  Column structure:
+    Column 0: 0 to 392 (Label/Header column)
+    Column 1: 392 to 1089 (Data column)
+    Column 2: 1089 to 1231 (Data column)
+    Column 3: 1231 to 1440 (Data column)
+    Column 4: 1440 to 1613 (Data column)
+    Column 5: 1613 to 1790 (Data column)
+    Column 6: 1790 to 1946 (Data column)
+    Column 7: 1946 to 2211 (Data column)
+    Column 8: 2211 to 2339 (Data column)
+    Column 9: 2339 to 2871 (Data column)
+    Column 10: 2871 to 3004 (Data column)
+    Column 11: 3004 to 3138 (Data column)
+    Column 12: 3138 to end (Data column)
+
+Table Group 20:
+----------------------------------------------------------------------
+  Pages: 37 to 37 (1 page)
+  Page numbers: [37]
+  Number of columns: 17
+  Column separators at x-positions: [2, 807, 1018, 1193, 1354, 1524, 1657, 1788, 1922, 2051, 2183, 2319, 2449, 2580, 2716, 2888]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 807 (Data column)
+    Column 2: 807 to 1018 (Data column)
+    Column 3: 1018 to 1193 (Data column)
+    Column 4: 1193 to 1354 (Data column)
+    Column 5: 1354 to 1524 (Data column)
+    Column 6: 1524 to 1657 (Data column)
+    Column 7: 1657 to 1788 (Data column)
+    Column 8: 1788 to 1922 (Data column)
+    Column 9: 1922 to 2051 (Data column)
+    Column 10: 2051 to 2183 (Data column)
+    Column 11: 2183 to 2319 (Data column)
+    Column 12: 2319 to 2449 (Data column)
+    Column 13: 2449 to 2580 (Data column)
+    Column 14: 2580 to 2716 (Data column)
+    Column 15: 2716 to 2888 (Data column)
+    Column 16: 2888 to end (Data column)
+
+Table Group 21:
+----------------------------------------------------------------------
+  Pages: 38 to 38 (1 page)
+  Page numbers: [38]
+  Number of columns: 18
+  Column separators at x-positions: [0, 2, 808, 1018, 1193, 1354, 1524, 1656, 1787, 1919, 2049, 2181, 2317, 2446, 2579, 2713, 2886]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 808 (Data column)
+    Column 3: 808 to 1018 (Data column)
+    Column 4: 1018 to 1193 (Data column)
+    Column 5: 1193 to 1354 (Data column)
+    Column 6: 1354 to 1524 (Data column)
+    Column 7: 1524 to 1656 (Data column)
+    Column 8: 1656 to 1787 (Data column)
+    Column 9: 1787 to 1919 (Data column)
+    Column 10: 1919 to 2049 (Data column)
+    Column 11: 2049 to 2181 (Data column)
+    Column 12: 2181 to 2317 (Data column)
+    Column 13: 2317 to 2446 (Data column)
+    Column 14: 2446 to 2579 (Data column)
+    Column 15: 2579 to 2713 (Data column)
+    Column 16: 2713 to 2886 (Data column)
+    Column 17: 2886 to end (Data column)
+
+Table Group 22:
+----------------------------------------------------------------------
+  Pages: 39 to 40 (2 pages)
+  Page numbers: [39, 40]
+  Number of columns: 18
+  Column separators at x-positions: [0, 696, 838, 1048, 1224, 1401, 1556, 1692, 1823, 1951, 2083, 2217, 2352, 2485, 2616, 2750, 2898]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 838 (Data column)
+    Column 3: 838 to 1048 (Data column)
+    Column 4: 1048 to 1224 (Data column)
+    Column 5: 1224 to 1401 (Data column)
+    Column 6: 1401 to 1556 (Data column)
+    Column 7: 1556 to 1692 (Data column)
+    Column 8: 1692 to 1823 (Data column)
+    Column 9: 1823 to 1951 (Data column)
+    Column 10: 1951 to 2083 (Data column)
+    Column 11: 2083 to 2217 (Data column)
+    Column 12: 2217 to 2352 (Data column)
+    Column 13: 2352 to 2485 (Data column)
+    Column 14: 2485 to 2616 (Data column)
+    Column 15: 2616 to 2750 (Data column)
+    Column 16: 2750 to 2898 (Data column)
+    Column 17: 2898 to end (Data column)
+
+Table Group 23:
+----------------------------------------------------------------------
+  Pages: 41 to 41 (1 page)
+  Page numbers: [41]
+  Number of columns: 17
+  Column separators at x-positions: [695, 914, 1077, 1242, 1407, 1576, 1741, 1905, 2072, 2240, 2402, 2569, 2732, 2734, 2904, 2906]
+
+  Column structure:
+    Column 0: 0 to 695 (Label/Header column)
+    Column 1: 695 to 914 (Data column)
+    Column 2: 914 to 1077 (Data column)
+    Column 3: 1077 to 1242 (Data column)
+    Column 4: 1242 to 1407 (Data column)
+    Column 5: 1407 to 1576 (Data column)
+    Column 6: 1576 to 1741 (Data column)
+    Column 7: 1741 to 1905 (Data column)
+    Column 8: 1905 to 2072 (Data column)
+    Column 9: 2072 to 2240 (Data column)
+    Column 10: 2240 to 2402 (Data column)
+    Column 11: 2402 to 2569 (Data column)
+    Column 12: 2569 to 2732 (Data column)
+    Column 13: 2732 to 2734 (Data column)
+    Column 14: 2734 to 2904 (Data column)
+    Column 15: 2904 to 2906 (Data column)
+    Column 16: 2906 to end (Data column)
+
+Table Group 24:
+----------------------------------------------------------------------
+  Pages: 42 to 42 (1 page)
+  Page numbers: [42]
+  Number of columns: 17
+  Column separators at x-positions: [477, 484, 488, 1549, 1714, 1879, 2047, 2210, 2374, 2539, 2707, 2869, 3035, 3198, 3368, 3371]
+
+  Column structure:
+    Column 0: 0 to 477 (Label/Header column)
+    Column 1: 477 to 484 (Data column)
+    Column 2: 484 to 488 (Data column)
+    Column 3: 488 to 1549 (Data column)
+    Column 4: 1549 to 1714 (Data column)
+    Column 5: 1714 to 1879 (Data column)
+    Column 6: 1879 to 2047 (Data column)
+    Column 7: 2047 to 2210 (Data column)
+    Column 8: 2210 to 2374 (Data column)
+    Column 9: 2374 to 2539 (Data column)
+    Column 10: 2539 to 2707 (Data column)
+    Column 11: 2707 to 2869 (Data column)
+    Column 12: 2869 to 3035 (Data column)
+    Column 13: 3035 to 3198 (Data column)
+    Column 14: 3198 to 3368 (Data column)
+    Column 15: 3368 to 3371 (Data column)
+    Column 16: 3371 to end (Data column)
+
+Table Group 25:
+----------------------------------------------------------------------
+  Pages: 43 to 43 (1 page)
+  Page numbers: [43]
+  Number of columns: 16
+  Column separators at x-positions: [695, 914, 1076, 1242, 1407, 1575, 1739, 1905, 2070, 2239, 2402, 2569, 2731, 2901, 2904]
+
+  Column structure:
+    Column 0: 0 to 695 (Label/Header column)
+    Column 1: 695 to 914 (Data column)
+    Column 2: 914 to 1076 (Data column)
+    Column 3: 1076 to 1242 (Data column)
+    Column 4: 1242 to 1407 (Data column)
+    Column 5: 1407 to 1575 (Data column)
+    Column 6: 1575 to 1739 (Data column)
+    Column 7: 1739 to 1905 (Data column)
+    Column 8: 1905 to 2070 (Data column)
+    Column 9: 2070 to 2239 (Data column)
+    Column 10: 2239 to 2402 (Data column)
+    Column 11: 2402 to 2569 (Data column)
+    Column 12: 2569 to 2731 (Data column)
+    Column 13: 2731 to 2901 (Data column)
+    Column 14: 2901 to 2904 (Data column)
+    Column 15: 2904 to end (Data column)
+
+Table Group 26:
+----------------------------------------------------------------------
+  Pages: 44 to 46 (3 pages)
+  Page numbers: [44, 45, 46]
+  Number of columns: 17
+  Column separators at x-positions: [0, 691, 909, 1071, 1236, 1401, 1569, 1734, 1898, 2064, 2232, 2395, 2564, 2728, 2899, 2902]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 691 (Data column)
+    Column 2: 691 to 909 (Data column)
+    Column 3: 909 to 1071 (Data column)
+    Column 4: 1071 to 1236 (Data column)
+    Column 5: 1236 to 1401 (Data column)
+    Column 6: 1401 to 1569 (Data column)
+    Column 7: 1569 to 1734 (Data column)
+    Column 8: 1734 to 1898 (Data column)
+    Column 9: 1898 to 2064 (Data column)
+    Column 10: 2064 to 2232 (Data column)
+    Column 11: 2232 to 2395 (Data column)
+    Column 12: 2395 to 2564 (Data column)
+    Column 13: 2564 to 2728 (Data column)
+    Column 14: 2728 to 2899 (Data column)
+    Column 15: 2899 to 2902 (Data column)
+    Column 16: 2902 to end (Data column)
+
+Table Group 27:
+----------------------------------------------------------------------
+  Pages: 47 to 47 (1 page)
+  Page numbers: [47]
+  Number of columns: 16
+  Column separators at x-positions: [693, 912, 1075, 1240, 1405, 1573, 1738, 1902, 2069, 2237, 2400, 2567, 2729, 2901, 2902]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 912 (Data column)
+    Column 2: 912 to 1075 (Data column)
+    Column 3: 1075 to 1240 (Data column)
+    Column 4: 1240 to 1405 (Data column)
+    Column 5: 1405 to 1573 (Data column)
+    Column 6: 1573 to 1738 (Data column)
+    Column 7: 1738 to 1902 (Data column)
+    Column 8: 1902 to 2069 (Data column)
+    Column 9: 2069 to 2237 (Data column)
+    Column 10: 2237 to 2400 (Data column)
+    Column 11: 2400 to 2567 (Data column)
+    Column 12: 2567 to 2729 (Data column)
+    Column 13: 2729 to 2901 (Data column)
+    Column 14: 2901 to 2902 (Data column)
+    Column 15: 2902 to end (Data column)
+
+Table Group 28:
+----------------------------------------------------------------------
+  Pages: 48 to 48 (1 page)
+  Page numbers: [48]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 909, 1071, 1236, 1400, 1568, 1732, 1896, 2062, 2229, 2392, 2558, 2722, 2891, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 909 (Data column)
+    Column 3: 909 to 1071 (Data column)
+    Column 4: 1071 to 1236 (Data column)
+    Column 5: 1236 to 1400 (Data column)
+    Column 6: 1400 to 1568 (Data column)
+    Column 7: 1568 to 1732 (Data column)
+    Column 8: 1732 to 1896 (Data column)
+    Column 9: 1896 to 2062 (Data column)
+    Column 10: 2062 to 2229 (Data column)
+    Column 11: 2229 to 2392 (Data column)
+    Column 12: 2392 to 2558 (Data column)
+    Column 13: 2558 to 2722 (Data column)
+    Column 14: 2722 to 2891 (Data column)
+    Column 15: 2891 to 2894 (Data column)
+    Column 16: 2894 to end (Data column)
+
+Table Group 29:
+----------------------------------------------------------------------
+  Pages: 49 to 49 (1 page)
+  Page numbers: [49]
+  Number of columns: 16
+  Column separators at x-positions: [692, 912, 1074, 1240, 1404, 1573, 1737, 1901, 2067, 2235, 2398, 2565, 2728, 2898, 2901]
+
+  Column structure:
+    Column 0: 0 to 692 (Label/Header column)
+    Column 1: 692 to 912 (Data column)
+    Column 2: 912 to 1074 (Data column)
+    Column 3: 1074 to 1240 (Data column)
+    Column 4: 1240 to 1404 (Data column)
+    Column 5: 1404 to 1573 (Data column)
+    Column 6: 1573 to 1737 (Data column)
+    Column 7: 1737 to 1901 (Data column)
+    Column 8: 1901 to 2067 (Data column)
+    Column 9: 2067 to 2235 (Data column)
+    Column 10: 2235 to 2398 (Data column)
+    Column 11: 2398 to 2565 (Data column)
+    Column 12: 2565 to 2728 (Data column)
+    Column 13: 2728 to 2898 (Data column)
+    Column 14: 2898 to 2901 (Data column)
+    Column 15: 2901 to end (Data column)
+
+Table Group 30:
+----------------------------------------------------------------------
+  Pages: 50 to 50 (1 page)
+  Page numbers: [50]
+  Number of columns: 18
+  Column separators at x-positions: [0, 2, 690, 909, 1070, 1235, 1400, 1568, 1733, 1896, 2063, 2230, 2394, 2562, 2726, 2899, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 690 (Data column)
+    Column 3: 690 to 909 (Data column)
+    Column 4: 909 to 1070 (Data column)
+    Column 5: 1070 to 1235 (Data column)
+    Column 6: 1235 to 1400 (Data column)
+    Column 7: 1400 to 1568 (Data column)
+    Column 8: 1568 to 1733 (Data column)
+    Column 9: 1733 to 1896 (Data column)
+    Column 10: 1896 to 2063 (Data column)
+    Column 11: 2063 to 2230 (Data column)
+    Column 12: 2230 to 2394 (Data column)
+    Column 13: 2394 to 2562 (Data column)
+    Column 14: 2562 to 2726 (Data column)
+    Column 15: 2726 to 2899 (Data column)
+    Column 16: 2899 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 31:
+----------------------------------------------------------------------
+  Pages: 51 to 53 (3 pages)
+  Page numbers: [51, 52, 53]
+  Number of columns: 18
+  Column separators at x-positions: [1, 695, 838, 1047, 1221, 1399, 1555, 1690, 1820, 1949, 2080, 2215, 2349, 2481, 2613, 2747, 2895]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 695 (Data column)
+    Column 2: 695 to 838 (Data column)
+    Column 3: 838 to 1047 (Data column)
+    Column 4: 1047 to 1221 (Data column)
+    Column 5: 1221 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2080 (Data column)
+    Column 11: 2080 to 2215 (Data column)
+    Column 12: 2215 to 2349 (Data column)
+    Column 13: 2349 to 2481 (Data column)
+    Column 14: 2481 to 2613 (Data column)
+    Column 15: 2613 to 2747 (Data column)
+    Column 16: 2747 to 2895 (Data column)
+    Column 17: 2895 to end (Data column)
+
+Table Group 32:
+----------------------------------------------------------------------
+  Pages: 54 to 54 (1 page)
+  Page numbers: [54]
+  Number of columns: 18
+  Column separators at x-positions: [505, 1201, 1343, 1553, 1727, 1904, 2060, 2193, 2323, 2452, 2582, 2717, 2851, 2984, 3115, 3249, 3395]
+
+  Column structure:
+    Column 0: 0 to 505 (Label/Header column)
+    Column 1: 505 to 1201 (Data column)
+    Column 2: 1201 to 1343 (Data column)
+    Column 3: 1343 to 1553 (Data column)
+    Column 4: 1553 to 1727 (Data column)
+    Column 5: 1727 to 1904 (Data column)
+    Column 6: 1904 to 2060 (Data column)
+    Column 7: 2060 to 2193 (Data column)
+    Column 8: 2193 to 2323 (Data column)
+    Column 9: 2323 to 2452 (Data column)
+    Column 10: 2452 to 2582 (Data column)
+    Column 11: 2582 to 2717 (Data column)
+    Column 12: 2717 to 2851 (Data column)
+    Column 13: 2851 to 2984 (Data column)
+    Column 14: 2984 to 3115 (Data column)
+    Column 15: 3115 to 3249 (Data column)
+    Column 16: 3249 to 3395 (Data column)
+    Column 17: 3395 to end (Data column)
+
+Table Group 33:
+----------------------------------------------------------------------
+  Pages: 55 to 55 (1 page)
+  Page numbers: [55]
+  Number of columns: 17
+  Column separators at x-positions: [3, 811, 1023, 1200, 1361, 1531, 1664, 1797, 1928, 2059, 2191, 2327, 2456, 2587, 2722, 2896]
+
+  Column structure:
+    Column 0: 0 to 3 (Label/Header column)
+    Column 1: 3 to 811 (Data column)
+    Column 2: 811 to 1023 (Data column)
+    Column 3: 1023 to 1200 (Data column)
+    Column 4: 1200 to 1361 (Data column)
+    Column 5: 1361 to 1531 (Data column)
+    Column 6: 1531 to 1664 (Data column)
+    Column 7: 1664 to 1797 (Data column)
+    Column 8: 1797 to 1928 (Data column)
+    Column 9: 1928 to 2059 (Data column)
+    Column 10: 2059 to 2191 (Data column)
+    Column 11: 2191 to 2327 (Data column)
+    Column 12: 2327 to 2456 (Data column)
+    Column 13: 2456 to 2587 (Data column)
+    Column 14: 2587 to 2722 (Data column)
+    Column 15: 2722 to 2896 (Data column)
+    Column 16: 2896 to end (Data column)
+
+Table Group 34:
+----------------------------------------------------------------------
+  Pages: 56 to 56 (1 page)
+  Page numbers: [56]
+  Number of columns: 18
+  Column separators at x-positions: [0, 809, 1019, 1196, 1356, 1527, 1659, 1790, 1923, 2052, 2184, 2319, 2447, 2450, 2579, 2714, 2887]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 809 (Data column)
+    Column 2: 809 to 1019 (Data column)
+    Column 3: 1019 to 1196 (Data column)
+    Column 4: 1196 to 1356 (Data column)
+    Column 5: 1356 to 1527 (Data column)
+    Column 6: 1527 to 1659 (Data column)
+    Column 7: 1659 to 1790 (Data column)
+    Column 8: 1790 to 1923 (Data column)
+    Column 9: 1923 to 2052 (Data column)
+    Column 10: 2052 to 2184 (Data column)
+    Column 11: 2184 to 2319 (Data column)
+    Column 12: 2319 to 2447 (Data column)
+    Column 13: 2447 to 2450 (Data column)
+    Column 14: 2450 to 2579 (Data column)
+    Column 15: 2579 to 2714 (Data column)
+    Column 16: 2714 to 2887 (Data column)
+    Column 17: 2887 to end (Data column)
+
+Table Group 35:
+----------------------------------------------------------------------
+  Pages: 57 to 57 (1 page)
+  Page numbers: [57]
+  Number of columns: 22
+  Column separators at x-positions: [101, 120, 134, 140, 315, 1010, 1151, 1361, 1537, 1714, 1869, 2006, 2135, 2263, 2395, 2528, 2662, 2794, 2926, 3059, 3206]
+
+  Column structure:
+    Column 0: 0 to 101 (Label/Header column)
+    Column 1: 101 to 120 (Data column)
+    Column 2: 120 to 134 (Data column)
+    Column 3: 134 to 140 (Data column)
+    Column 4: 140 to 315 (Data column)
+    Column 5: 315 to 1010 (Data column)
+    Column 6: 1010 to 1151 (Data column)
+    Column 7: 1151 to 1361 (Data column)
+    Column 8: 1361 to 1537 (Data column)
+    Column 9: 1537 to 1714 (Data column)
+    Column 10: 1714 to 1869 (Data column)
+    Column 11: 1869 to 2006 (Data column)
+    Column 12: 2006 to 2135 (Data column)
+    Column 13: 2135 to 2263 (Data column)
+    Column 14: 2263 to 2395 (Data column)
+    Column 15: 2395 to 2528 (Data column)
+    Column 16: 2528 to 2662 (Data column)
+    Column 17: 2662 to 2794 (Data column)
+    Column 18: 2794 to 2926 (Data column)
+    Column 19: 2926 to 3059 (Data column)
+    Column 20: 3059 to 3206 (Data column)
+    Column 21: 3206 to end (Data column)
+
+Table Group 36:
+----------------------------------------------------------------------
+  Pages: 58 to 58 (1 page)
+  Page numbers: [58]
+  Number of columns: 18
+  Column separators at x-positions: [0, 694, 836, 1046, 1220, 1398, 1554, 1689, 1820, 1949, 2081, 2216, 2350, 2483, 2616, 2751, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 836 (Data column)
+    Column 3: 836 to 1046 (Data column)
+    Column 4: 1046 to 1220 (Data column)
+    Column 5: 1220 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1689 (Data column)
+    Column 8: 1689 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2081 (Data column)
+    Column 11: 2081 to 2216 (Data column)
+    Column 12: 2216 to 2350 (Data column)
+    Column 13: 2350 to 2483 (Data column)
+    Column 14: 2483 to 2616 (Data column)
+    Column 15: 2616 to 2751 (Data column)
+    Column 16: 2751 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 37:
+----------------------------------------------------------------------
+  Pages: 59 to 59 (1 page)
+  Page numbers: [59]
+  Number of columns: 16
+  Column separators at x-positions: [695, 914, 1076, 1241, 1406, 1574, 1740, 1904, 2070, 2238, 2400, 2567, 2729, 2900, 2902]
+
+  Column structure:
+    Column 0: 0 to 695 (Label/Header column)
+    Column 1: 695 to 914 (Data column)
+    Column 2: 914 to 1076 (Data column)
+    Column 3: 1076 to 1241 (Data column)
+    Column 4: 1241 to 1406 (Data column)
+    Column 5: 1406 to 1574 (Data column)
+    Column 6: 1574 to 1740 (Data column)
+    Column 7: 1740 to 1904 (Data column)
+    Column 8: 1904 to 2070 (Data column)
+    Column 9: 2070 to 2238 (Data column)
+    Column 10: 2238 to 2400 (Data column)
+    Column 11: 2400 to 2567 (Data column)
+    Column 12: 2567 to 2729 (Data column)
+    Column 13: 2729 to 2900 (Data column)
+    Column 14: 2900 to 2902 (Data column)
+    Column 15: 2902 to end (Data column)
+
+Table Group 38:
+----------------------------------------------------------------------
+  Pages: 60 to 60 (1 page)
+  Page numbers: [60]
+  Number of columns: 19
+  Column separators at x-positions: [476, 481, 484, 1168, 1386, 1548, 1713, 1877, 2044, 2207, 2370, 2535, 2703, 2864, 3031, 3194, 3362, 3367]
+
+  Column structure:
+    Column 0: 0 to 476 (Label/Header column)
+    Column 1: 476 to 481 (Data column)
+    Column 2: 481 to 484 (Data column)
+    Column 3: 484 to 1168 (Data column)
+    Column 4: 1168 to 1386 (Data column)
+    Column 5: 1386 to 1548 (Data column)
+    Column 6: 1548 to 1713 (Data column)
+    Column 7: 1713 to 1877 (Data column)
+    Column 8: 1877 to 2044 (Data column)
+    Column 9: 2044 to 2207 (Data column)
+    Column 10: 2207 to 2370 (Data column)
+    Column 11: 2370 to 2535 (Data column)
+    Column 12: 2535 to 2703 (Data column)
+    Column 13: 2703 to 2864 (Data column)
+    Column 14: 2864 to 3031 (Data column)
+    Column 15: 3031 to 3194 (Data column)
+    Column 16: 3194 to 3362 (Data column)
+    Column 17: 3362 to 3367 (Data column)
+    Column 18: 3367 to end (Data column)
+
+Table Group 39:
+----------------------------------------------------------------------
+  Pages: 61 to 61 (1 page)
+  Page numbers: [61]
+  Number of columns: 16
+  Column separators at x-positions: [690, 908, 1070, 1234, 1399, 1567, 1732, 1896, 2061, 2230, 2392, 2559, 2722, 2893, 2894]
+
+  Column structure:
+    Column 0: 0 to 690 (Label/Header column)
+    Column 1: 690 to 908 (Data column)
+    Column 2: 908 to 1070 (Data column)
+    Column 3: 1070 to 1234 (Data column)
+    Column 4: 1234 to 1399 (Data column)
+    Column 5: 1399 to 1567 (Data column)
+    Column 6: 1567 to 1732 (Data column)
+    Column 7: 1732 to 1896 (Data column)
+    Column 8: 1896 to 2061 (Data column)
+    Column 9: 2061 to 2230 (Data column)
+    Column 10: 2230 to 2392 (Data column)
+    Column 11: 2392 to 2559 (Data column)
+    Column 12: 2559 to 2722 (Data column)
+    Column 13: 2722 to 2893 (Data column)
+    Column 14: 2893 to 2894 (Data column)
+    Column 15: 2894 to end (Data column)
+
+Table Group 40:
+----------------------------------------------------------------------
+  Pages: 62 to 62 (1 page)
+  Page numbers: [62]
+  Number of columns: 16
+  Column separators at x-positions: [3, 694, 912, 1074, 1238, 1403, 1571, 1734, 1899, 2065, 2234, 2397, 2566, 2730, 2901]
+
+  Column structure:
+    Column 0: 0 to 3 (Label/Header column)
+    Column 1: 3 to 694 (Data column)
+    Column 2: 694 to 912 (Data column)
+    Column 3: 912 to 1074 (Data column)
+    Column 4: 1074 to 1238 (Data column)
+    Column 5: 1238 to 1403 (Data column)
+    Column 6: 1403 to 1571 (Data column)
+    Column 7: 1571 to 1734 (Data column)
+    Column 8: 1734 to 1899 (Data column)
+    Column 9: 1899 to 2065 (Data column)
+    Column 10: 2065 to 2234 (Data column)
+    Column 11: 2234 to 2397 (Data column)
+    Column 12: 2397 to 2566 (Data column)
+    Column 13: 2566 to 2730 (Data column)
+    Column 14: 2730 to 2901 (Data column)
+    Column 15: 2901 to end (Data column)
+
+Table Group 41:
+----------------------------------------------------------------------
+  Pages: 63 to 63 (1 page)
+  Page numbers: [63]
+  Number of columns: 17
+  Column separators at x-positions: [693, 912, 915, 1075, 1240, 1405, 1572, 1737, 1901, 2067, 2235, 2397, 2564, 2727, 2898, 2899]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 912 (Data column)
+    Column 2: 912 to 915 (Data column)
+    Column 3: 915 to 1075 (Data column)
+    Column 4: 1075 to 1240 (Data column)
+    Column 5: 1240 to 1405 (Data column)
+    Column 6: 1405 to 1572 (Data column)
+    Column 7: 1572 to 1737 (Data column)
+    Column 8: 1737 to 1901 (Data column)
+    Column 9: 1901 to 2067 (Data column)
+    Column 10: 2067 to 2235 (Data column)
+    Column 11: 2235 to 2397 (Data column)
+    Column 12: 2397 to 2564 (Data column)
+    Column 13: 2564 to 2727 (Data column)
+    Column 14: 2727 to 2898 (Data column)
+    Column 15: 2898 to 2899 (Data column)
+    Column 16: 2899 to end (Data column)
+
+Table Group 42:
+----------------------------------------------------------------------
+  Pages: 64 to 64 (1 page)
+  Page numbers: [64]
+  Number of columns: 17
+  Column separators at x-positions: [0, 690, 909, 1070, 1235, 1399, 1568, 1732, 1896, 2062, 2230, 2393, 2561, 2725, 2896, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 690 (Data column)
+    Column 2: 690 to 909 (Data column)
+    Column 3: 909 to 1070 (Data column)
+    Column 4: 1070 to 1235 (Data column)
+    Column 5: 1235 to 1399 (Data column)
+    Column 6: 1399 to 1568 (Data column)
+    Column 7: 1568 to 1732 (Data column)
+    Column 8: 1732 to 1896 (Data column)
+    Column 9: 1896 to 2062 (Data column)
+    Column 10: 2062 to 2230 (Data column)
+    Column 11: 2230 to 2393 (Data column)
+    Column 12: 2393 to 2561 (Data column)
+    Column 13: 2561 to 2725 (Data column)
+    Column 14: 2725 to 2896 (Data column)
+    Column 15: 2896 to 2899 (Data column)
+    Column 16: 2899 to end (Data column)
+
+Table Group 43:
+----------------------------------------------------------------------
+  Pages: 65 to 65 (1 page)
+  Page numbers: [65]
+  Number of columns: 14
+  Column separators at x-positions: [693, 1074, 1239, 1404, 1572, 1737, 1901, 2067, 2235, 2397, 2563, 2727, 2899]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 1074 (Data column)
+    Column 2: 1074 to 1239 (Data column)
+    Column 3: 1239 to 1404 (Data column)
+    Column 4: 1404 to 1572 (Data column)
+    Column 5: 1572 to 1737 (Data column)
+    Column 6: 1737 to 1901 (Data column)
+    Column 7: 1901 to 2067 (Data column)
+    Column 8: 2067 to 2235 (Data column)
+    Column 9: 2235 to 2397 (Data column)
+    Column 10: 2397 to 2563 (Data column)
+    Column 11: 2563 to 2727 (Data column)
+    Column 12: 2727 to 2899 (Data column)
+    Column 13: 2899 to end (Data column)
+
+Table Group 44:
+----------------------------------------------------------------------
+  Pages: 66 to 66 (1 page)
+  Page numbers: [66]
+  Number of columns: 18
+  Column separators at x-positions: [0, 690, 908, 1069, 1233, 1398, 1566, 1730, 1894, 2061, 2228, 2229, 2391, 2560, 2724, 2896, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 690 (Data column)
+    Column 2: 690 to 908 (Data column)
+    Column 3: 908 to 1069 (Data column)
+    Column 4: 1069 to 1233 (Data column)
+    Column 5: 1233 to 1398 (Data column)
+    Column 6: 1398 to 1566 (Data column)
+    Column 7: 1566 to 1730 (Data column)
+    Column 8: 1730 to 1894 (Data column)
+    Column 9: 1894 to 2061 (Data column)
+    Column 10: 2061 to 2228 (Data column)
+    Column 11: 2228 to 2229 (Data column)
+    Column 12: 2229 to 2391 (Data column)
+    Column 13: 2391 to 2560 (Data column)
+    Column 14: 2560 to 2724 (Data column)
+    Column 15: 2724 to 2896 (Data column)
+    Column 16: 2896 to 2899 (Data column)
+    Column 17: 2899 to end (Data column)
+
+Table Group 45:
+----------------------------------------------------------------------
+  Pages: 67 to 67 (1 page)
+  Page numbers: [67]
+  Number of columns: 13
+  Column separators at x-positions: [1075, 1240, 1404, 1573, 1737, 1902, 2067, 2235, 2398, 2564, 2726, 2895]
+
+  Column structure:
+    Column 0: 0 to 1075 (Label/Header column)
+    Column 1: 1075 to 1240 (Data column)
+    Column 2: 1240 to 1404 (Data column)
+    Column 3: 1404 to 1573 (Data column)
+    Column 4: 1573 to 1737 (Data column)
+    Column 5: 1737 to 1902 (Data column)
+    Column 6: 1902 to 2067 (Data column)
+    Column 7: 2067 to 2235 (Data column)
+    Column 8: 2235 to 2398 (Data column)
+    Column 9: 2398 to 2564 (Data column)
+    Column 10: 2564 to 2726 (Data column)
+    Column 11: 2726 to 2895 (Data column)
+    Column 12: 2895 to end (Data column)
+
+Table Group 46:
+----------------------------------------------------------------------
+  Pages: 68 to 68 (1 page)
+  Page numbers: [68]
+  Number of columns: 17
+  Column separators at x-positions: [0, 690, 908, 1070, 1234, 1398, 1565, 1729, 1893, 2058, 2227, 2389, 2556, 2719, 2889, 2893]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 690 (Data column)
+    Column 2: 690 to 908 (Data column)
+    Column 3: 908 to 1070 (Data column)
+    Column 4: 1070 to 1234 (Data column)
+    Column 5: 1234 to 1398 (Data column)
+    Column 6: 1398 to 1565 (Data column)
+    Column 7: 1565 to 1729 (Data column)
+    Column 8: 1729 to 1893 (Data column)
+    Column 9: 1893 to 2058 (Data column)
+    Column 10: 2058 to 2227 (Data column)
+    Column 11: 2227 to 2389 (Data column)
+    Column 12: 2389 to 2556 (Data column)
+    Column 13: 2556 to 2719 (Data column)
+    Column 14: 2719 to 2889 (Data column)
+    Column 15: 2889 to 2893 (Data column)
+    Column 16: 2893 to end (Data column)
+
+Table Group 47:
+----------------------------------------------------------------------
+  Pages: 69 to 69 (1 page)
+  Page numbers: [69]
+  Number of columns: 16
+  Column separators at x-positions: [692, 911, 1073, 1238, 1403, 1571, 1735, 1901, 2067, 2235, 2397, 2564, 2726, 2897, 2898]
+
+  Column structure:
+    Column 0: 0 to 692 (Label/Header column)
+    Column 1: 692 to 911 (Data column)
+    Column 2: 911 to 1073 (Data column)
+    Column 3: 1073 to 1238 (Data column)
+    Column 4: 1238 to 1403 (Data column)
+    Column 5: 1403 to 1571 (Data column)
+    Column 6: 1571 to 1735 (Data column)
+    Column 7: 1735 to 1901 (Data column)
+    Column 8: 1901 to 2067 (Data column)
+    Column 9: 2067 to 2235 (Data column)
+    Column 10: 2235 to 2397 (Data column)
+    Column 11: 2397 to 2564 (Data column)
+    Column 12: 2564 to 2726 (Data column)
+    Column 13: 2726 to 2897 (Data column)
+    Column 14: 2897 to 2898 (Data column)
+    Column 15: 2898 to end (Data column)
+
+Table Group 48:
+----------------------------------------------------------------------
+  Pages: 70 to 70 (1 page)
+  Page numbers: [70]
+  Number of columns: 18
+  Column separators at x-positions: [0, 692, 834, 1043, 1218, 1395, 1551, 1685, 1815, 1945, 2076, 2211, 2346, 2479, 2612, 2747, 2896]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 834 (Data column)
+    Column 3: 834 to 1043 (Data column)
+    Column 4: 1043 to 1218 (Data column)
+    Column 5: 1218 to 1395 (Data column)
+    Column 6: 1395 to 1551 (Data column)
+    Column 7: 1551 to 1685 (Data column)
+    Column 8: 1685 to 1815 (Data column)
+    Column 9: 1815 to 1945 (Data column)
+    Column 10: 1945 to 2076 (Data column)
+    Column 11: 2076 to 2211 (Data column)
+    Column 12: 2211 to 2346 (Data column)
+    Column 13: 2346 to 2479 (Data column)
+    Column 14: 2479 to 2612 (Data column)
+    Column 15: 2612 to 2747 (Data column)
+    Column 16: 2747 to 2896 (Data column)
+    Column 17: 2896 to end (Data column)
+
+Table Group 49:
+----------------------------------------------------------------------
+  Pages: 71 to 71 (1 page)
+  Page numbers: [71]
+  Number of columns: 15
+  Column separators at x-positions: [2, 698, 1226, 1401, 1557, 1693, 1823, 1952, 2085, 2219, 2354, 2485, 2750, 2898]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 698 (Data column)
+    Column 2: 698 to 1226 (Data column)
+    Column 3: 1226 to 1401 (Data column)
+    Column 4: 1401 to 1557 (Data column)
+    Column 5: 1557 to 1693 (Data column)
+    Column 6: 1693 to 1823 (Data column)
+    Column 7: 1823 to 1952 (Data column)
+    Column 8: 1952 to 2085 (Data column)
+    Column 9: 2085 to 2219 (Data column)
+    Column 10: 2219 to 2354 (Data column)
+    Column 11: 2354 to 2485 (Data column)
+    Column 12: 2485 to 2750 (Data column)
+    Column 13: 2750 to 2898 (Data column)
+    Column 14: 2898 to end (Data column)
+
+Table Group 50:
+----------------------------------------------------------------------
+  Pages: 72 to 72 (1 page)
+  Page numbers: [72]
+  Number of columns: 17
+  Column separators at x-positions: [0, 806, 1017, 1193, 1352, 1522, 1654, 1785, 1917, 2046, 2178, 2312, 2440, 2571, 2706, 2878]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 806 (Data column)
+    Column 2: 806 to 1017 (Data column)
+    Column 3: 1017 to 1193 (Data column)
+    Column 4: 1193 to 1352 (Data column)
+    Column 5: 1352 to 1522 (Data column)
+    Column 6: 1522 to 1654 (Data column)
+    Column 7: 1654 to 1785 (Data column)
+    Column 8: 1785 to 1917 (Data column)
+    Column 9: 1917 to 2046 (Data column)
+    Column 10: 2046 to 2178 (Data column)
+    Column 11: 2178 to 2312 (Data column)
+    Column 12: 2312 to 2440 (Data column)
+    Column 13: 2440 to 2571 (Data column)
+    Column 14: 2571 to 2706 (Data column)
+    Column 15: 2706 to 2878 (Data column)
+    Column 16: 2878 to end (Data column)
+
+Table Group 51:
+----------------------------------------------------------------------
+  Pages: 73 to 73 (1 page)
+  Page numbers: [73]
+  Number of columns: 18
+  Column separators at x-positions: [2, 698, 839, 1049, 1225, 1402, 1558, 1695, 1825, 1954, 2086, 2219, 2354, 2485, 2617, 2750, 2898]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 698 (Data column)
+    Column 2: 698 to 839 (Data column)
+    Column 3: 839 to 1049 (Data column)
+    Column 4: 1049 to 1225 (Data column)
+    Column 5: 1225 to 1402 (Data column)
+    Column 6: 1402 to 1558 (Data column)
+    Column 7: 1558 to 1695 (Data column)
+    Column 8: 1695 to 1825 (Data column)
+    Column 9: 1825 to 1954 (Data column)
+    Column 10: 1954 to 2086 (Data column)
+    Column 11: 2086 to 2219 (Data column)
+    Column 12: 2219 to 2354 (Data column)
+    Column 13: 2354 to 2485 (Data column)
+    Column 14: 2485 to 2617 (Data column)
+    Column 15: 2617 to 2750 (Data column)
+    Column 16: 2750 to 2898 (Data column)
+    Column 17: 2898 to end (Data column)
+
+Table Group 52:
+----------------------------------------------------------------------
+  Pages: 74 to 74 (1 page)
+  Page numbers: [74]
+  Number of columns: 17
+  Column separators at x-positions: [0, 688, 907, 1068, 1233, 1397, 1565, 1729, 1893, 2059, 2227, 2390, 2557, 2719, 2890, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 688 (Data column)
+    Column 2: 688 to 907 (Data column)
+    Column 3: 907 to 1068 (Data column)
+    Column 4: 1068 to 1233 (Data column)
+    Column 5: 1233 to 1397 (Data column)
+    Column 6: 1397 to 1565 (Data column)
+    Column 7: 1565 to 1729 (Data column)
+    Column 8: 1729 to 1893 (Data column)
+    Column 9: 1893 to 2059 (Data column)
+    Column 10: 2059 to 2227 (Data column)
+    Column 11: 2227 to 2390 (Data column)
+    Column 12: 2390 to 2557 (Data column)
+    Column 13: 2557 to 2719 (Data column)
+    Column 14: 2719 to 2890 (Data column)
+    Column 15: 2890 to 2894 (Data column)
+    Column 16: 2894 to end (Data column)
+
+Table Group 53:
+----------------------------------------------------------------------
+  Pages: 75 to 75 (1 page)
+  Page numbers: [75]
+  Number of columns: 16
+  Column separators at x-positions: [1062, 1281, 1442, 1608, 1773, 1941, 2105, 2269, 2435, 2602, 2765, 2932, 3095, 3265, 3269]
+
+  Column structure:
+    Column 0: 0 to 1062 (Label/Header column)
+    Column 1: 1062 to 1281 (Data column)
+    Column 2: 1281 to 1442 (Data column)
+    Column 3: 1442 to 1608 (Data column)
+    Column 4: 1608 to 1773 (Data column)
+    Column 5: 1773 to 1941 (Data column)
+    Column 6: 1941 to 2105 (Data column)
+    Column 7: 2105 to 2269 (Data column)
+    Column 8: 2269 to 2435 (Data column)
+    Column 9: 2435 to 2602 (Data column)
+    Column 10: 2602 to 2765 (Data column)
+    Column 11: 2765 to 2932 (Data column)
+    Column 12: 2932 to 3095 (Data column)
+    Column 13: 3095 to 3265 (Data column)
+    Column 14: 3265 to 3269 (Data column)
+    Column 15: 3269 to end (Data column)
+
+Table Group 54:
+----------------------------------------------------------------------
+  Pages: 76 to 76 (1 page)
+  Page numbers: [76]
+  Number of columns: 16
+  Column separators at x-positions: [693, 911, 1073, 1238, 1403, 1572, 1735, 1900, 2065, 2234, 2397, 2565, 2730, 2901, 2905]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 911 (Data column)
+    Column 2: 911 to 1073 (Data column)
+    Column 3: 1073 to 1238 (Data column)
+    Column 4: 1238 to 1403 (Data column)
+    Column 5: 1403 to 1572 (Data column)
+    Column 6: 1572 to 1735 (Data column)
+    Column 7: 1735 to 1900 (Data column)
+    Column 8: 1900 to 2065 (Data column)
+    Column 9: 2065 to 2234 (Data column)
+    Column 10: 2234 to 2397 (Data column)
+    Column 11: 2397 to 2565 (Data column)
+    Column 12: 2565 to 2730 (Data column)
+    Column 13: 2730 to 2901 (Data column)
+    Column 14: 2901 to 2905 (Data column)
+    Column 15: 2905 to end (Data column)
+
+Table Group 55:
+----------------------------------------------------------------------
+  Pages: 77 to 77 (1 page)
+  Page numbers: [77]
+  Number of columns: 18
+  Column separators at x-positions: [2, 697, 839, 1049, 1225, 1403, 1560, 1696, 1827, 1956, 2088, 2223, 2358, 2490, 2621, 2755, 2904]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 697 (Data column)
+    Column 2: 697 to 839 (Data column)
+    Column 3: 839 to 1049 (Data column)
+    Column 4: 1049 to 1225 (Data column)
+    Column 5: 1225 to 1403 (Data column)
+    Column 6: 1403 to 1560 (Data column)
+    Column 7: 1560 to 1696 (Data column)
+    Column 8: 1696 to 1827 (Data column)
+    Column 9: 1827 to 1956 (Data column)
+    Column 10: 1956 to 2088 (Data column)
+    Column 11: 2088 to 2223 (Data column)
+    Column 12: 2223 to 2358 (Data column)
+    Column 13: 2358 to 2490 (Data column)
+    Column 14: 2490 to 2621 (Data column)
+    Column 15: 2621 to 2755 (Data column)
+    Column 16: 2755 to 2904 (Data column)
+    Column 17: 2904 to end (Data column)
+
+Table Group 56:
+----------------------------------------------------------------------
+  Pages: 78 to 78 (1 page)
+  Page numbers: [78]
+  Number of columns: 17
+  Column separators at x-positions: [368, 1173, 1384, 1560, 1722, 1890, 2022, 2154, 2415, 2810, 2819, 2943, 2945, 2951, 3077, 3085]
+
+  Column structure:
+    Column 0: 0 to 368 (Label/Header column)
+    Column 1: 368 to 1173 (Data column)
+    Column 2: 1173 to 1384 (Data column)
+    Column 3: 1384 to 1560 (Data column)
+    Column 4: 1560 to 1722 (Data column)
+    Column 5: 1722 to 1890 (Data column)
+    Column 6: 1890 to 2022 (Data column)
+    Column 7: 2022 to 2154 (Data column)
+    Column 8: 2154 to 2415 (Data column)
+    Column 9: 2415 to 2810 (Data column)
+    Column 10: 2810 to 2819 (Data column)
+    Column 11: 2819 to 2943 (Data column)
+    Column 12: 2943 to 2945 (Data column)
+    Column 13: 2945 to 2951 (Data column)
+    Column 14: 2951 to 3077 (Data column)
+    Column 15: 3077 to 3085 (Data column)
+    Column 16: 3085 to end (Data column)
+
+Table Group 57:
+----------------------------------------------------------------------
+  Pages: 79 to 79 (1 page)
+  Page numbers: [79]
+  Number of columns: 18
+  Column separators at x-positions: [0, 696, 837, 1047, 1223, 1400, 1556, 1693, 1823, 1952, 2084, 2219, 2353, 2485, 2617, 2751, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 837 (Data column)
+    Column 3: 837 to 1047 (Data column)
+    Column 4: 1047 to 1223 (Data column)
+    Column 5: 1223 to 1400 (Data column)
+    Column 6: 1400 to 1556 (Data column)
+    Column 7: 1556 to 1693 (Data column)
+    Column 8: 1693 to 1823 (Data column)
+    Column 9: 1823 to 1952 (Data column)
+    Column 10: 1952 to 2084 (Data column)
+    Column 11: 2084 to 2219 (Data column)
+    Column 12: 2219 to 2353 (Data column)
+    Column 13: 2353 to 2485 (Data column)
+    Column 14: 2485 to 2617 (Data column)
+    Column 15: 2617 to 2751 (Data column)
+    Column 16: 2751 to 2899 (Data column)
+    Column 17: 2899 to end (Data column)
+
+Table Group 58:
+----------------------------------------------------------------------
+  Pages: 80 to 80 (1 page)
+  Page numbers: [80]
+  Number of columns: 13
+  Column separators at x-positions: [537, 1230, 1448, 1609, 1774, 1940, 2933, 3101, 3263, 3271, 3273, 3433]
+
+  Column structure:
+    Column 0: 0 to 537 (Label/Header column)
+    Column 1: 537 to 1230 (Data column)
+    Column 2: 1230 to 1448 (Data column)
+    Column 3: 1448 to 1609 (Data column)
+    Column 4: 1609 to 1774 (Data column)
+    Column 5: 1774 to 1940 (Data column)
+    Column 6: 1940 to 2933 (Data column)
+    Column 7: 2933 to 3101 (Data column)
+    Column 8: 3101 to 3263 (Data column)
+    Column 9: 3263 to 3271 (Data column)
+    Column 10: 3271 to 3273 (Data column)
+    Column 11: 3273 to 3433 (Data column)
+    Column 12: 3433 to end (Data column)
+
+Table Group 59:
+----------------------------------------------------------------------
+  Pages: 81 to 81 (1 page)
+  Page numbers: [81]
+  Number of columns: 14
+  Column separators at x-positions: [1467, 1644, 1936, 2066, 2195, 2327, 2460, 2595, 2727, 2860, 2862, 2993, 3141]
+
+  Column structure:
+    Column 0: 0 to 1467 (Label/Header column)
+    Column 1: 1467 to 1644 (Data column)
+    Column 2: 1644 to 1936 (Data column)
+    Column 3: 1936 to 2066 (Data column)
+    Column 4: 2066 to 2195 (Data column)
+    Column 5: 2195 to 2327 (Data column)
+    Column 6: 2327 to 2460 (Data column)
+    Column 7: 2460 to 2595 (Data column)
+    Column 8: 2595 to 2727 (Data column)
+    Column 9: 2727 to 2860 (Data column)
+    Column 10: 2860 to 2862 (Data column)
+    Column 11: 2862 to 2993 (Data column)
+    Column 12: 2993 to 3141 (Data column)
+    Column 13: 3141 to end (Data column)
+
+Table Group 60:
+----------------------------------------------------------------------
+  Pages: 82 to 82 (1 page)
+  Page numbers: [82]
+  Number of columns: 18
+  Column separators at x-positions: [0, 694, 836, 1046, 1221, 1399, 1554, 1689, 1820, 1948, 2080, 2214, 2349, 2481, 2613, 2747, 2895]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 836 (Data column)
+    Column 3: 836 to 1046 (Data column)
+    Column 4: 1046 to 1221 (Data column)
+    Column 5: 1221 to 1399 (Data column)
+    Column 6: 1399 to 1554 (Data column)
+    Column 7: 1554 to 1689 (Data column)
+    Column 8: 1689 to 1820 (Data column)
+    Column 9: 1820 to 1948 (Data column)
+    Column 10: 1948 to 2080 (Data column)
+    Column 11: 2080 to 2214 (Data column)
+    Column 12: 2214 to 2349 (Data column)
+    Column 13: 2349 to 2481 (Data column)
+    Column 14: 2481 to 2613 (Data column)
+    Column 15: 2613 to 2747 (Data column)
+    Column 16: 2747 to 2895 (Data column)
+    Column 17: 2895 to end (Data column)
+
+Table Group 61:
+----------------------------------------------------------------------
+  Pages: 83 to 83 (1 page)
+  Page numbers: [83]
+  Number of columns: 17
+  Column separators at x-positions: [0, 700, 1051, 1229, 1405, 1562, 1699, 1830, 1958, 2091, 2225, 2360, 2491, 2623, 2756, 2904]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 700 (Data column)
+    Column 2: 700 to 1051 (Data column)
+    Column 3: 1051 to 1229 (Data column)
+    Column 4: 1229 to 1405 (Data column)
+    Column 5: 1405 to 1562 (Data column)
+    Column 6: 1562 to 1699 (Data column)
+    Column 7: 1699 to 1830 (Data column)
+    Column 8: 1830 to 1958 (Data column)
+    Column 9: 1958 to 2091 (Data column)
+    Column 10: 2091 to 2225 (Data column)
+    Column 11: 2225 to 2360 (Data column)
+    Column 12: 2360 to 2491 (Data column)
+    Column 13: 2491 to 2623 (Data column)
+    Column 14: 2623 to 2756 (Data column)
+    Column 15: 2756 to 2904 (Data column)
+    Column 16: 2904 to end (Data column)
+
+Table Group 62:
+----------------------------------------------------------------------
+  Pages: 84 to 84 (1 page)
+  Page numbers: [84]
+  Number of columns: 17
+  Column separators at x-positions: [0, 809, 1020, 1195, 1356, 1527, 1659, 1790, 1922, 2052, 2184, 2318, 2446, 2579, 2713, 2887]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 809 (Data column)
+    Column 2: 809 to 1020 (Data column)
+    Column 3: 1020 to 1195 (Data column)
+    Column 4: 1195 to 1356 (Data column)
+    Column 5: 1356 to 1527 (Data column)
+    Column 6: 1527 to 1659 (Data column)
+    Column 7: 1659 to 1790 (Data column)
+    Column 8: 1790 to 1922 (Data column)
+    Column 9: 1922 to 2052 (Data column)
+    Column 10: 2052 to 2184 (Data column)
+    Column 11: 2184 to 2318 (Data column)
+    Column 12: 2318 to 2446 (Data column)
+    Column 13: 2446 to 2579 (Data column)
+    Column 14: 2579 to 2713 (Data column)
+    Column 15: 2713 to 2887 (Data column)
+    Column 16: 2887 to end (Data column)
+
+Table Group 63:
+----------------------------------------------------------------------
+  Pages: 85 to 85 (1 page)
+  Page numbers: [85]
+  Number of columns: 18
+  Column separators at x-positions: [368, 1064, 1205, 1415, 1590, 1767, 1923, 2059, 2188, 2317, 2448, 2582, 2717, 2849, 2982, 3114, 3262]
+
+  Column structure:
+    Column 0: 0 to 368 (Label/Header column)
+    Column 1: 368 to 1064 (Data column)
+    Column 2: 1064 to 1205 (Data column)
+    Column 3: 1205 to 1415 (Data column)
+    Column 4: 1415 to 1590 (Data column)
+    Column 5: 1590 to 1767 (Data column)
+    Column 6: 1767 to 1923 (Data column)
+    Column 7: 1923 to 2059 (Data column)
+    Column 8: 2059 to 2188 (Data column)
+    Column 9: 2188 to 2317 (Data column)
+    Column 10: 2317 to 2448 (Data column)
+    Column 11: 2448 to 2582 (Data column)
+    Column 12: 2582 to 2717 (Data column)
+    Column 13: 2717 to 2849 (Data column)
+    Column 14: 2849 to 2982 (Data column)
+    Column 15: 2982 to 3114 (Data column)
+    Column 16: 3114 to 3262 (Data column)
+    Column 17: 3262 to end (Data column)
+
+Table Group 64:
+----------------------------------------------------------------------
+  Pages: 86 to 86 (1 page)
+  Page numbers: [86]
+  Number of columns: 18
+  Column separators at x-positions: [0, 2, 692, 911, 1073, 1238, 1403, 1571, 1735, 1900, 2066, 2234, 2397, 2564, 2728, 2898, 2901]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 692 (Data column)
+    Column 3: 692 to 911 (Data column)
+    Column 4: 911 to 1073 (Data column)
+    Column 5: 1073 to 1238 (Data column)
+    Column 6: 1238 to 1403 (Data column)
+    Column 7: 1403 to 1571 (Data column)
+    Column 8: 1571 to 1735 (Data column)
+    Column 9: 1735 to 1900 (Data column)
+    Column 10: 1900 to 2066 (Data column)
+    Column 11: 2066 to 2234 (Data column)
+    Column 12: 2234 to 2397 (Data column)
+    Column 13: 2397 to 2564 (Data column)
+    Column 14: 2564 to 2728 (Data column)
+    Column 15: 2728 to 2898 (Data column)
+    Column 16: 2898 to 2901 (Data column)
+    Column 17: 2901 to end (Data column)
+
+Table Group 65:
+----------------------------------------------------------------------
+  Pages: 87 to 87 (1 page)
+  Page numbers: [87]
+  Number of columns: 18
+  Column separators at x-positions: [366, 372, 1060, 1279, 1441, 1607, 1772, 1941, 2106, 2270, 2437, 2605, 2769, 2936, 3098, 3269, 3273]
+
+  Column structure:
+    Column 0: 0 to 366 (Label/Header column)
+    Column 1: 366 to 372 (Data column)
+    Column 2: 372 to 1060 (Data column)
+    Column 3: 1060 to 1279 (Data column)
+    Column 4: 1279 to 1441 (Data column)
+    Column 5: 1441 to 1607 (Data column)
+    Column 6: 1607 to 1772 (Data column)
+    Column 7: 1772 to 1941 (Data column)
+    Column 8: 1941 to 2106 (Data column)
+    Column 9: 2106 to 2270 (Data column)
+    Column 10: 2270 to 2437 (Data column)
+    Column 11: 2437 to 2605 (Data column)
+    Column 12: 2605 to 2769 (Data column)
+    Column 13: 2769 to 2936 (Data column)
+    Column 14: 2936 to 3098 (Data column)
+    Column 15: 3098 to 3269 (Data column)
+    Column 16: 3269 to 3273 (Data column)
+    Column 17: 3273 to end (Data column)
+
+Table Group 66:
+----------------------------------------------------------------------
+  Pages: 88 to 88 (1 page)
+  Page numbers: [88]
+  Number of columns: 9
+  Column separators at x-positions: [513, 1206, 1427, 1586, 1750, 1916, 3078, 3410]
+
+  Column structure:
+    Column 0: 0 to 513 (Label/Header column)
+    Column 1: 513 to 1206 (Data column)
+    Column 2: 1206 to 1427 (Data column)
+    Column 3: 1427 to 1586 (Data column)
+    Column 4: 1586 to 1750 (Data column)
+    Column 5: 1750 to 1916 (Data column)
+    Column 6: 1916 to 3078 (Data column)
+    Column 7: 3078 to 3410 (Data column)
+    Column 8: 3410 to end (Data column)
+
+Table Group 67:
+----------------------------------------------------------------------
+  Pages: 89 to 89 (1 page)
+  Page numbers: [89]
+  Number of columns: 15
+  Column separators at x-positions: [695, 913, 1076, 1241, 1406, 1574, 1740, 1904, 2070, 2238, 2401, 2568, 2732, 2904]
+
+  Column structure:
+    Column 0: 0 to 695 (Label/Header column)
+    Column 1: 695 to 913 (Data column)
+    Column 2: 913 to 1076 (Data column)
+    Column 3: 1076 to 1241 (Data column)
+    Column 4: 1241 to 1406 (Data column)
+    Column 5: 1406 to 1574 (Data column)
+    Column 6: 1574 to 1740 (Data column)
+    Column 7: 1740 to 1904 (Data column)
+    Column 8: 1904 to 2070 (Data column)
+    Column 9: 2070 to 2238 (Data column)
+    Column 10: 2238 to 2401 (Data column)
+    Column 11: 2401 to 2568 (Data column)
+    Column 12: 2568 to 2732 (Data column)
+    Column 13: 2732 to 2904 (Data column)
+    Column 14: 2904 to end (Data column)
+
+Table Group 68:
+----------------------------------------------------------------------
+  Pages: 90 to 90 (1 page)
+  Page numbers: [90]
+  Number of columns: 12
+  Column separators at x-positions: [477, 478, 1168, 1387, 1548, 1713, 2384, 3039, 3047, 3373, 3387]
+
+  Column structure:
+    Column 0: 0 to 477 (Label/Header column)
+    Column 1: 477 to 478 (Data column)
+    Column 2: 478 to 1168 (Data column)
+    Column 3: 1168 to 1387 (Data column)
+    Column 4: 1387 to 1548 (Data column)
+    Column 5: 1548 to 1713 (Data column)
+    Column 6: 1713 to 2384 (Data column)
+    Column 7: 2384 to 3039 (Data column)
+    Column 8: 3039 to 3047 (Data column)
+    Column 9: 3047 to 3373 (Data column)
+    Column 10: 3373 to 3387 (Data column)
+    Column 11: 3387 to end (Data column)
+
+Table Group 69:
+----------------------------------------------------------------------
+  Pages: 91 to 93 (3 pages)
+  Page numbers: [91, 92, 93]
+  Number of columns: 18
+  Column separators at x-positions: [1, 697, 839, 1049, 1225, 1403, 1559, 1696, 1826, 1955, 2087, 2222, 2357, 2488, 2620, 2753, 2902]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 697 (Data column)
+    Column 2: 697 to 839 (Data column)
+    Column 3: 839 to 1049 (Data column)
+    Column 4: 1049 to 1225 (Data column)
+    Column 5: 1225 to 1403 (Data column)
+    Column 6: 1403 to 1559 (Data column)
+    Column 7: 1559 to 1696 (Data column)
+    Column 8: 1696 to 1826 (Data column)
+    Column 9: 1826 to 1955 (Data column)
+    Column 10: 1955 to 2087 (Data column)
+    Column 11: 2087 to 2222 (Data column)
+    Column 12: 2222 to 2357 (Data column)
+    Column 13: 2357 to 2488 (Data column)
+    Column 14: 2488 to 2620 (Data column)
+    Column 15: 2620 to 2753 (Data column)
+    Column 16: 2753 to 2902 (Data column)
+    Column 17: 2902 to end (Data column)
+
+Table Group 70:
+----------------------------------------------------------------------
+  Pages: 94 to 94 (1 page)
+  Page numbers: [94]
+  Number of columns: 17
+  Column separators at x-positions: [0, 808, 1018, 1194, 1355, 1527, 1659, 1790, 1924, 2053, 2186, 2322, 2453, 2586, 2722, 2895]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 808 (Data column)
+    Column 2: 808 to 1018 (Data column)
+    Column 3: 1018 to 1194 (Data column)
+    Column 4: 1194 to 1355 (Data column)
+    Column 5: 1355 to 1527 (Data column)
+    Column 6: 1527 to 1659 (Data column)
+    Column 7: 1659 to 1790 (Data column)
+    Column 8: 1790 to 1924 (Data column)
+    Column 9: 1924 to 2053 (Data column)
+    Column 10: 2053 to 2186 (Data column)
+    Column 11: 2186 to 2322 (Data column)
+    Column 12: 2322 to 2453 (Data column)
+    Column 13: 2453 to 2586 (Data column)
+    Column 14: 2586 to 2722 (Data column)
+    Column 15: 2722 to 2895 (Data column)
+    Column 16: 2895 to end (Data column)
+
+Table Group 71:
+----------------------------------------------------------------------
+  Pages: 95 to 95 (1 page)
+  Page numbers: [95]
+  Number of columns: 14
+  Column separators at x-positions: [1508, 1684, 1687, 1977, 2106, 2235, 2368, 2501, 2636, 2769, 2900, 3033, 3182]
+
+  Column structure:
+    Column 0: 0 to 1508 (Label/Header column)
+    Column 1: 1508 to 1684 (Data column)
+    Column 2: 1684 to 1687 (Data column)
+    Column 3: 1687 to 1977 (Data column)
+    Column 4: 1977 to 2106 (Data column)
+    Column 5: 2106 to 2235 (Data column)
+    Column 6: 2235 to 2368 (Data column)
+    Column 7: 2368 to 2501 (Data column)
+    Column 8: 2501 to 2636 (Data column)
+    Column 9: 2636 to 2769 (Data column)
+    Column 10: 2769 to 2900 (Data column)
+    Column 11: 2900 to 3033 (Data column)
+    Column 12: 3033 to 3182 (Data column)
+    Column 13: 3182 to end (Data column)
+
+Table Group 72:
+----------------------------------------------------------------------
+  Pages: 96 to 96 (1 page)
+  Page numbers: [96]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 912, 1074, 1239, 1405, 1573, 1738, 1902, 2069, 2237, 2401, 2569, 2734, 2906, 2908]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 912 (Data column)
+    Column 3: 912 to 1074 (Data column)
+    Column 4: 1074 to 1239 (Data column)
+    Column 5: 1239 to 1405 (Data column)
+    Column 6: 1405 to 1573 (Data column)
+    Column 7: 1573 to 1738 (Data column)
+    Column 8: 1738 to 1902 (Data column)
+    Column 9: 1902 to 2069 (Data column)
+    Column 10: 2069 to 2237 (Data column)
+    Column 11: 2237 to 2401 (Data column)
+    Column 12: 2401 to 2569 (Data column)
+    Column 13: 2569 to 2734 (Data column)
+    Column 14: 2734 to 2906 (Data column)
+    Column 15: 2906 to 2908 (Data column)
+    Column 16: 2908 to end (Data column)
+
+Table Group 73:
+----------------------------------------------------------------------
+  Pages: 97 to 97 (1 page)
+  Page numbers: [97]
+  Number of columns: 15
+  Column separators at x-positions: [696, 915, 1078, 1243, 1409, 1578, 1743, 1907, 2074, 2243, 2405, 2572, 2736, 2908]
+
+  Column structure:
+    Column 0: 0 to 696 (Label/Header column)
+    Column 1: 696 to 915 (Data column)
+    Column 2: 915 to 1078 (Data column)
+    Column 3: 1078 to 1243 (Data column)
+    Column 4: 1243 to 1409 (Data column)
+    Column 5: 1409 to 1578 (Data column)
+    Column 6: 1578 to 1743 (Data column)
+    Column 7: 1743 to 1907 (Data column)
+    Column 8: 1907 to 2074 (Data column)
+    Column 9: 2074 to 2243 (Data column)
+    Column 10: 2243 to 2405 (Data column)
+    Column 11: 2405 to 2572 (Data column)
+    Column 12: 2572 to 2736 (Data column)
+    Column 13: 2736 to 2908 (Data column)
+    Column 14: 2908 to end (Data column)
+
+Table Group 74:
+----------------------------------------------------------------------
+  Pages: 98 to 98 (1 page)
+  Page numbers: [98]
+  Number of columns: 20
+  Column separators at x-positions: [0, 693, 912, 1073, 1075, 1239, 1240, 1404, 1573, 1574, 1738, 1903, 2069, 2238, 2401, 2570, 2735, 2906, 2910]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 912 (Data column)
+    Column 3: 912 to 1073 (Data column)
+    Column 4: 1073 to 1075 (Data column)
+    Column 5: 1075 to 1239 (Data column)
+    Column 6: 1239 to 1240 (Data column)
+    Column 7: 1240 to 1404 (Data column)
+    Column 8: 1404 to 1573 (Data column)
+    Column 9: 1573 to 1574 (Data column)
+    Column 10: 1574 to 1738 (Data column)
+    Column 11: 1738 to 1903 (Data column)
+    Column 12: 1903 to 2069 (Data column)
+    Column 13: 2069 to 2238 (Data column)
+    Column 14: 2238 to 2401 (Data column)
+    Column 15: 2401 to 2570 (Data column)
+    Column 16: 2570 to 2735 (Data column)
+    Column 17: 2735 to 2906 (Data column)
+    Column 18: 2906 to 2910 (Data column)
+    Column 19: 2910 to end (Data column)
+
+Table Group 75:
+----------------------------------------------------------------------
+  Pages: 99 to 99 (1 page)
+  Page numbers: [99]
+  Number of columns: 13
+  Column separators at x-positions: [1077, 1243, 1408, 1577, 1743, 1907, 2074, 2242, 2405, 2572, 2735, 2907]
+
+  Column structure:
+    Column 0: 0 to 1077 (Label/Header column)
+    Column 1: 1077 to 1243 (Data column)
+    Column 2: 1243 to 1408 (Data column)
+    Column 3: 1408 to 1577 (Data column)
+    Column 4: 1577 to 1743 (Data column)
+    Column 5: 1743 to 1907 (Data column)
+    Column 6: 1907 to 2074 (Data column)
+    Column 7: 2074 to 2242 (Data column)
+    Column 8: 2242 to 2405 (Data column)
+    Column 9: 2405 to 2572 (Data column)
+    Column 10: 2572 to 2735 (Data column)
+    Column 11: 2735 to 2907 (Data column)
+    Column 12: 2907 to end (Data column)
+
+Table Group 76:
+----------------------------------------------------------------------
+  Pages: 100 to 100 (1 page)
+  Page numbers: [100]
+  Number of columns: 9
+  Column separators at x-positions: [482, 1173, 1393, 1553, 1718, 1882, 3375, 3389]
+
+  Column structure:
+    Column 0: 0 to 482 (Label/Header column)
+    Column 1: 482 to 1173 (Data column)
+    Column 2: 1173 to 1393 (Data column)
+    Column 3: 1393 to 1553 (Data column)
+    Column 4: 1553 to 1718 (Data column)
+    Column 5: 1718 to 1882 (Data column)
+    Column 6: 1882 to 3375 (Data column)
+    Column 7: 3375 to 3389 (Data column)
+    Column 8: 3389 to end (Data column)
+
+Table Group 77:
+----------------------------------------------------------------------
+  Pages: 101 to 102 (2 pages)
+  Page numbers: [101, 102]
+  Number of columns: 18
+  Column separators at x-positions: [0, 694, 837, 1046, 1221, 1398, 1554, 1688, 1819, 1948, 2079, 2214, 2348, 2481, 2613, 2747, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1221 (Data column)
+    Column 5: 1221 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1688 (Data column)
+    Column 8: 1688 to 1819 (Data column)
+    Column 9: 1819 to 1948 (Data column)
+    Column 10: 1948 to 2079 (Data column)
+    Column 11: 2079 to 2214 (Data column)
+    Column 12: 2214 to 2348 (Data column)
+    Column 13: 2348 to 2481 (Data column)
+    Column 14: 2481 to 2613 (Data column)
+    Column 15: 2613 to 2747 (Data column)
+    Column 16: 2747 to 2894 (Data column)
+    Column 17: 2894 to end (Data column)
+
+Table Group 78:
+----------------------------------------------------------------------
+  Pages: 103 to 103 (1 page)
+  Page numbers: [103]
+  Number of columns: 17
+  Column separators at x-positions: [3, 812, 1025, 1201, 1361, 1532, 1665, 1797, 1931, 2060, 2193, 2328, 2457, 2589, 2724, 2898]
+
+  Column structure:
+    Column 0: 0 to 3 (Label/Header column)
+    Column 1: 3 to 812 (Data column)
+    Column 2: 812 to 1025 (Data column)
+    Column 3: 1025 to 1201 (Data column)
+    Column 4: 1201 to 1361 (Data column)
+    Column 5: 1361 to 1532 (Data column)
+    Column 6: 1532 to 1665 (Data column)
+    Column 7: 1665 to 1797 (Data column)
+    Column 8: 1797 to 1931 (Data column)
+    Column 9: 1931 to 2060 (Data column)
+    Column 10: 2060 to 2193 (Data column)
+    Column 11: 2193 to 2328 (Data column)
+    Column 12: 2328 to 2457 (Data column)
+    Column 13: 2457 to 2589 (Data column)
+    Column 14: 2589 to 2724 (Data column)
+    Column 15: 2724 to 2898 (Data column)
+    Column 16: 2898 to end (Data column)
+
+Table Group 79:
+----------------------------------------------------------------------
+  Pages: 104 to 104 (1 page)
+  Page numbers: [104]
+  Number of columns: 18
+  Column separators at x-positions: [0, 693, 836, 1046, 1221, 1398, 1554, 1690, 1820, 1949, 2079, 2214, 2348, 2481, 2612, 2746, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 836 (Data column)
+    Column 3: 836 to 1046 (Data column)
+    Column 4: 1046 to 1221 (Data column)
+    Column 5: 1221 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2079 (Data column)
+    Column 11: 2079 to 2214 (Data column)
+    Column 12: 2214 to 2348 (Data column)
+    Column 13: 2348 to 2481 (Data column)
+    Column 14: 2481 to 2612 (Data column)
+    Column 15: 2612 to 2746 (Data column)
+    Column 16: 2746 to 2894 (Data column)
+    Column 17: 2894 to end (Data column)
+
+Table Group 80:
+----------------------------------------------------------------------
+  Pages: 105 to 105 (1 page)
+  Page numbers: [105]
+  Number of columns: 18
+  Column separators at x-positions: [367, 370, 1059, 1277, 1438, 1603, 1768, 1935, 2099, 2263, 2428, 2596, 2759, 2927, 3089, 3259, 3266]
+
+  Column structure:
+    Column 0: 0 to 367 (Label/Header column)
+    Column 1: 367 to 370 (Data column)
+    Column 2: 370 to 1059 (Data column)
+    Column 3: 1059 to 1277 (Data column)
+    Column 4: 1277 to 1438 (Data column)
+    Column 5: 1438 to 1603 (Data column)
+    Column 6: 1603 to 1768 (Data column)
+    Column 7: 1768 to 1935 (Data column)
+    Column 8: 1935 to 2099 (Data column)
+    Column 9: 2099 to 2263 (Data column)
+    Column 10: 2263 to 2428 (Data column)
+    Column 11: 2428 to 2596 (Data column)
+    Column 12: 2596 to 2759 (Data column)
+    Column 13: 2759 to 2927 (Data column)
+    Column 14: 2927 to 3089 (Data column)
+    Column 15: 3089 to 3259 (Data column)
+    Column 16: 3259 to 3266 (Data column)
+    Column 17: 3266 to end (Data column)
+
+Table Group 81:
+----------------------------------------------------------------------
+  Pages: 106 to 107 (2 pages)
+  Page numbers: [106, 107]
+  Number of columns: 17
+  Column separators at x-positions: [0, 694, 911, 1074, 1240, 1404, 1573, 1737, 1901, 2067, 2236, 2399, 2566, 2729, 2900, 2903]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 911 (Data column)
+    Column 3: 911 to 1074 (Data column)
+    Column 4: 1074 to 1240 (Data column)
+    Column 5: 1240 to 1404 (Data column)
+    Column 6: 1404 to 1573 (Data column)
+    Column 7: 1573 to 1737 (Data column)
+    Column 8: 1737 to 1901 (Data column)
+    Column 9: 1901 to 2067 (Data column)
+    Column 10: 2067 to 2236 (Data column)
+    Column 11: 2236 to 2399 (Data column)
+    Column 12: 2399 to 2566 (Data column)
+    Column 13: 2566 to 2729 (Data column)
+    Column 14: 2729 to 2900 (Data column)
+    Column 15: 2900 to 2903 (Data column)
+    Column 16: 2903 to end (Data column)
+
+Table Group 82:
+----------------------------------------------------------------------
+  Pages: 108 to 109 (2 pages)
+  Page numbers: [108, 109]
+  Number of columns: 18
+  Column separators at x-positions: [0, 693, 835, 1044, 1219, 1396, 1552, 1687, 1818, 1947, 2077, 2212, 2347, 2479, 2612, 2745, 2893]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 835 (Data column)
+    Column 3: 835 to 1044 (Data column)
+    Column 4: 1044 to 1219 (Data column)
+    Column 5: 1219 to 1396 (Data column)
+    Column 6: 1396 to 1552 (Data column)
+    Column 7: 1552 to 1687 (Data column)
+    Column 8: 1687 to 1818 (Data column)
+    Column 9: 1818 to 1947 (Data column)
+    Column 10: 1947 to 2077 (Data column)
+    Column 11: 2077 to 2212 (Data column)
+    Column 12: 2212 to 2347 (Data column)
+    Column 13: 2347 to 2479 (Data column)
+    Column 14: 2479 to 2612 (Data column)
+    Column 15: 2612 to 2745 (Data column)
+    Column 16: 2745 to 2893 (Data column)
+    Column 17: 2893 to end (Data column)
+
+Table Group 83:
+----------------------------------------------------------------------
+  Pages: 110 to 110 (1 page)
+  Page numbers: [110]
+  Number of columns: 17
+  Column separators at x-positions: [0, 810, 1021, 1197, 1358, 1529, 1661, 1792, 1925, 2054, 2187, 2323, 2454, 2586, 2720, 2891]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 810 (Data column)
+    Column 2: 810 to 1021 (Data column)
+    Column 3: 1021 to 1197 (Data column)
+    Column 4: 1197 to 1358 (Data column)
+    Column 5: 1358 to 1529 (Data column)
+    Column 6: 1529 to 1661 (Data column)
+    Column 7: 1661 to 1792 (Data column)
+    Column 8: 1792 to 1925 (Data column)
+    Column 9: 1925 to 2054 (Data column)
+    Column 10: 2054 to 2187 (Data column)
+    Column 11: 2187 to 2323 (Data column)
+    Column 12: 2323 to 2454 (Data column)
+    Column 13: 2454 to 2586 (Data column)
+    Column 14: 2586 to 2720 (Data column)
+    Column 15: 2720 to 2891 (Data column)
+    Column 16: 2891 to end (Data column)
+
+Table Group 84:
+----------------------------------------------------------------------
+  Pages: 111 to 111 (1 page)
+  Page numbers: [111]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 837, 1046, 1220, 1398, 1554, 1690, 1820, 1950, 2081, 2215, 2350, 2483, 2615, 2749, 2897]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1220 (Data column)
+    Column 5: 1220 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1950 (Data column)
+    Column 10: 1950 to 2081 (Data column)
+    Column 11: 2081 to 2215 (Data column)
+    Column 12: 2215 to 2350 (Data column)
+    Column 13: 2350 to 2483 (Data column)
+    Column 14: 2483 to 2615 (Data column)
+    Column 15: 2615 to 2749 (Data column)
+    Column 16: 2749 to 2897 (Data column)
+    Column 17: 2897 to end (Data column)
+
+Table Group 85:
+----------------------------------------------------------------------
+  Pages: 112 to 112 (1 page)
+  Page numbers: [112]
+  Number of columns: 17
+  Column separators at x-positions: [0, 694, 913, 1074, 1240, 1405, 1574, 1739, 1903, 2070, 2239, 2403, 2572, 2737, 2908, 2910]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 913 (Data column)
+    Column 3: 913 to 1074 (Data column)
+    Column 4: 1074 to 1240 (Data column)
+    Column 5: 1240 to 1405 (Data column)
+    Column 6: 1405 to 1574 (Data column)
+    Column 7: 1574 to 1739 (Data column)
+    Column 8: 1739 to 1903 (Data column)
+    Column 9: 1903 to 2070 (Data column)
+    Column 10: 2070 to 2239 (Data column)
+    Column 11: 2239 to 2403 (Data column)
+    Column 12: 2403 to 2572 (Data column)
+    Column 13: 2572 to 2737 (Data column)
+    Column 14: 2737 to 2908 (Data column)
+    Column 15: 2908 to 2910 (Data column)
+    Column 16: 2910 to end (Data column)
+
+Table Group 86:
+----------------------------------------------------------------------
+  Pages: 113 to 113 (1 page)
+  Page numbers: [113]
+  Number of columns: 16
+  Column separators at x-positions: [1057, 1276, 1439, 1604, 1768, 1936, 2100, 2264, 2430, 2598, 2761, 2929, 3091, 3262, 3270]
+
+  Column structure:
+    Column 0: 0 to 1057 (Label/Header column)
+    Column 1: 1057 to 1276 (Data column)
+    Column 2: 1276 to 1439 (Data column)
+    Column 3: 1439 to 1604 (Data column)
+    Column 4: 1604 to 1768 (Data column)
+    Column 5: 1768 to 1936 (Data column)
+    Column 6: 1936 to 2100 (Data column)
+    Column 7: 2100 to 2264 (Data column)
+    Column 8: 2264 to 2430 (Data column)
+    Column 9: 2430 to 2598 (Data column)
+    Column 10: 2598 to 2761 (Data column)
+    Column 11: 2761 to 2929 (Data column)
+    Column 12: 2929 to 3091 (Data column)
+    Column 13: 3091 to 3262 (Data column)
+    Column 14: 3262 to 3270 (Data column)
+    Column 15: 3270 to end (Data column)
+
+Table Group 87:
+----------------------------------------------------------------------
+  Pages: 114 to 115 (2 pages)
+  Page numbers: [114, 115]
+  Number of columns: 18
+  Column separators at x-positions: [1, 695, 837, 1046, 1222, 1399, 1555, 1691, 1821, 1949, 2081, 2215, 2349, 2482, 2614, 2748, 2895]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1691 (Data column)
+    Column 8: 1691 to 1821 (Data column)
+    Column 9: 1821 to 1949 (Data column)
+    Column 10: 1949 to 2081 (Data column)
+    Column 11: 2081 to 2215 (Data column)
+    Column 12: 2215 to 2349 (Data column)
+    Column 13: 2349 to 2482 (Data column)
+    Column 14: 2482 to 2614 (Data column)
+    Column 15: 2614 to 2748 (Data column)
+    Column 16: 2748 to 2895 (Data column)
+    Column 17: 2895 to end (Data column)
+
+Table Group 88:
+----------------------------------------------------------------------
+  Pages: 116 to 116 (1 page)
+  Page numbers: [116]
+  Number of columns: 17
+  Column separators at x-positions: [0, 809, 1019, 1195, 1355, 1526, 1659, 1791, 1924, 2053, 2186, 2322, 2453, 2587, 2722, 2895]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 809 (Data column)
+    Column 2: 809 to 1019 (Data column)
+    Column 3: 1019 to 1195 (Data column)
+    Column 4: 1195 to 1355 (Data column)
+    Column 5: 1355 to 1526 (Data column)
+    Column 6: 1526 to 1659 (Data column)
+    Column 7: 1659 to 1791 (Data column)
+    Column 8: 1791 to 1924 (Data column)
+    Column 9: 1924 to 2053 (Data column)
+    Column 10: 2053 to 2186 (Data column)
+    Column 11: 2186 to 2322 (Data column)
+    Column 12: 2322 to 2453 (Data column)
+    Column 13: 2453 to 2587 (Data column)
+    Column 14: 2587 to 2722 (Data column)
+    Column 15: 2722 to 2895 (Data column)
+    Column 16: 2895 to end (Data column)
+
+Table Group 89:
+----------------------------------------------------------------------
+  Pages: 117 to 117 (1 page)
+  Page numbers: [117]
+  Number of columns: 19
+  Column separators at x-positions: [143, 281, 978, 1119, 1329, 1505, 1682, 1838, 1973, 2103, 2232, 2363, 2498, 2631, 2764, 2896, 3030, 3177]
+
+  Column structure:
+    Column 0: 0 to 143 (Label/Header column)
+    Column 1: 143 to 281 (Data column)
+    Column 2: 281 to 978 (Data column)
+    Column 3: 978 to 1119 (Data column)
+    Column 4: 1119 to 1329 (Data column)
+    Column 5: 1329 to 1505 (Data column)
+    Column 6: 1505 to 1682 (Data column)
+    Column 7: 1682 to 1838 (Data column)
+    Column 8: 1838 to 1973 (Data column)
+    Column 9: 1973 to 2103 (Data column)
+    Column 10: 2103 to 2232 (Data column)
+    Column 11: 2232 to 2363 (Data column)
+    Column 12: 2363 to 2498 (Data column)
+    Column 13: 2498 to 2631 (Data column)
+    Column 14: 2631 to 2764 (Data column)
+    Column 15: 2764 to 2896 (Data column)
+    Column 16: 2896 to 3030 (Data column)
+    Column 17: 3030 to 3177 (Data column)
+    Column 18: 3177 to end (Data column)
+
+Table Group 90:
+----------------------------------------------------------------------
+  Pages: 118 to 118 (1 page)
+  Page numbers: [118]
+  Number of columns: 17
+  Column separators at x-positions: [0, 691, 910, 1072, 1237, 1403, 1572, 1737, 1901, 2068, 2237, 2401, 2570, 2735, 2906, 2910]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 691 (Data column)
+    Column 2: 691 to 910 (Data column)
+    Column 3: 910 to 1072 (Data column)
+    Column 4: 1072 to 1237 (Data column)
+    Column 5: 1237 to 1403 (Data column)
+    Column 6: 1403 to 1572 (Data column)
+    Column 7: 1572 to 1737 (Data column)
+    Column 8: 1737 to 1901 (Data column)
+    Column 9: 1901 to 2068 (Data column)
+    Column 10: 2068 to 2237 (Data column)
+    Column 11: 2237 to 2401 (Data column)
+    Column 12: 2401 to 2570 (Data column)
+    Column 13: 2570 to 2735 (Data column)
+    Column 14: 2735 to 2906 (Data column)
+    Column 15: 2906 to 2910 (Data column)
+    Column 16: 2910 to end (Data column)
+
+Table Group 91:
+----------------------------------------------------------------------
+  Pages: 119 to 119 (1 page)
+  Page numbers: [119]
+  Number of columns: 18
+  Column separators at x-positions: [226, 232, 922, 1140, 1302, 1468, 1634, 1802, 1968, 2131, 2298, 2466, 2629, 2797, 2958, 3129, 3135]
+
+  Column structure:
+    Column 0: 0 to 226 (Label/Header column)
+    Column 1: 226 to 232 (Data column)
+    Column 2: 232 to 922 (Data column)
+    Column 3: 922 to 1140 (Data column)
+    Column 4: 1140 to 1302 (Data column)
+    Column 5: 1302 to 1468 (Data column)
+    Column 6: 1468 to 1634 (Data column)
+    Column 7: 1634 to 1802 (Data column)
+    Column 8: 1802 to 1968 (Data column)
+    Column 9: 1968 to 2131 (Data column)
+    Column 10: 2131 to 2298 (Data column)
+    Column 11: 2298 to 2466 (Data column)
+    Column 12: 2466 to 2629 (Data column)
+    Column 13: 2629 to 2797 (Data column)
+    Column 14: 2797 to 2958 (Data column)
+    Column 15: 2958 to 3129 (Data column)
+    Column 16: 3129 to 3135 (Data column)
+    Column 17: 3135 to end (Data column)
+
+Table Group 92:
+----------------------------------------------------------------------
+  Pages: 120 to 120 (1 page)
+  Page numbers: [120]
+  Number of columns: 18
+  Column separators at x-positions: [0, 2, 693, 911, 1074, 1239, 1403, 1572, 1735, 1900, 2066, 2235, 2399, 2566, 2729, 2899, 2902]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 693 (Data column)
+    Column 3: 693 to 911 (Data column)
+    Column 4: 911 to 1074 (Data column)
+    Column 5: 1074 to 1239 (Data column)
+    Column 6: 1239 to 1403 (Data column)
+    Column 7: 1403 to 1572 (Data column)
+    Column 8: 1572 to 1735 (Data column)
+    Column 9: 1735 to 1900 (Data column)
+    Column 10: 1900 to 2066 (Data column)
+    Column 11: 2066 to 2235 (Data column)
+    Column 12: 2235 to 2399 (Data column)
+    Column 13: 2399 to 2566 (Data column)
+    Column 14: 2566 to 2729 (Data column)
+    Column 15: 2729 to 2899 (Data column)
+    Column 16: 2899 to 2902 (Data column)
+    Column 17: 2902 to end (Data column)
+
+Table Group 93:
+----------------------------------------------------------------------
+  Pages: 121 to 122 (2 pages)
+  Page numbers: [121, 122]
+  Number of columns: 18
+  Column separators at x-positions: [0, 696, 837, 1046, 1222, 1400, 1556, 1692, 1822, 1950, 2082, 2216, 2351, 2484, 2615, 2749, 2898]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1222 (Data column)
+    Column 5: 1222 to 1400 (Data column)
+    Column 6: 1400 to 1556 (Data column)
+    Column 7: 1556 to 1692 (Data column)
+    Column 8: 1692 to 1822 (Data column)
+    Column 9: 1822 to 1950 (Data column)
+    Column 10: 1950 to 2082 (Data column)
+    Column 11: 2082 to 2216 (Data column)
+    Column 12: 2216 to 2351 (Data column)
+    Column 13: 2351 to 2484 (Data column)
+    Column 14: 2484 to 2615 (Data column)
+    Column 15: 2615 to 2749 (Data column)
+    Column 16: 2749 to 2898 (Data column)
+    Column 17: 2898 to end (Data column)
+
+Table Group 94:
+----------------------------------------------------------------------
+  Pages: 123 to 123 (1 page)
+  Page numbers: [123]
+  Number of columns: 16
+  Column separators at x-positions: [2, 809, 1020, 1196, 1356, 1527, 1658, 1791, 1923, 2053, 2185, 2320, 2449, 2715, 2889]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 809 (Data column)
+    Column 2: 809 to 1020 (Data column)
+    Column 3: 1020 to 1196 (Data column)
+    Column 4: 1196 to 1356 (Data column)
+    Column 5: 1356 to 1527 (Data column)
+    Column 6: 1527 to 1658 (Data column)
+    Column 7: 1658 to 1791 (Data column)
+    Column 8: 1791 to 1923 (Data column)
+    Column 9: 1923 to 2053 (Data column)
+    Column 10: 2053 to 2185 (Data column)
+    Column 11: 2185 to 2320 (Data column)
+    Column 12: 2320 to 2449 (Data column)
+    Column 13: 2449 to 2715 (Data column)
+    Column 14: 2715 to 2889 (Data column)
+    Column 15: 2889 to end (Data column)
+
+Table Group 95:
+----------------------------------------------------------------------
+  Pages: 124 to 124 (1 page)
+  Page numbers: [124]
+  Number of columns: 18
+  Column separators at x-positions: [0, 697, 838, 1048, 1224, 1401, 1556, 1692, 1822, 1951, 2083, 2218, 2353, 2486, 2619, 2754, 2902]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 697 (Data column)
+    Column 2: 697 to 838 (Data column)
+    Column 3: 838 to 1048 (Data column)
+    Column 4: 1048 to 1224 (Data column)
+    Column 5: 1224 to 1401 (Data column)
+    Column 6: 1401 to 1556 (Data column)
+    Column 7: 1556 to 1692 (Data column)
+    Column 8: 1692 to 1822 (Data column)
+    Column 9: 1822 to 1951 (Data column)
+    Column 10: 1951 to 2083 (Data column)
+    Column 11: 2083 to 2218 (Data column)
+    Column 12: 2218 to 2353 (Data column)
+    Column 13: 2353 to 2486 (Data column)
+    Column 14: 2486 to 2619 (Data column)
+    Column 15: 2619 to 2754 (Data column)
+    Column 16: 2754 to 2902 (Data column)
+    Column 17: 2902 to end (Data column)
+
+Table Group 96:
+----------------------------------------------------------------------
+  Pages: 125 to 125 (1 page)
+  Page numbers: [125]
+  Number of columns: 18
+  Column separators at x-positions: [451, 456, 1144, 1364, 1524, 1691, 1856, 2024, 2189, 2354, 2520, 2688, 2851, 3018, 3180, 3352, 3355]
+
+  Column structure:
+    Column 0: 0 to 451 (Label/Header column)
+    Column 1: 451 to 456 (Data column)
+    Column 2: 456 to 1144 (Data column)
+    Column 3: 1144 to 1364 (Data column)
+    Column 4: 1364 to 1524 (Data column)
+    Column 5: 1524 to 1691 (Data column)
+    Column 6: 1691 to 1856 (Data column)
+    Column 7: 1856 to 2024 (Data column)
+    Column 8: 2024 to 2189 (Data column)
+    Column 9: 2189 to 2354 (Data column)
+    Column 10: 2354 to 2520 (Data column)
+    Column 11: 2520 to 2688 (Data column)
+    Column 12: 2688 to 2851 (Data column)
+    Column 13: 2851 to 3018 (Data column)
+    Column 14: 3018 to 3180 (Data column)
+    Column 15: 3180 to 3352 (Data column)
+    Column 16: 3352 to 3355 (Data column)
+    Column 17: 3355 to end (Data column)
+
+Table Group 97:
+----------------------------------------------------------------------
+  Pages: 126 to 126 (1 page)
+  Page numbers: [126]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 911, 1072, 1237, 1402, 1571, 1735, 1900, 2066, 2234, 2398, 2566, 2732, 2903, 2907]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 911 (Data column)
+    Column 3: 911 to 1072 (Data column)
+    Column 4: 1072 to 1237 (Data column)
+    Column 5: 1237 to 1402 (Data column)
+    Column 6: 1402 to 1571 (Data column)
+    Column 7: 1571 to 1735 (Data column)
+    Column 8: 1735 to 1900 (Data column)
+    Column 9: 1900 to 2066 (Data column)
+    Column 10: 2066 to 2234 (Data column)
+    Column 11: 2234 to 2398 (Data column)
+    Column 12: 2398 to 2566 (Data column)
+    Column 13: 2566 to 2732 (Data column)
+    Column 14: 2732 to 2903 (Data column)
+    Column 15: 2903 to 2907 (Data column)
+    Column 16: 2907 to end (Data column)
+
+Table Group 98:
+----------------------------------------------------------------------
+  Pages: 127 to 127 (1 page)
+  Page numbers: [127]
+  Number of columns: 18
+  Column separators at x-positions: [0, 696, 915, 1077, 1242, 1408, 1577, 1741, 1742, 1906, 2073, 2241, 2404, 2572, 2735, 2907, 2909]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 915 (Data column)
+    Column 3: 915 to 1077 (Data column)
+    Column 4: 1077 to 1242 (Data column)
+    Column 5: 1242 to 1408 (Data column)
+    Column 6: 1408 to 1577 (Data column)
+    Column 7: 1577 to 1741 (Data column)
+    Column 8: 1741 to 1742 (Data column)
+    Column 9: 1742 to 1906 (Data column)
+    Column 10: 1906 to 2073 (Data column)
+    Column 11: 2073 to 2241 (Data column)
+    Column 12: 2241 to 2404 (Data column)
+    Column 13: 2404 to 2572 (Data column)
+    Column 14: 2572 to 2735 (Data column)
+    Column 15: 2735 to 2907 (Data column)
+    Column 16: 2907 to 2909 (Data column)
+    Column 17: 2909 to end (Data column)
+
+Table Group 99:
+----------------------------------------------------------------------
+  Pages: 128 to 130 (3 pages)
+  Page numbers: [128, 129, 130]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 837, 1046, 1221, 1399, 1555, 1692, 1822, 1951, 2082, 2217, 2352, 2484, 2617, 2751, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1221 (Data column)
+    Column 5: 1221 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1692 (Data column)
+    Column 8: 1692 to 1822 (Data column)
+    Column 9: 1822 to 1951 (Data column)
+    Column 10: 1951 to 2082 (Data column)
+    Column 11: 2082 to 2217 (Data column)
+    Column 12: 2217 to 2352 (Data column)
+    Column 13: 2352 to 2484 (Data column)
+    Column 14: 2484 to 2617 (Data column)
+    Column 15: 2617 to 2751 (Data column)
+    Column 16: 2751 to 2899 (Data column)
+    Column 17: 2899 to end (Data column)
+
+Table Group 100:
+----------------------------------------------------------------------
+  Pages: 131 to 131 (1 page)
+  Page numbers: [131]
+  Number of columns: 17
+  Column separators at x-positions: [0, 807, 1018, 1193, 1353, 1524, 1657, 1789, 1922, 2051, 2183, 2318, 2447, 2580, 2714, 2887]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 807 (Data column)
+    Column 2: 807 to 1018 (Data column)
+    Column 3: 1018 to 1193 (Data column)
+    Column 4: 1193 to 1353 (Data column)
+    Column 5: 1353 to 1524 (Data column)
+    Column 6: 1524 to 1657 (Data column)
+    Column 7: 1657 to 1789 (Data column)
+    Column 8: 1789 to 1922 (Data column)
+    Column 9: 1922 to 2051 (Data column)
+    Column 10: 2051 to 2183 (Data column)
+    Column 11: 2183 to 2318 (Data column)
+    Column 12: 2318 to 2447 (Data column)
+    Column 13: 2447 to 2580 (Data column)
+    Column 14: 2580 to 2714 (Data column)
+    Column 15: 2714 to 2887 (Data column)
+    Column 16: 2887 to end (Data column)
+
+Table Group 101:
+----------------------------------------------------------------------
+  Pages: 132 to 132 (1 page)
+  Page numbers: [132]
+  Number of columns: 18
+  Column separators at x-positions: [0, 696, 838, 1047, 1222, 1399, 1555, 1691, 1820, 1949, 2080, 2215, 2350, 2482, 2614, 2747, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 838 (Data column)
+    Column 3: 838 to 1047 (Data column)
+    Column 4: 1047 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1691 (Data column)
+    Column 8: 1691 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2080 (Data column)
+    Column 11: 2080 to 2215 (Data column)
+    Column 12: 2215 to 2350 (Data column)
+    Column 13: 2350 to 2482 (Data column)
+    Column 14: 2482 to 2614 (Data column)
+    Column 15: 2614 to 2747 (Data column)
+    Column 16: 2747 to 2894 (Data column)
+    Column 17: 2894 to end (Data column)
+
+Table Group 102:
+----------------------------------------------------------------------
+  Pages: 133 to 133 (1 page)
+  Page numbers: [133]
+  Number of columns: 16
+  Column separators at x-positions: [698, 918, 1080, 1246, 1411, 1580, 1745, 1910, 2077, 2245, 2408, 2575, 2738, 2910, 2911]
+
+  Column structure:
+    Column 0: 0 to 698 (Label/Header column)
+    Column 1: 698 to 918 (Data column)
+    Column 2: 918 to 1080 (Data column)
+    Column 3: 1080 to 1246 (Data column)
+    Column 4: 1246 to 1411 (Data column)
+    Column 5: 1411 to 1580 (Data column)
+    Column 6: 1580 to 1745 (Data column)
+    Column 7: 1745 to 1910 (Data column)
+    Column 8: 1910 to 2077 (Data column)
+    Column 9: 2077 to 2245 (Data column)
+    Column 10: 2245 to 2408 (Data column)
+    Column 11: 2408 to 2575 (Data column)
+    Column 12: 2575 to 2738 (Data column)
+    Column 13: 2738 to 2910 (Data column)
+    Column 14: 2910 to 2911 (Data column)
+    Column 15: 2911 to end (Data column)
+
+Table Group 103:
+----------------------------------------------------------------------
+  Pages: 134 to 136 (3 pages)
+  Page numbers: [134, 135, 136]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 912, 1073, 1238, 1403, 1571, 1736, 1900, 2066, 2235, 2398, 2566, 2731, 2902, 2904]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 912 (Data column)
+    Column 3: 912 to 1073 (Data column)
+    Column 4: 1073 to 1238 (Data column)
+    Column 5: 1238 to 1403 (Data column)
+    Column 6: 1403 to 1571 (Data column)
+    Column 7: 1571 to 1736 (Data column)
+    Column 8: 1736 to 1900 (Data column)
+    Column 9: 1900 to 2066 (Data column)
+    Column 10: 2066 to 2235 (Data column)
+    Column 11: 2235 to 2398 (Data column)
+    Column 12: 2398 to 2566 (Data column)
+    Column 13: 2566 to 2731 (Data column)
+    Column 14: 2731 to 2902 (Data column)
+    Column 15: 2902 to 2904 (Data column)
+    Column 16: 2904 to end (Data column)
+
+Table Group 104:
+----------------------------------------------------------------------
+  Pages: 137 to 137 (1 page)
+  Page numbers: [137]
+  Number of columns: 18
+  Column separators at x-positions: [417, 1114, 1254, 1465, 1641, 1818, 1974, 2109, 2239, 2368, 2499, 2634, 2768, 2899, 3032, 3165, 3312]
+
+  Column structure:
+    Column 0: 0 to 417 (Label/Header column)
+    Column 1: 417 to 1114 (Data column)
+    Column 2: 1114 to 1254 (Data column)
+    Column 3: 1254 to 1465 (Data column)
+    Column 4: 1465 to 1641 (Data column)
+    Column 5: 1641 to 1818 (Data column)
+    Column 6: 1818 to 1974 (Data column)
+    Column 7: 1974 to 2109 (Data column)
+    Column 8: 2109 to 2239 (Data column)
+    Column 9: 2239 to 2368 (Data column)
+    Column 10: 2368 to 2499 (Data column)
+    Column 11: 2499 to 2634 (Data column)
+    Column 12: 2634 to 2768 (Data column)
+    Column 13: 2768 to 2899 (Data column)
+    Column 14: 2899 to 3032 (Data column)
+    Column 15: 3032 to 3165 (Data column)
+    Column 16: 3165 to 3312 (Data column)
+    Column 17: 3312 to end (Data column)
+
+Table Group 105:
+----------------------------------------------------------------------
+  Pages: 138 to 138 (1 page)
+  Page numbers: [138]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 836, 1046, 1222, 1399, 1554, 1690, 1820, 1949, 2080, 2214, 2349, 2481, 2613, 2747, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 836 (Data column)
+    Column 3: 836 to 1046 (Data column)
+    Column 4: 1046 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1554 (Data column)
+    Column 7: 1554 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2080 (Data column)
+    Column 11: 2080 to 2214 (Data column)
+    Column 12: 2214 to 2349 (Data column)
+    Column 13: 2349 to 2481 (Data column)
+    Column 14: 2481 to 2613 (Data column)
+    Column 15: 2613 to 2747 (Data column)
+    Column 16: 2747 to 2894 (Data column)
+    Column 17: 2894 to end (Data column)
+
+Table Group 106:
+----------------------------------------------------------------------
+  Pages: 139 to 139 (1 page)
+  Page numbers: [139]
+  Number of columns: 3
+  Column separators at x-positions: [2359, 2902]
+
+  Column structure:
+    Column 0: 0 to 2359 (Label/Header column)
+    Column 1: 2359 to 2902 (Data column)
+    Column 2: 2902 to end (Data column)
+
+Table Group 107:
+----------------------------------------------------------------------
+  Pages: 140 to 140 (1 page)
+  Page numbers: [140]
+  Number of columns: 17
+  Column separators at x-positions: [0, 809, 1019, 1193, 1353, 1524, 1657, 1788, 1921, 2049, 2181, 2317, 2447, 2579, 2713, 2885]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 809 (Data column)
+    Column 2: 809 to 1019 (Data column)
+    Column 3: 1019 to 1193 (Data column)
+    Column 4: 1193 to 1353 (Data column)
+    Column 5: 1353 to 1524 (Data column)
+    Column 6: 1524 to 1657 (Data column)
+    Column 7: 1657 to 1788 (Data column)
+    Column 8: 1788 to 1921 (Data column)
+    Column 9: 1921 to 2049 (Data column)
+    Column 10: 2049 to 2181 (Data column)
+    Column 11: 2181 to 2317 (Data column)
+    Column 12: 2317 to 2447 (Data column)
+    Column 13: 2447 to 2579 (Data column)
+    Column 14: 2579 to 2713 (Data column)
+    Column 15: 2713 to 2885 (Data column)
+    Column 16: 2885 to end (Data column)
+
+Table Group 108:
+----------------------------------------------------------------------
+  Pages: 141 to 141 (1 page)
+  Page numbers: [141]
+  Number of columns: 18
+  Column separators at x-positions: [2, 698, 841, 1051, 1227, 1405, 1561, 1697, 1828, 1957, 2088, 2223, 2358, 2490, 2621, 2755, 2904]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 698 (Data column)
+    Column 2: 698 to 841 (Data column)
+    Column 3: 841 to 1051 (Data column)
+    Column 4: 1051 to 1227 (Data column)
+    Column 5: 1227 to 1405 (Data column)
+    Column 6: 1405 to 1561 (Data column)
+    Column 7: 1561 to 1697 (Data column)
+    Column 8: 1697 to 1828 (Data column)
+    Column 9: 1828 to 1957 (Data column)
+    Column 10: 1957 to 2088 (Data column)
+    Column 11: 2088 to 2223 (Data column)
+    Column 12: 2223 to 2358 (Data column)
+    Column 13: 2358 to 2490 (Data column)
+    Column 14: 2490 to 2621 (Data column)
+    Column 15: 2621 to 2755 (Data column)
+    Column 16: 2755 to 2904 (Data column)
+    Column 17: 2904 to end (Data column)
+
+Table Group 109:
+----------------------------------------------------------------------
+  Pages: 142 to 143 (2 pages)
+  Page numbers: [142, 143]
+  Number of columns: 16
+  Column separators at x-positions: [693, 912, 1074, 1239, 1404, 1572, 1736, 1901, 2066, 2235, 2397, 2564, 2727, 2898, 2900]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 912 (Data column)
+    Column 2: 912 to 1074 (Data column)
+    Column 3: 1074 to 1239 (Data column)
+    Column 4: 1239 to 1404 (Data column)
+    Column 5: 1404 to 1572 (Data column)
+    Column 6: 1572 to 1736 (Data column)
+    Column 7: 1736 to 1901 (Data column)
+    Column 8: 1901 to 2066 (Data column)
+    Column 9: 2066 to 2235 (Data column)
+    Column 10: 2235 to 2397 (Data column)
+    Column 11: 2397 to 2564 (Data column)
+    Column 12: 2564 to 2727 (Data column)
+    Column 13: 2727 to 2898 (Data column)
+    Column 14: 2898 to 2900 (Data column)
+    Column 15: 2900 to end (Data column)
+
+Table Group 110:
+----------------------------------------------------------------------
+  Pages: 144 to 144 (1 page)
+  Page numbers: [144]
+  Number of columns: 18
+  Column separators at x-positions: [0, 3, 691, 909, 1070, 1235, 1400, 1567, 1731, 1895, 2061, 2229, 2391, 2559, 2722, 2892, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 3 (Data column)
+    Column 2: 3 to 691 (Data column)
+    Column 3: 691 to 909 (Data column)
+    Column 4: 909 to 1070 (Data column)
+    Column 5: 1070 to 1235 (Data column)
+    Column 6: 1235 to 1400 (Data column)
+    Column 7: 1400 to 1567 (Data column)
+    Column 8: 1567 to 1731 (Data column)
+    Column 9: 1731 to 1895 (Data column)
+    Column 10: 1895 to 2061 (Data column)
+    Column 11: 2061 to 2229 (Data column)
+    Column 12: 2229 to 2391 (Data column)
+    Column 13: 2391 to 2559 (Data column)
+    Column 14: 2559 to 2722 (Data column)
+    Column 15: 2722 to 2892 (Data column)
+    Column 16: 2892 to 2894 (Data column)
+    Column 17: 2894 to end (Data column)
+
+Table Group 111:
+----------------------------------------------------------------------
+  Pages: 145 to 145 (1 page)
+  Page numbers: [145]
+  Number of columns: 16
+  Column separators at x-positions: [692, 910, 1072, 1236, 1401, 1568, 1733, 1896, 2062, 2230, 2392, 2559, 2723, 2893, 2896]
+
+  Column structure:
+    Column 0: 0 to 692 (Label/Header column)
+    Column 1: 692 to 910 (Data column)
+    Column 2: 910 to 1072 (Data column)
+    Column 3: 1072 to 1236 (Data column)
+    Column 4: 1236 to 1401 (Data column)
+    Column 5: 1401 to 1568 (Data column)
+    Column 6: 1568 to 1733 (Data column)
+    Column 7: 1733 to 1896 (Data column)
+    Column 8: 1896 to 2062 (Data column)
+    Column 9: 2062 to 2230 (Data column)
+    Column 10: 2230 to 2392 (Data column)
+    Column 11: 2392 to 2559 (Data column)
+    Column 12: 2559 to 2723 (Data column)
+    Column 13: 2723 to 2893 (Data column)
+    Column 14: 2893 to 2896 (Data column)
+    Column 15: 2896 to end (Data column)
+
+Table Group 112:
+----------------------------------------------------------------------
+  Pages: 146 to 148 (3 pages)
+  Page numbers: [146, 147, 148]
+  Number of columns: 18
+  Column separators at x-positions: [0, 696, 838, 1047, 1222, 1399, 1555, 1691, 1822, 1950, 2082, 2216, 2351, 2484, 2616, 2750, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 838 (Data column)
+    Column 3: 838 to 1047 (Data column)
+    Column 4: 1047 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1691 (Data column)
+    Column 8: 1691 to 1822 (Data column)
+    Column 9: 1822 to 1950 (Data column)
+    Column 10: 1950 to 2082 (Data column)
+    Column 11: 2082 to 2216 (Data column)
+    Column 12: 2216 to 2351 (Data column)
+    Column 13: 2351 to 2484 (Data column)
+    Column 14: 2484 to 2616 (Data column)
+    Column 15: 2616 to 2750 (Data column)
+    Column 16: 2750 to 2899 (Data column)
+    Column 17: 2899 to end (Data column)
+
+Table Group 113:
+----------------------------------------------------------------------
+  Pages: 149 to 149 (1 page)
+  Page numbers: [149]
+  Number of columns: 17
+  Column separators at x-positions: [3, 810, 1021, 1196, 1356, 1528, 1661, 1792, 1925, 2054, 2187, 2322, 2451, 2584, 2719, 2891]
+
+  Column structure:
+    Column 0: 0 to 3 (Label/Header column)
+    Column 1: 3 to 810 (Data column)
+    Column 2: 810 to 1021 (Data column)
+    Column 3: 1021 to 1196 (Data column)
+    Column 4: 1196 to 1356 (Data column)
+    Column 5: 1356 to 1528 (Data column)
+    Column 6: 1528 to 1661 (Data column)
+    Column 7: 1661 to 1792 (Data column)
+    Column 8: 1792 to 1925 (Data column)
+    Column 9: 1925 to 2054 (Data column)
+    Column 10: 2054 to 2187 (Data column)
+    Column 11: 2187 to 2322 (Data column)
+    Column 12: 2322 to 2451 (Data column)
+    Column 13: 2451 to 2584 (Data column)
+    Column 14: 2584 to 2719 (Data column)
+    Column 15: 2719 to 2891 (Data column)
+    Column 16: 2891 to end (Data column)
+
+Table Group 114:
+----------------------------------------------------------------------
+  Pages: 150 to 150 (1 page)
+  Page numbers: [150]
+  Number of columns: 18
+  Column separators at x-positions: [0, 694, 836, 1045, 1221, 1398, 1555, 1690, 1821, 1950, 2081, 2216, 2351, 2484, 2617, 2752, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 836 (Data column)
+    Column 3: 836 to 1045 (Data column)
+    Column 4: 1045 to 1221 (Data column)
+    Column 5: 1221 to 1398 (Data column)
+    Column 6: 1398 to 1555 (Data column)
+    Column 7: 1555 to 1690 (Data column)
+    Column 8: 1690 to 1821 (Data column)
+    Column 9: 1821 to 1950 (Data column)
+    Column 10: 1950 to 2081 (Data column)
+    Column 11: 2081 to 2216 (Data column)
+    Column 12: 2216 to 2351 (Data column)
+    Column 13: 2351 to 2484 (Data column)
+    Column 14: 2484 to 2617 (Data column)
+    Column 15: 2617 to 2752 (Data column)
+    Column 16: 2752 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 115:
+----------------------------------------------------------------------
+  Pages: 151 to 151 (1 page)
+  Page numbers: [151]
+  Number of columns: 16
+  Column separators at x-positions: [694, 913, 1075, 1241, 1406, 1575, 1740, 1904, 2071, 2240, 2403, 2570, 2733, 2904, 2905]
+
+  Column structure:
+    Column 0: 0 to 694 (Label/Header column)
+    Column 1: 694 to 913 (Data column)
+    Column 2: 913 to 1075 (Data column)
+    Column 3: 1075 to 1241 (Data column)
+    Column 4: 1241 to 1406 (Data column)
+    Column 5: 1406 to 1575 (Data column)
+    Column 6: 1575 to 1740 (Data column)
+    Column 7: 1740 to 1904 (Data column)
+    Column 8: 1904 to 2071 (Data column)
+    Column 9: 2071 to 2240 (Data column)
+    Column 10: 2240 to 2403 (Data column)
+    Column 11: 2403 to 2570 (Data column)
+    Column 12: 2570 to 2733 (Data column)
+    Column 13: 2733 to 2904 (Data column)
+    Column 14: 2904 to 2905 (Data column)
+    Column 15: 2905 to end (Data column)
+
+Table Group 116:
+----------------------------------------------------------------------
+  Pages: 152 to 152 (1 page)
+  Page numbers: [152]
+  Number of columns: 17
+  Column separators at x-positions: [0, 691, 910, 1072, 1237, 1402, 1571, 1735, 1899, 2066, 2234, 2398, 2566, 2731, 2902, 2904]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 691 (Data column)
+    Column 2: 691 to 910 (Data column)
+    Column 3: 910 to 1072 (Data column)
+    Column 4: 1072 to 1237 (Data column)
+    Column 5: 1237 to 1402 (Data column)
+    Column 6: 1402 to 1571 (Data column)
+    Column 7: 1571 to 1735 (Data column)
+    Column 8: 1735 to 1899 (Data column)
+    Column 9: 1899 to 2066 (Data column)
+    Column 10: 2066 to 2234 (Data column)
+    Column 11: 2234 to 2398 (Data column)
+    Column 12: 2398 to 2566 (Data column)
+    Column 13: 2566 to 2731 (Data column)
+    Column 14: 2731 to 2902 (Data column)
+    Column 15: 2902 to 2904 (Data column)
+    Column 16: 2904 to end (Data column)
+
+Table Group 117:
+----------------------------------------------------------------------
+  Pages: 153 to 153 (1 page)
+  Page numbers: [153]
+  Number of columns: 19
+  Column separators at x-positions: [134, 312, 318, 1005, 1224, 1387, 1552, 1718, 1886, 2051, 2214, 2380, 2548, 2711, 2878, 3040, 3211, 3215]
+
+  Column structure:
+    Column 0: 0 to 134 (Label/Header column)
+    Column 1: 134 to 312 (Data column)
+    Column 2: 312 to 318 (Data column)
+    Column 3: 318 to 1005 (Data column)
+    Column 4: 1005 to 1224 (Data column)
+    Column 5: 1224 to 1387 (Data column)
+    Column 6: 1387 to 1552 (Data column)
+    Column 7: 1552 to 1718 (Data column)
+    Column 8: 1718 to 1886 (Data column)
+    Column 9: 1886 to 2051 (Data column)
+    Column 10: 2051 to 2214 (Data column)
+    Column 11: 2214 to 2380 (Data column)
+    Column 12: 2380 to 2548 (Data column)
+    Column 13: 2548 to 2711 (Data column)
+    Column 14: 2711 to 2878 (Data column)
+    Column 15: 2878 to 3040 (Data column)
+    Column 16: 3040 to 3211 (Data column)
+    Column 17: 3211 to 3215 (Data column)
+    Column 18: 3215 to end (Data column)
+
+Table Group 118:
+----------------------------------------------------------------------
+  Pages: 154 to 154 (1 page)
+  Page numbers: [154]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 910, 1072, 1237, 1402, 1570, 1735, 1899, 2066, 2234, 2397, 2566, 2731, 2903, 2905]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 910 (Data column)
+    Column 3: 910 to 1072 (Data column)
+    Column 4: 1072 to 1237 (Data column)
+    Column 5: 1237 to 1402 (Data column)
+    Column 6: 1402 to 1570 (Data column)
+    Column 7: 1570 to 1735 (Data column)
+    Column 8: 1735 to 1899 (Data column)
+    Column 9: 1899 to 2066 (Data column)
+    Column 10: 2066 to 2234 (Data column)
+    Column 11: 2234 to 2397 (Data column)
+    Column 12: 2397 to 2566 (Data column)
+    Column 13: 2566 to 2731 (Data column)
+    Column 14: 2731 to 2903 (Data column)
+    Column 15: 2903 to 2905 (Data column)
+    Column 16: 2905 to end (Data column)
+
+Table Group 119:
+----------------------------------------------------------------------
+  Pages: 155 to 155 (1 page)
+  Page numbers: [155]
+  Number of columns: 18
+  Column separators at x-positions: [0, 698, 840, 1049, 1225, 1403, 1560, 1696, 1826, 1955, 2086, 2221, 2356, 2487, 2619, 2753, 2901]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 698 (Data column)
+    Column 2: 698 to 840 (Data column)
+    Column 3: 840 to 1049 (Data column)
+    Column 4: 1049 to 1225 (Data column)
+    Column 5: 1225 to 1403 (Data column)
+    Column 6: 1403 to 1560 (Data column)
+    Column 7: 1560 to 1696 (Data column)
+    Column 8: 1696 to 1826 (Data column)
+    Column 9: 1826 to 1955 (Data column)
+    Column 10: 1955 to 2086 (Data column)
+    Column 11: 2086 to 2221 (Data column)
+    Column 12: 2221 to 2356 (Data column)
+    Column 13: 2356 to 2487 (Data column)
+    Column 14: 2487 to 2619 (Data column)
+    Column 15: 2619 to 2753 (Data column)
+    Column 16: 2753 to 2901 (Data column)
+    Column 17: 2901 to end (Data column)
+
+Table Group 120:
+----------------------------------------------------------------------
+  Pages: 156 to 156 (1 page)
+  Page numbers: [156]
+  Number of columns: 16
+  Column separators at x-positions: [366, 1172, 1383, 1560, 1720, 1889, 2021, 2152, 2284, 2413, 2544, 2679, 2943, 3077, 3250]
+
+  Column structure:
+    Column 0: 0 to 366 (Label/Header column)
+    Column 1: 366 to 1172 (Data column)
+    Column 2: 1172 to 1383 (Data column)
+    Column 3: 1383 to 1560 (Data column)
+    Column 4: 1560 to 1720 (Data column)
+    Column 5: 1720 to 1889 (Data column)
+    Column 6: 1889 to 2021 (Data column)
+    Column 7: 2021 to 2152 (Data column)
+    Column 8: 2152 to 2284 (Data column)
+    Column 9: 2284 to 2413 (Data column)
+    Column 10: 2413 to 2544 (Data column)
+    Column 11: 2544 to 2679 (Data column)
+    Column 12: 2679 to 2943 (Data column)
+    Column 13: 2943 to 3077 (Data column)
+    Column 14: 3077 to 3250 (Data column)
+    Column 15: 3250 to end (Data column)
+
+Table Group 121:
+----------------------------------------------------------------------
+  Pages: 157 to 157 (1 page)
+  Page numbers: [157]
+  Number of columns: 17
+  Column separators at x-positions: [0, 694, 837, 1045, 1400, 1557, 1692, 1823, 1952, 2084, 2219, 2353, 2486, 2617, 2751, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 837 (Data column)
+    Column 3: 837 to 1045 (Data column)
+    Column 4: 1045 to 1400 (Data column)
+    Column 5: 1400 to 1557 (Data column)
+    Column 6: 1557 to 1692 (Data column)
+    Column 7: 1692 to 1823 (Data column)
+    Column 8: 1823 to 1952 (Data column)
+    Column 9: 1952 to 2084 (Data column)
+    Column 10: 2084 to 2219 (Data column)
+    Column 11: 2219 to 2353 (Data column)
+    Column 12: 2353 to 2486 (Data column)
+    Column 13: 2486 to 2617 (Data column)
+    Column 14: 2617 to 2751 (Data column)
+    Column 15: 2751 to 2899 (Data column)
+    Column 16: 2899 to end (Data column)
+
+Table Group 122:
+----------------------------------------------------------------------
+  Pages: 158 to 158 (1 page)
+  Page numbers: [158]
+  Number of columns: 17
+  Column separators at x-positions: [0, 693, 911, 1073, 1238, 1403, 1571, 1735, 1899, 2065, 2235, 2398, 2567, 2731, 2902, 2906]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 911 (Data column)
+    Column 3: 911 to 1073 (Data column)
+    Column 4: 1073 to 1238 (Data column)
+    Column 5: 1238 to 1403 (Data column)
+    Column 6: 1403 to 1571 (Data column)
+    Column 7: 1571 to 1735 (Data column)
+    Column 8: 1735 to 1899 (Data column)
+    Column 9: 1899 to 2065 (Data column)
+    Column 10: 2065 to 2235 (Data column)
+    Column 11: 2235 to 2398 (Data column)
+    Column 12: 2398 to 2567 (Data column)
+    Column 13: 2567 to 2731 (Data column)
+    Column 14: 2731 to 2902 (Data column)
+    Column 15: 2902 to 2906 (Data column)
+    Column 16: 2906 to end (Data column)
+
+Table Group 123:
+----------------------------------------------------------------------
+  Pages: 159 to 160 (2 pages)
+  Page numbers: [159, 160]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 837, 1046, 1222, 1399, 1555, 1690, 1820, 1949, 2080, 2216, 2350, 2482, 2614, 2748, 2896]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2080 (Data column)
+    Column 11: 2080 to 2216 (Data column)
+    Column 12: 2216 to 2350 (Data column)
+    Column 13: 2350 to 2482 (Data column)
+    Column 14: 2482 to 2614 (Data column)
+    Column 15: 2614 to 2748 (Data column)
+    Column 16: 2748 to 2896 (Data column)
+    Column 17: 2896 to end (Data column)
+
+Table Group 124:
+----------------------------------------------------------------------
+  Pages: 161 to 161 (1 page)
+  Page numbers: [161]
+  Number of columns: 19
+  Column separators at x-positions: [0, 2, 696, 837, 1047, 1222, 1399, 1554, 1690, 1820, 1949, 2081, 2215, 2350, 2481, 2613, 2746, 2893]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 696 (Data column)
+    Column 3: 696 to 837 (Data column)
+    Column 4: 837 to 1047 (Data column)
+    Column 5: 1047 to 1222 (Data column)
+    Column 6: 1222 to 1399 (Data column)
+    Column 7: 1399 to 1554 (Data column)
+    Column 8: 1554 to 1690 (Data column)
+    Column 9: 1690 to 1820 (Data column)
+    Column 10: 1820 to 1949 (Data column)
+    Column 11: 1949 to 2081 (Data column)
+    Column 12: 2081 to 2215 (Data column)
+    Column 13: 2215 to 2350 (Data column)
+    Column 14: 2350 to 2481 (Data column)
+    Column 15: 2481 to 2613 (Data column)
+    Column 16: 2613 to 2746 (Data column)
+    Column 17: 2746 to 2893 (Data column)
+    Column 18: 2893 to end (Data column)
+
+Table Group 125:
+----------------------------------------------------------------------
+  Pages: 162 to 162 (1 page)
+  Page numbers: [162]
+  Number of columns: 7
+  Column separators at x-positions: [368, 1170, 1380, 1557, 1717, 2148]
+
+  Column structure:
+    Column 0: 0 to 368 (Label/Header column)
+    Column 1: 368 to 1170 (Data column)
+    Column 2: 1170 to 1380 (Data column)
+    Column 3: 1380 to 1557 (Data column)
+    Column 4: 1557 to 1717 (Data column)
+    Column 5: 1717 to 2148 (Data column)
+    Column 6: 2148 to end (Data column)
+
+Table Group 126:
+----------------------------------------------------------------------
+  Pages: 163 to 163 (1 page)
+  Page numbers: [163]
+  Number of columns: 16
+  Column separators at x-positions: [0, 698, 838, 1224, 1401, 1694, 1824, 1952, 2085, 2218, 2353, 2484, 2615, 2748, 2896]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 698 (Data column)
+    Column 2: 698 to 838 (Data column)
+    Column 3: 838 to 1224 (Data column)
+    Column 4: 1224 to 1401 (Data column)
+    Column 5: 1401 to 1694 (Data column)
+    Column 6: 1694 to 1824 (Data column)
+    Column 7: 1824 to 1952 (Data column)
+    Column 8: 1952 to 2085 (Data column)
+    Column 9: 2085 to 2218 (Data column)
+    Column 10: 2218 to 2353 (Data column)
+    Column 11: 2353 to 2484 (Data column)
+    Column 12: 2484 to 2615 (Data column)
+    Column 13: 2615 to 2748 (Data column)
+    Column 14: 2748 to 2896 (Data column)
+    Column 15: 2896 to end (Data column)
+
+Table Group 127:
+----------------------------------------------------------------------
+  Pages: 164 to 164 (1 page)
+  Page numbers: [164]
+  Number of columns: 16
+  Column separators at x-positions: [692, 910, 1073, 1237, 1402, 1571, 1735, 1898, 2065, 2232, 2396, 2564, 2729, 2900, 2903]
+
+  Column structure:
+    Column 0: 0 to 692 (Label/Header column)
+    Column 1: 692 to 910 (Data column)
+    Column 2: 910 to 1073 (Data column)
+    Column 3: 1073 to 1237 (Data column)
+    Column 4: 1237 to 1402 (Data column)
+    Column 5: 1402 to 1571 (Data column)
+    Column 6: 1571 to 1735 (Data column)
+    Column 7: 1735 to 1898 (Data column)
+    Column 8: 1898 to 2065 (Data column)
+    Column 9: 2065 to 2232 (Data column)
+    Column 10: 2232 to 2396 (Data column)
+    Column 11: 2396 to 2564 (Data column)
+    Column 12: 2564 to 2729 (Data column)
+    Column 13: 2729 to 2900 (Data column)
+    Column 14: 2900 to 2903 (Data column)
+    Column 15: 2903 to end (Data column)
+
+Table Group 128:
+----------------------------------------------------------------------
+  Pages: 165 to 165 (1 page)
+  Page numbers: [165]
+  Number of columns: 18
+  Column separators at x-positions: [409, 416, 1102, 1317, 1479, 1644, 1809, 1977, 2140, 2304, 2470, 2637, 2799, 2967, 3129, 3299, 3302]
+
+  Column structure:
+    Column 0: 0 to 409 (Label/Header column)
+    Column 1: 409 to 416 (Data column)
+    Column 2: 416 to 1102 (Data column)
+    Column 3: 1102 to 1317 (Data column)
+    Column 4: 1317 to 1479 (Data column)
+    Column 5: 1479 to 1644 (Data column)
+    Column 6: 1644 to 1809 (Data column)
+    Column 7: 1809 to 1977 (Data column)
+    Column 8: 1977 to 2140 (Data column)
+    Column 9: 2140 to 2304 (Data column)
+    Column 10: 2304 to 2470 (Data column)
+    Column 11: 2470 to 2637 (Data column)
+    Column 12: 2637 to 2799 (Data column)
+    Column 13: 2799 to 2967 (Data column)
+    Column 14: 2967 to 3129 (Data column)
+    Column 15: 3129 to 3299 (Data column)
+    Column 16: 3299 to 3302 (Data column)
+    Column 17: 3302 to end (Data column)
+
+Table Group 129:
+----------------------------------------------------------------------
+  Pages: 166 to 166 (1 page)
+  Page numbers: [166]
+  Number of columns: 17
+  Column separators at x-positions: [0, 693, 912, 1073, 1238, 1403, 1571, 1735, 1900, 2066, 2234, 2398, 2566, 2731, 2903, 2906]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 912 (Data column)
+    Column 3: 912 to 1073 (Data column)
+    Column 4: 1073 to 1238 (Data column)
+    Column 5: 1238 to 1403 (Data column)
+    Column 6: 1403 to 1571 (Data column)
+    Column 7: 1571 to 1735 (Data column)
+    Column 8: 1735 to 1900 (Data column)
+    Column 9: 1900 to 2066 (Data column)
+    Column 10: 2066 to 2234 (Data column)
+    Column 11: 2234 to 2398 (Data column)
+    Column 12: 2398 to 2566 (Data column)
+    Column 13: 2566 to 2731 (Data column)
+    Column 14: 2731 to 2903 (Data column)
+    Column 15: 2903 to 2906 (Data column)
+    Column 16: 2906 to end (Data column)
+
+Table Group 130:
+----------------------------------------------------------------------
+  Pages: 167 to 167 (1 page)
+  Page numbers: [167]
+  Number of columns: 16
+  Column separators at x-positions: [692, 911, 1073, 1238, 1402, 1569, 1734, 1898, 2064, 2232, 2395, 2562, 2726, 2897, 2899]
+
+  Column structure:
+    Column 0: 0 to 692 (Label/Header column)
+    Column 1: 692 to 911 (Data column)
+    Column 2: 911 to 1073 (Data column)
+    Column 3: 1073 to 1238 (Data column)
+    Column 4: 1238 to 1402 (Data column)
+    Column 5: 1402 to 1569 (Data column)
+    Column 6: 1569 to 1734 (Data column)
+    Column 7: 1734 to 1898 (Data column)
+    Column 8: 1898 to 2064 (Data column)
+    Column 9: 2064 to 2232 (Data column)
+    Column 10: 2232 to 2395 (Data column)
+    Column 11: 2395 to 2562 (Data column)
+    Column 12: 2562 to 2726 (Data column)
+    Column 13: 2726 to 2897 (Data column)
+    Column 14: 2897 to 2899 (Data column)
+    Column 15: 2899 to end (Data column)
+
+Table Group 131:
+----------------------------------------------------------------------
+  Pages: 168 to 169 (2 pages)
+  Page numbers: [168, 169]
+  Number of columns: 18
+  Column separators at x-positions: [1, 696, 837, 1046, 1222, 1399, 1554, 1690, 1820, 1949, 2081, 2215, 2350, 2482, 2614, 2748, 2895]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 696 (Data column)
+    Column 2: 696 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1554 (Data column)
+    Column 7: 1554 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2081 (Data column)
+    Column 11: 2081 to 2215 (Data column)
+    Column 12: 2215 to 2350 (Data column)
+    Column 13: 2350 to 2482 (Data column)
+    Column 14: 2482 to 2614 (Data column)
+    Column 15: 2614 to 2748 (Data column)
+    Column 16: 2748 to 2895 (Data column)
+    Column 17: 2895 to end (Data column)
+
+Table Group 132:
+----------------------------------------------------------------------
+  Pages: 170 to 170 (1 page)
+  Page numbers: [170]
+  Number of columns: 17
+  Column separators at x-positions: [0, 807, 1016, 1191, 1352, 1523, 1655, 1786, 1919, 2048, 2181, 2315, 2446, 2579, 2713, 2884]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 807 (Data column)
+    Column 2: 807 to 1016 (Data column)
+    Column 3: 1016 to 1191 (Data column)
+    Column 4: 1191 to 1352 (Data column)
+    Column 5: 1352 to 1523 (Data column)
+    Column 6: 1523 to 1655 (Data column)
+    Column 7: 1655 to 1786 (Data column)
+    Column 8: 1786 to 1919 (Data column)
+    Column 9: 1919 to 2048 (Data column)
+    Column 10: 2048 to 2181 (Data column)
+    Column 11: 2181 to 2315 (Data column)
+    Column 12: 2315 to 2446 (Data column)
+    Column 13: 2446 to 2579 (Data column)
+    Column 14: 2579 to 2713 (Data column)
+    Column 15: 2713 to 2884 (Data column)
+    Column 16: 2884 to end (Data column)
+
+Table Group 133:
+----------------------------------------------------------------------
+  Pages: 171 to 171 (1 page)
+  Page numbers: [171]
+  Number of columns: 14
+  Column separators at x-positions: [701, 1228, 1406, 1561, 1698, 1828, 1957, 2090, 2223, 2359, 2490, 2755, 2903]
+
+  Column structure:
+    Column 0: 0 to 701 (Label/Header column)
+    Column 1: 701 to 1228 (Data column)
+    Column 2: 1228 to 1406 (Data column)
+    Column 3: 1406 to 1561 (Data column)
+    Column 4: 1561 to 1698 (Data column)
+    Column 5: 1698 to 1828 (Data column)
+    Column 6: 1828 to 1957 (Data column)
+    Column 7: 1957 to 2090 (Data column)
+    Column 8: 2090 to 2223 (Data column)
+    Column 9: 2223 to 2359 (Data column)
+    Column 10: 2359 to 2490 (Data column)
+    Column 11: 2490 to 2755 (Data column)
+    Column 12: 2755 to 2903 (Data column)
+    Column 13: 2903 to end (Data column)
+
+Table Group 134:
+----------------------------------------------------------------------
+  Pages: 172 to 172 (1 page)
+  Page numbers: [172]
+  Number of columns: 14
+  Column separators at x-positions: [411, 1101, 1320, 1480, 1809, 2637, 2647, 2800, 2809, 2968, 3142, 3300, 3304]
+
+  Column structure:
+    Column 0: 0 to 411 (Label/Header column)
+    Column 1: 411 to 1101 (Data column)
+    Column 2: 1101 to 1320 (Data column)
+    Column 3: 1320 to 1480 (Data column)
+    Column 4: 1480 to 1809 (Data column)
+    Column 5: 1809 to 2637 (Data column)
+    Column 6: 2637 to 2647 (Data column)
+    Column 7: 2647 to 2800 (Data column)
+    Column 8: 2800 to 2809 (Data column)
+    Column 9: 2809 to 2968 (Data column)
+    Column 10: 2968 to 3142 (Data column)
+    Column 11: 3142 to 3300 (Data column)
+    Column 12: 3300 to 3304 (Data column)
+    Column 13: 3304 to end (Data column)
+
+Table Group 135:
+----------------------------------------------------------------------
+  Pages: 173 to 173 (1 page)
+  Page numbers: [173]
+  Number of columns: 17
+  Column separators at x-positions: [693, 913, 1075, 1242, 1407, 1575, 1577, 1741, 1905, 2071, 2239, 2403, 2570, 2734, 2906, 2907]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 913 (Data column)
+    Column 2: 913 to 1075 (Data column)
+    Column 3: 1075 to 1242 (Data column)
+    Column 4: 1242 to 1407 (Data column)
+    Column 5: 1407 to 1575 (Data column)
+    Column 6: 1575 to 1577 (Data column)
+    Column 7: 1577 to 1741 (Data column)
+    Column 8: 1741 to 1905 (Data column)
+    Column 9: 1905 to 2071 (Data column)
+    Column 10: 2071 to 2239 (Data column)
+    Column 11: 2239 to 2403 (Data column)
+    Column 12: 2403 to 2570 (Data column)
+    Column 13: 2570 to 2734 (Data column)
+    Column 14: 2734 to 2906 (Data column)
+    Column 15: 2906 to 2907 (Data column)
+    Column 16: 2907 to end (Data column)
+
+Table Group 136:
+----------------------------------------------------------------------
+  Pages: 174 to 175 (2 pages)
+  Page numbers: [174, 175]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 911, 1073, 1239, 1404, 1573, 1738, 1902, 2069, 2237, 2400, 2568, 2733, 2904, 2906]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 911 (Data column)
+    Column 3: 911 to 1073 (Data column)
+    Column 4: 1073 to 1239 (Data column)
+    Column 5: 1239 to 1404 (Data column)
+    Column 6: 1404 to 1573 (Data column)
+    Column 7: 1573 to 1738 (Data column)
+    Column 8: 1738 to 1902 (Data column)
+    Column 9: 1902 to 2069 (Data column)
+    Column 10: 2069 to 2237 (Data column)
+    Column 11: 2237 to 2400 (Data column)
+    Column 12: 2400 to 2568 (Data column)
+    Column 13: 2568 to 2733 (Data column)
+    Column 14: 2733 to 2904 (Data column)
+    Column 15: 2904 to 2906 (Data column)
+    Column 16: 2906 to end (Data column)
+
+Table Group 137:
+----------------------------------------------------------------------
+  Pages: 176 to 176 (1 page)
+  Page numbers: [176]
+  Number of columns: 18
+  Column separators at x-positions: [0, 697, 837, 1047, 1222, 1399, 1554, 1689, 1819, 1948, 2080, 2213, 2348, 2480, 2612, 2746, 2892]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 697 (Data column)
+    Column 2: 697 to 837 (Data column)
+    Column 3: 837 to 1047 (Data column)
+    Column 4: 1047 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1554 (Data column)
+    Column 7: 1554 to 1689 (Data column)
+    Column 8: 1689 to 1819 (Data column)
+    Column 9: 1819 to 1948 (Data column)
+    Column 10: 1948 to 2080 (Data column)
+    Column 11: 2080 to 2213 (Data column)
+    Column 12: 2213 to 2348 (Data column)
+    Column 13: 2348 to 2480 (Data column)
+    Column 14: 2480 to 2612 (Data column)
+    Column 15: 2612 to 2746 (Data column)
+    Column 16: 2746 to 2892 (Data column)
+    Column 17: 2892 to end (Data column)
+
+Table Group 138:
+----------------------------------------------------------------------
+  Pages: 177 to 177 (1 page)
+  Page numbers: [177]
+  Number of columns: 17
+  Column separators at x-positions: [2, 810, 1022, 1199, 1360, 1530, 1662, 1794, 1926, 2056, 2189, 2324, 2453, 2585, 2720, 2894]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 810 (Data column)
+    Column 2: 810 to 1022 (Data column)
+    Column 3: 1022 to 1199 (Data column)
+    Column 4: 1199 to 1360 (Data column)
+    Column 5: 1360 to 1530 (Data column)
+    Column 6: 1530 to 1662 (Data column)
+    Column 7: 1662 to 1794 (Data column)
+    Column 8: 1794 to 1926 (Data column)
+    Column 9: 1926 to 2056 (Data column)
+    Column 10: 2056 to 2189 (Data column)
+    Column 11: 2189 to 2324 (Data column)
+    Column 12: 2324 to 2453 (Data column)
+    Column 13: 2453 to 2585 (Data column)
+    Column 14: 2585 to 2720 (Data column)
+    Column 15: 2720 to 2894 (Data column)
+    Column 16: 2894 to end (Data column)
+
+Table Group 139:
+----------------------------------------------------------------------
+  Pages: 178 to 178 (1 page)
+  Page numbers: [178]
+  Number of columns: 17
+  Column separators at x-positions: [0, 693, 836, 1045, 1397, 1554, 1689, 1819, 1949, 2080, 2216, 2351, 2484, 2617, 2752, 2901]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 836 (Data column)
+    Column 3: 836 to 1045 (Data column)
+    Column 4: 1045 to 1397 (Data column)
+    Column 5: 1397 to 1554 (Data column)
+    Column 6: 1554 to 1689 (Data column)
+    Column 7: 1689 to 1819 (Data column)
+    Column 8: 1819 to 1949 (Data column)
+    Column 9: 1949 to 2080 (Data column)
+    Column 10: 2080 to 2216 (Data column)
+    Column 11: 2216 to 2351 (Data column)
+    Column 12: 2351 to 2484 (Data column)
+    Column 13: 2484 to 2617 (Data column)
+    Column 14: 2617 to 2752 (Data column)
+    Column 15: 2752 to 2901 (Data column)
+    Column 16: 2901 to end (Data column)
+
+Table Group 140:
+----------------------------------------------------------------------
+  Pages: 179 to 179 (1 page)
+  Page numbers: [179]
+  Number of columns: 18
+  Column separators at x-positions: [365, 371, 1060, 1278, 1440, 1606, 1771, 1939, 2103, 2267, 2434, 2601, 2764, 2931, 3093, 3263, 3266]
+
+  Column structure:
+    Column 0: 0 to 365 (Label/Header column)
+    Column 1: 365 to 371 (Data column)
+    Column 2: 371 to 1060 (Data column)
+    Column 3: 1060 to 1278 (Data column)
+    Column 4: 1278 to 1440 (Data column)
+    Column 5: 1440 to 1606 (Data column)
+    Column 6: 1606 to 1771 (Data column)
+    Column 7: 1771 to 1939 (Data column)
+    Column 8: 1939 to 2103 (Data column)
+    Column 9: 2103 to 2267 (Data column)
+    Column 10: 2267 to 2434 (Data column)
+    Column 11: 2434 to 2601 (Data column)
+    Column 12: 2601 to 2764 (Data column)
+    Column 13: 2764 to 2931 (Data column)
+    Column 14: 2931 to 3093 (Data column)
+    Column 15: 3093 to 3263 (Data column)
+    Column 16: 3263 to 3266 (Data column)
+    Column 17: 3266 to end (Data column)
+
+Table Group 141:
+----------------------------------------------------------------------
+  Pages: 180 to 180 (1 page)
+  Page numbers: [180]
+  Number of columns: 18
+  Column separators at x-positions: [0, 693, 834, 1042, 1218, 1394, 1549, 1685, 1815, 1943, 2076, 2209, 2343, 2475, 2607, 2741, 2888]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 834 (Data column)
+    Column 3: 834 to 1042 (Data column)
+    Column 4: 1042 to 1218 (Data column)
+    Column 5: 1218 to 1394 (Data column)
+    Column 6: 1394 to 1549 (Data column)
+    Column 7: 1549 to 1685 (Data column)
+    Column 8: 1685 to 1815 (Data column)
+    Column 9: 1815 to 1943 (Data column)
+    Column 10: 1943 to 2076 (Data column)
+    Column 11: 2076 to 2209 (Data column)
+    Column 12: 2209 to 2343 (Data column)
+    Column 13: 2343 to 2475 (Data column)
+    Column 14: 2475 to 2607 (Data column)
+    Column 15: 2607 to 2741 (Data column)
+    Column 16: 2741 to 2888 (Data column)
+    Column 17: 2888 to end (Data column)
+
+Table Group 142:
+----------------------------------------------------------------------
+  Pages: 181 to 181 (1 page)
+  Page numbers: [181]
+  Number of columns: 17
+  Column separators at x-positions: [2, 811, 1022, 1198, 1359, 1530, 1663, 1794, 1927, 2056, 2188, 2324, 2455, 2587, 2722, 2895]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 811 (Data column)
+    Column 2: 811 to 1022 (Data column)
+    Column 3: 1022 to 1198 (Data column)
+    Column 4: 1198 to 1359 (Data column)
+    Column 5: 1359 to 1530 (Data column)
+    Column 6: 1530 to 1663 (Data column)
+    Column 7: 1663 to 1794 (Data column)
+    Column 8: 1794 to 1927 (Data column)
+    Column 9: 1927 to 2056 (Data column)
+    Column 10: 2056 to 2188 (Data column)
+    Column 11: 2188 to 2324 (Data column)
+    Column 12: 2324 to 2455 (Data column)
+    Column 13: 2455 to 2587 (Data column)
+    Column 14: 2587 to 2722 (Data column)
+    Column 15: 2722 to 2895 (Data column)
+    Column 16: 2895 to end (Data column)
+
+Table Group 143:
+----------------------------------------------------------------------
+  Pages: 182 to 182 (1 page)
+  Page numbers: [182]
+  Number of columns: 19
+  Column separators at x-positions: [0, 695, 836, 837, 1047, 1221, 1399, 1556, 1691, 1821, 1951, 2082, 2217, 2352, 2485, 2618, 2753, 2902]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 836 (Data column)
+    Column 3: 836 to 837 (Data column)
+    Column 4: 837 to 1047 (Data column)
+    Column 5: 1047 to 1221 (Data column)
+    Column 6: 1221 to 1399 (Data column)
+    Column 7: 1399 to 1556 (Data column)
+    Column 8: 1556 to 1691 (Data column)
+    Column 9: 1691 to 1821 (Data column)
+    Column 10: 1821 to 1951 (Data column)
+    Column 11: 1951 to 2082 (Data column)
+    Column 12: 2082 to 2217 (Data column)
+    Column 13: 2217 to 2352 (Data column)
+    Column 14: 2352 to 2485 (Data column)
+    Column 15: 2485 to 2618 (Data column)
+    Column 16: 2618 to 2753 (Data column)
+    Column 17: 2753 to 2902 (Data column)
+    Column 18: 2902 to end (Data column)
+
+Table Group 144:
+----------------------------------------------------------------------
+  Pages: 183 to 183 (1 page)
+  Page numbers: [183]
+  Number of columns: 19
+  Column separators at x-positions: [0, 3, 6, 693, 911, 1074, 1240, 1406, 1574, 1740, 1905, 2071, 2239, 2403, 2570, 2733, 2905, 2906]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 3 (Data column)
+    Column 2: 3 to 6 (Data column)
+    Column 3: 6 to 693 (Data column)
+    Column 4: 693 to 911 (Data column)
+    Column 5: 911 to 1074 (Data column)
+    Column 6: 1074 to 1240 (Data column)
+    Column 7: 1240 to 1406 (Data column)
+    Column 8: 1406 to 1574 (Data column)
+    Column 9: 1574 to 1740 (Data column)
+    Column 10: 1740 to 1905 (Data column)
+    Column 11: 1905 to 2071 (Data column)
+    Column 12: 2071 to 2239 (Data column)
+    Column 13: 2239 to 2403 (Data column)
+    Column 14: 2403 to 2570 (Data column)
+    Column 15: 2570 to 2733 (Data column)
+    Column 16: 2733 to 2905 (Data column)
+    Column 17: 2905 to 2906 (Data column)
+    Column 18: 2906 to end (Data column)
+
+Table Group 145:
+----------------------------------------------------------------------
+  Pages: 184 to 184 (1 page)
+  Page numbers: [184]
+  Number of columns: 22
+  Column separators at x-positions: [0, 697, 838, 1048, 1224, 1401, 1557, 1692, 1823, 1952, 2084, 2219, 2353, 2487, 2617, 2621, 2753, 2756, 2898, 2902, 2903]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 697 (Data column)
+    Column 2: 697 to 838 (Data column)
+    Column 3: 838 to 1048 (Data column)
+    Column 4: 1048 to 1224 (Data column)
+    Column 5: 1224 to 1401 (Data column)
+    Column 6: 1401 to 1557 (Data column)
+    Column 7: 1557 to 1692 (Data column)
+    Column 8: 1692 to 1823 (Data column)
+    Column 9: 1823 to 1952 (Data column)
+    Column 10: 1952 to 2084 (Data column)
+    Column 11: 2084 to 2219 (Data column)
+    Column 12: 2219 to 2353 (Data column)
+    Column 13: 2353 to 2487 (Data column)
+    Column 14: 2487 to 2617 (Data column)
+    Column 15: 2617 to 2621 (Data column)
+    Column 16: 2621 to 2753 (Data column)
+    Column 17: 2753 to 2756 (Data column)
+    Column 18: 2756 to 2898 (Data column)
+    Column 19: 2898 to 2902 (Data column)
+    Column 20: 2902 to 2903 (Data column)
+    Column 21: 2903 to end (Data column)
+
+Table Group 146:
+----------------------------------------------------------------------
+  Pages: 185 to 185 (1 page)
+  Page numbers: [185]
+  Number of columns: 17
+  Column separators at x-positions: [3, 811, 1023, 1200, 1361, 1532, 1664, 1797, 1929, 2059, 2191, 2326, 2455, 2588, 2723, 2897]
+
+  Column structure:
+    Column 0: 0 to 3 (Label/Header column)
+    Column 1: 3 to 811 (Data column)
+    Column 2: 811 to 1023 (Data column)
+    Column 3: 1023 to 1200 (Data column)
+    Column 4: 1200 to 1361 (Data column)
+    Column 5: 1361 to 1532 (Data column)
+    Column 6: 1532 to 1664 (Data column)
+    Column 7: 1664 to 1797 (Data column)
+    Column 8: 1797 to 1929 (Data column)
+    Column 9: 1929 to 2059 (Data column)
+    Column 10: 2059 to 2191 (Data column)
+    Column 11: 2191 to 2326 (Data column)
+    Column 12: 2326 to 2455 (Data column)
+    Column 13: 2455 to 2588 (Data column)
+    Column 14: 2588 to 2723 (Data column)
+    Column 15: 2723 to 2897 (Data column)
+    Column 16: 2897 to end (Data column)
+
+Table Group 147:
+----------------------------------------------------------------------
+  Pages: 186 to 186 (1 page)
+  Page numbers: [186]
+  Number of columns: 18
+  Column separators at x-positions: [0, 694, 836, 1045, 1220, 1397, 1553, 1689, 1818, 1947, 2078, 2213, 2347, 2480, 2612, 2746, 2894]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 836 (Data column)
+    Column 3: 836 to 1045 (Data column)
+    Column 4: 1045 to 1220 (Data column)
+    Column 5: 1220 to 1397 (Data column)
+    Column 6: 1397 to 1553 (Data column)
+    Column 7: 1553 to 1689 (Data column)
+    Column 8: 1689 to 1818 (Data column)
+    Column 9: 1818 to 1947 (Data column)
+    Column 10: 1947 to 2078 (Data column)
+    Column 11: 2078 to 2213 (Data column)
+    Column 12: 2213 to 2347 (Data column)
+    Column 13: 2347 to 2480 (Data column)
+    Column 14: 2480 to 2612 (Data column)
+    Column 15: 2612 to 2746 (Data column)
+    Column 16: 2746 to 2894 (Data column)
+    Column 17: 2894 to end (Data column)
+
+Table Group 148:
+----------------------------------------------------------------------
+  Pages: 187 to 187 (1 page)
+  Page numbers: [187]
+  Number of columns: 15
+  Column separators at x-positions: [266, 275, 1338, 1503, 1668, 1836, 2001, 2164, 2329, 2497, 2660, 2826, 2990, 3161]
+
+  Column structure:
+    Column 0: 0 to 266 (Label/Header column)
+    Column 1: 266 to 275 (Data column)
+    Column 2: 275 to 1338 (Data column)
+    Column 3: 1338 to 1503 (Data column)
+    Column 4: 1503 to 1668 (Data column)
+    Column 5: 1668 to 1836 (Data column)
+    Column 6: 1836 to 2001 (Data column)
+    Column 7: 2001 to 2164 (Data column)
+    Column 8: 2164 to 2329 (Data column)
+    Column 9: 2329 to 2497 (Data column)
+    Column 10: 2497 to 2660 (Data column)
+    Column 11: 2660 to 2826 (Data column)
+    Column 12: 2826 to 2990 (Data column)
+    Column 13: 2990 to 3161 (Data column)
+    Column 14: 3161 to end (Data column)
+
+Table Group 149:
+----------------------------------------------------------------------
+  Pages: 188 to 190 (3 pages)
+  Page numbers: [188, 189, 190]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 838, 1047, 1222, 1400, 1555, 1691, 1821, 1950, 2082, 2217, 2351, 2485, 2617, 2751, 2899]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 838 (Data column)
+    Column 3: 838 to 1047 (Data column)
+    Column 4: 1047 to 1222 (Data column)
+    Column 5: 1222 to 1400 (Data column)
+    Column 6: 1400 to 1555 (Data column)
+    Column 7: 1555 to 1691 (Data column)
+    Column 8: 1691 to 1821 (Data column)
+    Column 9: 1821 to 1950 (Data column)
+    Column 10: 1950 to 2082 (Data column)
+    Column 11: 2082 to 2217 (Data column)
+    Column 12: 2217 to 2351 (Data column)
+    Column 13: 2351 to 2485 (Data column)
+    Column 14: 2485 to 2617 (Data column)
+    Column 15: 2617 to 2751 (Data column)
+    Column 16: 2751 to 2899 (Data column)
+    Column 17: 2899 to end (Data column)
+
+Table Group 150:
+----------------------------------------------------------------------
+  Pages: 191 to 191 (1 page)
+  Page numbers: [191]
+  Number of columns: 17
+  Column separators at x-positions: [2, 811, 1023, 1199, 1360, 1530, 1662, 1795, 1928, 2058, 2190, 2326, 2455, 2587, 2721, 2895]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 811 (Data column)
+    Column 2: 811 to 1023 (Data column)
+    Column 3: 1023 to 1199 (Data column)
+    Column 4: 1199 to 1360 (Data column)
+    Column 5: 1360 to 1530 (Data column)
+    Column 6: 1530 to 1662 (Data column)
+    Column 7: 1662 to 1795 (Data column)
+    Column 8: 1795 to 1928 (Data column)
+    Column 9: 1928 to 2058 (Data column)
+    Column 10: 2058 to 2190 (Data column)
+    Column 11: 2190 to 2326 (Data column)
+    Column 12: 2326 to 2455 (Data column)
+    Column 13: 2455 to 2587 (Data column)
+    Column 14: 2587 to 2721 (Data column)
+    Column 15: 2721 to 2895 (Data column)
+    Column 16: 2895 to end (Data column)
+
+Table Group 151:
+----------------------------------------------------------------------
+  Pages: 192 to 192 (1 page)
+  Page numbers: [192]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 836, 1046, 1221, 1398, 1554, 1691, 1821, 1949, 2081, 2215, 2351, 2484, 2616, 2751, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 836 (Data column)
+    Column 3: 836 to 1046 (Data column)
+    Column 4: 1046 to 1221 (Data column)
+    Column 5: 1221 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1691 (Data column)
+    Column 8: 1691 to 1821 (Data column)
+    Column 9: 1821 to 1949 (Data column)
+    Column 10: 1949 to 2081 (Data column)
+    Column 11: 2081 to 2215 (Data column)
+    Column 12: 2215 to 2351 (Data column)
+    Column 13: 2351 to 2484 (Data column)
+    Column 14: 2484 to 2616 (Data column)
+    Column 15: 2616 to 2751 (Data column)
+    Column 16: 2751 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 152:
+----------------------------------------------------------------------
+  Pages: 193 to 193 (1 page)
+  Page numbers: [193]
+  Number of columns: 18
+  Column separators at x-positions: [271, 276, 962, 1181, 1343, 1508, 1672, 1840, 2004, 2167, 2333, 2501, 2663, 2830, 2993, 3163, 3166]
+
+  Column structure:
+    Column 0: 0 to 271 (Label/Header column)
+    Column 1: 271 to 276 (Data column)
+    Column 2: 276 to 962 (Data column)
+    Column 3: 962 to 1181 (Data column)
+    Column 4: 1181 to 1343 (Data column)
+    Column 5: 1343 to 1508 (Data column)
+    Column 6: 1508 to 1672 (Data column)
+    Column 7: 1672 to 1840 (Data column)
+    Column 8: 1840 to 2004 (Data column)
+    Column 9: 2004 to 2167 (Data column)
+    Column 10: 2167 to 2333 (Data column)
+    Column 11: 2333 to 2501 (Data column)
+    Column 12: 2501 to 2663 (Data column)
+    Column 13: 2663 to 2830 (Data column)
+    Column 14: 2830 to 2993 (Data column)
+    Column 15: 2993 to 3163 (Data column)
+    Column 16: 3163 to 3166 (Data column)
+    Column 17: 3166 to end (Data column)
+
+Table Group 153:
+----------------------------------------------------------------------
+  Pages: 194 to 194 (1 page)
+  Page numbers: [194]
+  Number of columns: 18
+  Column separators at x-positions: [0, 2, 691, 909, 1071, 1237, 1402, 1570, 1735, 1899, 2065, 2234, 2397, 2565, 2730, 2902, 2904]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 2 (Data column)
+    Column 2: 2 to 691 (Data column)
+    Column 3: 691 to 909 (Data column)
+    Column 4: 909 to 1071 (Data column)
+    Column 5: 1071 to 1237 (Data column)
+    Column 6: 1237 to 1402 (Data column)
+    Column 7: 1402 to 1570 (Data column)
+    Column 8: 1570 to 1735 (Data column)
+    Column 9: 1735 to 1899 (Data column)
+    Column 10: 1899 to 2065 (Data column)
+    Column 11: 2065 to 2234 (Data column)
+    Column 12: 2234 to 2397 (Data column)
+    Column 13: 2397 to 2565 (Data column)
+    Column 14: 2565 to 2730 (Data column)
+    Column 15: 2730 to 2902 (Data column)
+    Column 16: 2902 to 2904 (Data column)
+    Column 17: 2904 to end (Data column)
+
+Table Group 154:
+----------------------------------------------------------------------
+  Pages: 195 to 195 (1 page)
+  Page numbers: [195]
+  Number of columns: 17
+  Column separators at x-positions: [0, 694, 912, 1074, 1240, 1405, 1574, 1739, 1903, 2069, 2237, 2400, 2567, 2730, 2902, 2903]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 694 (Data column)
+    Column 2: 694 to 912 (Data column)
+    Column 3: 912 to 1074 (Data column)
+    Column 4: 1074 to 1240 (Data column)
+    Column 5: 1240 to 1405 (Data column)
+    Column 6: 1405 to 1574 (Data column)
+    Column 7: 1574 to 1739 (Data column)
+    Column 8: 1739 to 1903 (Data column)
+    Column 9: 1903 to 2069 (Data column)
+    Column 10: 2069 to 2237 (Data column)
+    Column 11: 2237 to 2400 (Data column)
+    Column 12: 2400 to 2567 (Data column)
+    Column 13: 2567 to 2730 (Data column)
+    Column 14: 2730 to 2902 (Data column)
+    Column 15: 2902 to 2903 (Data column)
+    Column 16: 2903 to end (Data column)
+
+Table Group 155:
+----------------------------------------------------------------------
+  Pages: 196 to 196 (1 page)
+  Page numbers: [196]
+  Number of columns: 18
+  Column separators at x-positions: [0, 692, 693, 911, 1072, 1237, 1403, 1571, 1736, 1900, 2066, 2234, 2398, 2567, 2732, 2903, 2906]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 693 (Data column)
+    Column 3: 693 to 911 (Data column)
+    Column 4: 911 to 1072 (Data column)
+    Column 5: 1072 to 1237 (Data column)
+    Column 6: 1237 to 1403 (Data column)
+    Column 7: 1403 to 1571 (Data column)
+    Column 8: 1571 to 1736 (Data column)
+    Column 9: 1736 to 1900 (Data column)
+    Column 10: 1900 to 2066 (Data column)
+    Column 11: 2066 to 2234 (Data column)
+    Column 12: 2234 to 2398 (Data column)
+    Column 13: 2398 to 2567 (Data column)
+    Column 14: 2567 to 2732 (Data column)
+    Column 15: 2732 to 2903 (Data column)
+    Column 16: 2903 to 2906 (Data column)
+    Column 17: 2906 to end (Data column)
+
+Table Group 156:
+----------------------------------------------------------------------
+  Pages: 197 to 199 (3 pages)
+  Page numbers: [197, 198, 199]
+  Number of columns: 18
+  Column separators at x-positions: [0, 697, 838, 1048, 1224, 1401, 1557, 1693, 1823, 1952, 2084, 2219, 2353, 2485, 2617, 2751, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 697 (Data column)
+    Column 2: 697 to 838 (Data column)
+    Column 3: 838 to 1048 (Data column)
+    Column 4: 1048 to 1224 (Data column)
+    Column 5: 1224 to 1401 (Data column)
+    Column 6: 1401 to 1557 (Data column)
+    Column 7: 1557 to 1693 (Data column)
+    Column 8: 1693 to 1823 (Data column)
+    Column 9: 1823 to 1952 (Data column)
+    Column 10: 1952 to 2084 (Data column)
+    Column 11: 2084 to 2219 (Data column)
+    Column 12: 2219 to 2353 (Data column)
+    Column 13: 2353 to 2485 (Data column)
+    Column 14: 2485 to 2617 (Data column)
+    Column 15: 2617 to 2751 (Data column)
+    Column 16: 2751 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 157:
+----------------------------------------------------------------------
+  Pages: 200 to 200 (1 page)
+  Page numbers: [200]
+  Number of columns: 17
+  Column separators at x-positions: [0, 809, 1020, 1196, 1356, 1526, 1659, 1790, 1922, 2051, 2183, 2319, 2449, 2581, 2715, 2887]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 809 (Data column)
+    Column 2: 809 to 1020 (Data column)
+    Column 3: 1020 to 1196 (Data column)
+    Column 4: 1196 to 1356 (Data column)
+    Column 5: 1356 to 1526 (Data column)
+    Column 6: 1526 to 1659 (Data column)
+    Column 7: 1659 to 1790 (Data column)
+    Column 8: 1790 to 1922 (Data column)
+    Column 9: 1922 to 2051 (Data column)
+    Column 10: 2051 to 2183 (Data column)
+    Column 11: 2183 to 2319 (Data column)
+    Column 12: 2319 to 2449 (Data column)
+    Column 13: 2449 to 2581 (Data column)
+    Column 14: 2581 to 2715 (Data column)
+    Column 15: 2715 to 2887 (Data column)
+    Column 16: 2887 to end (Data column)
+
+Table Group 158:
+----------------------------------------------------------------------
+  Pages: 201 to 201 (1 page)
+  Page numbers: [201]
+  Number of columns: 18
+  Column separators at x-positions: [0, 697, 839, 1049, 1224, 1402, 1558, 1694, 1825, 1954, 2086, 2220, 2355, 2487, 2618, 2753, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 697 (Data column)
+    Column 2: 697 to 839 (Data column)
+    Column 3: 839 to 1049 (Data column)
+    Column 4: 1049 to 1224 (Data column)
+    Column 5: 1224 to 1402 (Data column)
+    Column 6: 1402 to 1558 (Data column)
+    Column 7: 1558 to 1694 (Data column)
+    Column 8: 1694 to 1825 (Data column)
+    Column 9: 1825 to 1954 (Data column)
+    Column 10: 1954 to 2086 (Data column)
+    Column 11: 2086 to 2220 (Data column)
+    Column 12: 2220 to 2355 (Data column)
+    Column 13: 2355 to 2487 (Data column)
+    Column 14: 2487 to 2618 (Data column)
+    Column 15: 2618 to 2753 (Data column)
+    Column 16: 2753 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 159:
+----------------------------------------------------------------------
+  Pages: 202 to 204 (3 pages)
+  Page numbers: [202, 203, 204]
+  Number of columns: 17
+  Column separators at x-positions: [0, 693, 912, 1074, 1239, 1405, 1573, 1738, 1902, 2069, 2237, 2400, 2569, 2734, 2906, 2908]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 912 (Data column)
+    Column 3: 912 to 1074 (Data column)
+    Column 4: 1074 to 1239 (Data column)
+    Column 5: 1239 to 1405 (Data column)
+    Column 6: 1405 to 1573 (Data column)
+    Column 7: 1573 to 1738 (Data column)
+    Column 8: 1738 to 1902 (Data column)
+    Column 9: 1902 to 2069 (Data column)
+    Column 10: 2069 to 2237 (Data column)
+    Column 11: 2237 to 2400 (Data column)
+    Column 12: 2400 to 2569 (Data column)
+    Column 13: 2569 to 2734 (Data column)
+    Column 14: 2734 to 2906 (Data column)
+    Column 15: 2906 to 2908 (Data column)
+    Column 16: 2908 to end (Data column)
+
+Table Group 160:
+----------------------------------------------------------------------
+  Pages: 205 to 205 (1 page)
+  Page numbers: [205]
+  Number of columns: 22
+  Column separators at x-positions: [112, 125, 154, 278, 282, 284, 973, 1192, 1354, 1520, 1685, 1853, 2019, 2183, 2349, 2518, 2681, 2848, 3010, 3180, 3184]
+
+  Column structure:
+    Column 0: 0 to 112 (Label/Header column)
+    Column 1: 112 to 125 (Data column)
+    Column 2: 125 to 154 (Data column)
+    Column 3: 154 to 278 (Data column)
+    Column 4: 278 to 282 (Data column)
+    Column 5: 282 to 284 (Data column)
+    Column 6: 284 to 973 (Data column)
+    Column 7: 973 to 1192 (Data column)
+    Column 8: 1192 to 1354 (Data column)
+    Column 9: 1354 to 1520 (Data column)
+    Column 10: 1520 to 1685 (Data column)
+    Column 11: 1685 to 1853 (Data column)
+    Column 12: 1853 to 2019 (Data column)
+    Column 13: 2019 to 2183 (Data column)
+    Column 14: 2183 to 2349 (Data column)
+    Column 15: 2349 to 2518 (Data column)
+    Column 16: 2518 to 2681 (Data column)
+    Column 17: 2681 to 2848 (Data column)
+    Column 18: 2848 to 3010 (Data column)
+    Column 19: 3010 to 3180 (Data column)
+    Column 20: 3180 to 3184 (Data column)
+    Column 21: 3184 to end (Data column)
+
+Table Group 161:
+----------------------------------------------------------------------
+  Pages: 206 to 206 (1 page)
+  Page numbers: [206]
+  Number of columns: 19
+  Column separators at x-positions: [0, 696, 838, 1048, 1223, 1401, 1557, 1694, 1824, 1953, 2085, 2220, 2355, 2488, 2622, 2756, 2905, 2907]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 696 (Data column)
+    Column 2: 696 to 838 (Data column)
+    Column 3: 838 to 1048 (Data column)
+    Column 4: 1048 to 1223 (Data column)
+    Column 5: 1223 to 1401 (Data column)
+    Column 6: 1401 to 1557 (Data column)
+    Column 7: 1557 to 1694 (Data column)
+    Column 8: 1694 to 1824 (Data column)
+    Column 9: 1824 to 1953 (Data column)
+    Column 10: 1953 to 2085 (Data column)
+    Column 11: 2085 to 2220 (Data column)
+    Column 12: 2220 to 2355 (Data column)
+    Column 13: 2355 to 2488 (Data column)
+    Column 14: 2488 to 2622 (Data column)
+    Column 15: 2622 to 2756 (Data column)
+    Column 16: 2756 to 2905 (Data column)
+    Column 17: 2905 to 2907 (Data column)
+    Column 18: 2907 to end (Data column)
+
+Table Group 162:
+----------------------------------------------------------------------
+  Pages: 207 to 208 (2 pages)
+  Page numbers: [207, 208]
+  Number of columns: 18
+  Column separators at x-positions: [1, 695, 837, 1047, 1224, 1401, 1556, 1693, 1823, 1952, 2085, 2219, 2354, 2487, 2619, 2752, 2901]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1047 (Data column)
+    Column 4: 1047 to 1224 (Data column)
+    Column 5: 1224 to 1401 (Data column)
+    Column 6: 1401 to 1556 (Data column)
+    Column 7: 1556 to 1693 (Data column)
+    Column 8: 1693 to 1823 (Data column)
+    Column 9: 1823 to 1952 (Data column)
+    Column 10: 1952 to 2085 (Data column)
+    Column 11: 2085 to 2219 (Data column)
+    Column 12: 2219 to 2354 (Data column)
+    Column 13: 2354 to 2487 (Data column)
+    Column 14: 2487 to 2619 (Data column)
+    Column 15: 2619 to 2752 (Data column)
+    Column 16: 2752 to 2901 (Data column)
+    Column 17: 2901 to end (Data column)
+
+Table Group 163:
+----------------------------------------------------------------------
+  Pages: 209 to 209 (1 page)
+  Page numbers: [209]
+  Number of columns: 17
+  Column separators at x-positions: [2, 809, 1020, 1196, 1356, 1527, 1660, 1791, 1924, 2053, 2186, 2321, 2451, 2583, 2718, 2890]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 809 (Data column)
+    Column 2: 809 to 1020 (Data column)
+    Column 3: 1020 to 1196 (Data column)
+    Column 4: 1196 to 1356 (Data column)
+    Column 5: 1356 to 1527 (Data column)
+    Column 6: 1527 to 1660 (Data column)
+    Column 7: 1660 to 1791 (Data column)
+    Column 8: 1791 to 1924 (Data column)
+    Column 9: 1924 to 2053 (Data column)
+    Column 10: 2053 to 2186 (Data column)
+    Column 11: 2186 to 2321 (Data column)
+    Column 12: 2321 to 2451 (Data column)
+    Column 13: 2451 to 2583 (Data column)
+    Column 14: 2583 to 2718 (Data column)
+    Column 15: 2718 to 2890 (Data column)
+    Column 16: 2890 to end (Data column)
+
+Table Group 164:
+----------------------------------------------------------------------
+  Pages: 210 to 210 (1 page)
+  Page numbers: [210]
+  Number of columns: 18
+  Column separators at x-positions: [0, 695, 837, 1046, 1221, 1400, 1556, 1692, 1822, 1951, 2083, 2218, 2352, 2486, 2620, 2754, 2904]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 695 (Data column)
+    Column 2: 695 to 837 (Data column)
+    Column 3: 837 to 1046 (Data column)
+    Column 4: 1046 to 1221 (Data column)
+    Column 5: 1221 to 1400 (Data column)
+    Column 6: 1400 to 1556 (Data column)
+    Column 7: 1556 to 1692 (Data column)
+    Column 8: 1692 to 1822 (Data column)
+    Column 9: 1822 to 1951 (Data column)
+    Column 10: 1951 to 2083 (Data column)
+    Column 11: 2083 to 2218 (Data column)
+    Column 12: 2218 to 2352 (Data column)
+    Column 13: 2352 to 2486 (Data column)
+    Column 14: 2486 to 2620 (Data column)
+    Column 15: 2620 to 2754 (Data column)
+    Column 16: 2754 to 2904 (Data column)
+    Column 17: 2904 to end (Data column)
+
+Table Group 165:
+----------------------------------------------------------------------
+  Pages: 211 to 211 (1 page)
+  Page numbers: [211]
+  Number of columns: 16
+  Column separators at x-positions: [1062, 1281, 1444, 1609, 1775, 1943, 2107, 2271, 2438, 2605, 2769, 2936, 3097, 3268, 3274]
+
+  Column structure:
+    Column 0: 0 to 1062 (Label/Header column)
+    Column 1: 1062 to 1281 (Data column)
+    Column 2: 1281 to 1444 (Data column)
+    Column 3: 1444 to 1609 (Data column)
+    Column 4: 1609 to 1775 (Data column)
+    Column 5: 1775 to 1943 (Data column)
+    Column 6: 1943 to 2107 (Data column)
+    Column 7: 2107 to 2271 (Data column)
+    Column 8: 2271 to 2438 (Data column)
+    Column 9: 2438 to 2605 (Data column)
+    Column 10: 2605 to 2769 (Data column)
+    Column 11: 2769 to 2936 (Data column)
+    Column 12: 2936 to 3097 (Data column)
+    Column 13: 3097 to 3268 (Data column)
+    Column 14: 3268 to 3274 (Data column)
+    Column 15: 3274 to end (Data column)
+
+Table Group 166:
+----------------------------------------------------------------------
+  Pages: 212 to 212 (1 page)
+  Page numbers: [212]
+  Number of columns: 16
+  Column separators at x-positions: [0, 692, 909, 1071, 1236, 1401, 1569, 1733, 1897, 2062, 2231, 2394, 2561, 2725, 2896]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 909 (Data column)
+    Column 3: 909 to 1071 (Data column)
+    Column 4: 1071 to 1236 (Data column)
+    Column 5: 1236 to 1401 (Data column)
+    Column 6: 1401 to 1569 (Data column)
+    Column 7: 1569 to 1733 (Data column)
+    Column 8: 1733 to 1897 (Data column)
+    Column 9: 1897 to 2062 (Data column)
+    Column 10: 2062 to 2231 (Data column)
+    Column 11: 2231 to 2394 (Data column)
+    Column 12: 2394 to 2561 (Data column)
+    Column 13: 2561 to 2725 (Data column)
+    Column 14: 2725 to 2896 (Data column)
+    Column 15: 2896 to end (Data column)
+
+Table Group 167:
+----------------------------------------------------------------------
+  Pages: 213 to 213 (1 page)
+  Page numbers: [213]
+  Number of columns: 15
+  Column separators at x-positions: [695, 914, 1078, 1243, 1409, 1577, 1743, 1908, 2074, 2243, 2406, 2573, 2736, 2909]
+
+  Column structure:
+    Column 0: 0 to 695 (Label/Header column)
+    Column 1: 695 to 914 (Data column)
+    Column 2: 914 to 1078 (Data column)
+    Column 3: 1078 to 1243 (Data column)
+    Column 4: 1243 to 1409 (Data column)
+    Column 5: 1409 to 1577 (Data column)
+    Column 6: 1577 to 1743 (Data column)
+    Column 7: 1743 to 1908 (Data column)
+    Column 8: 1908 to 2074 (Data column)
+    Column 9: 2074 to 2243 (Data column)
+    Column 10: 2243 to 2406 (Data column)
+    Column 11: 2406 to 2573 (Data column)
+    Column 12: 2573 to 2736 (Data column)
+    Column 13: 2736 to 2909 (Data column)
+    Column 14: 2909 to end (Data column)
+
+Table Group 168:
+----------------------------------------------------------------------
+  Pages: 214 to 214 (1 page)
+  Page numbers: [214]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 911, 1073, 1239, 1404, 1572, 1737, 1901, 2067, 2235, 2398, 2567, 2732, 2904, 2907]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 911 (Data column)
+    Column 3: 911 to 1073 (Data column)
+    Column 4: 1073 to 1239 (Data column)
+    Column 5: 1239 to 1404 (Data column)
+    Column 6: 1404 to 1572 (Data column)
+    Column 7: 1572 to 1737 (Data column)
+    Column 8: 1737 to 1901 (Data column)
+    Column 9: 1901 to 2067 (Data column)
+    Column 10: 2067 to 2235 (Data column)
+    Column 11: 2235 to 2398 (Data column)
+    Column 12: 2398 to 2567 (Data column)
+    Column 13: 2567 to 2732 (Data column)
+    Column 14: 2732 to 2904 (Data column)
+    Column 15: 2904 to 2907 (Data column)
+    Column 16: 2907 to end (Data column)
+
+Table Group 169:
+----------------------------------------------------------------------
+  Pages: 215 to 216 (2 pages)
+  Page numbers: [215, 216]
+  Number of columns: 18
+  Column separators at x-positions: [1, 696, 837, 1047, 1222, 1399, 1555, 1692, 1822, 1950, 2083, 2217, 2352, 2485, 2617, 2751, 2900]
+
+  Column structure:
+    Column 0: 0 to 1 (Label/Header column)
+    Column 1: 1 to 696 (Data column)
+    Column 2: 696 to 837 (Data column)
+    Column 3: 837 to 1047 (Data column)
+    Column 4: 1047 to 1222 (Data column)
+    Column 5: 1222 to 1399 (Data column)
+    Column 6: 1399 to 1555 (Data column)
+    Column 7: 1555 to 1692 (Data column)
+    Column 8: 1692 to 1822 (Data column)
+    Column 9: 1822 to 1950 (Data column)
+    Column 10: 1950 to 2083 (Data column)
+    Column 11: 2083 to 2217 (Data column)
+    Column 12: 2217 to 2352 (Data column)
+    Column 13: 2352 to 2485 (Data column)
+    Column 14: 2485 to 2617 (Data column)
+    Column 15: 2617 to 2751 (Data column)
+    Column 16: 2751 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 170:
+----------------------------------------------------------------------
+  Pages: 217 to 217 (1 page)
+  Page numbers: [217]
+  Number of columns: 17
+  Column separators at x-positions: [2, 811, 1022, 1198, 1358, 1531, 1663, 1795, 1928, 2058, 2191, 2326, 2455, 2587, 2722, 2894]
+
+  Column structure:
+    Column 0: 0 to 2 (Label/Header column)
+    Column 1: 2 to 811 (Data column)
+    Column 2: 811 to 1022 (Data column)
+    Column 3: 1022 to 1198 (Data column)
+    Column 4: 1198 to 1358 (Data column)
+    Column 5: 1358 to 1531 (Data column)
+    Column 6: 1531 to 1663 (Data column)
+    Column 7: 1663 to 1795 (Data column)
+    Column 8: 1795 to 1928 (Data column)
+    Column 9: 1928 to 2058 (Data column)
+    Column 10: 2058 to 2191 (Data column)
+    Column 11: 2191 to 2326 (Data column)
+    Column 12: 2326 to 2455 (Data column)
+    Column 13: 2455 to 2587 (Data column)
+    Column 14: 2587 to 2722 (Data column)
+    Column 15: 2722 to 2894 (Data column)
+    Column 16: 2894 to end (Data column)
+
+Table Group 171:
+----------------------------------------------------------------------
+  Pages: 218 to 218 (1 page)
+  Page numbers: [218]
+  Number of columns: 18
+  Column separators at x-positions: [0, 693, 835, 1045, 1220, 1398, 1554, 1690, 1820, 1949, 2080, 2215, 2350, 2483, 2616, 2751, 2900]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 693 (Data column)
+    Column 2: 693 to 835 (Data column)
+    Column 3: 835 to 1045 (Data column)
+    Column 4: 1045 to 1220 (Data column)
+    Column 5: 1220 to 1398 (Data column)
+    Column 6: 1398 to 1554 (Data column)
+    Column 7: 1554 to 1690 (Data column)
+    Column 8: 1690 to 1820 (Data column)
+    Column 9: 1820 to 1949 (Data column)
+    Column 10: 1949 to 2080 (Data column)
+    Column 11: 2080 to 2215 (Data column)
+    Column 12: 2215 to 2350 (Data column)
+    Column 13: 2350 to 2483 (Data column)
+    Column 14: 2483 to 2616 (Data column)
+    Column 15: 2616 to 2751 (Data column)
+    Column 16: 2751 to 2900 (Data column)
+    Column 17: 2900 to end (Data column)
+
+Table Group 172:
+----------------------------------------------------------------------
+  Pages: 219 to 219 (1 page)
+  Page numbers: [219]
+  Number of columns: 18
+  Column separators at x-positions: [386, 392, 1080, 1299, 1461, 1627, 1792, 1960, 2125, 2289, 2456, 2624, 2787, 2954, 3117, 3288, 3290]
+
+  Column structure:
+    Column 0: 0 to 386 (Label/Header column)
+    Column 1: 386 to 392 (Data column)
+    Column 2: 392 to 1080 (Data column)
+    Column 3: 1080 to 1299 (Data column)
+    Column 4: 1299 to 1461 (Data column)
+    Column 5: 1461 to 1627 (Data column)
+    Column 6: 1627 to 1792 (Data column)
+    Column 7: 1792 to 1960 (Data column)
+    Column 8: 1960 to 2125 (Data column)
+    Column 9: 2125 to 2289 (Data column)
+    Column 10: 2289 to 2456 (Data column)
+    Column 11: 2456 to 2624 (Data column)
+    Column 12: 2624 to 2787 (Data column)
+    Column 13: 2787 to 2954 (Data column)
+    Column 14: 2954 to 3117 (Data column)
+    Column 15: 3117 to 3288 (Data column)
+    Column 16: 3288 to 3290 (Data column)
+    Column 17: 3290 to end (Data column)
+
+Table Group 173:
+----------------------------------------------------------------------
+  Pages: 220 to 220 (1 page)
+  Page numbers: [220]
+  Number of columns: 17
+  Column separators at x-positions: [0, 692, 910, 1073, 1239, 1403, 1572, 1737, 1902, 2068, 2237, 2399, 2568, 2733, 2904, 2907]
+
+  Column structure:
+    Column 0: 0 to 0 (Label/Header column)
+    Column 1: 0 to 692 (Data column)
+    Column 2: 692 to 910 (Data column)
+    Column 3: 910 to 1073 (Data column)
+    Column 4: 1073 to 1239 (Data column)
+    Column 5: 1239 to 1403 (Data column)
+    Column 6: 1403 to 1572 (Data column)
+    Column 7: 1572 to 1737 (Data column)
+    Column 8: 1737 to 1902 (Data column)
+    Column 9: 1902 to 2068 (Data column)
+    Column 10: 2068 to 2237 (Data column)
+    Column 11: 2237 to 2399 (Data column)
+    Column 12: 2399 to 2568 (Data column)
+    Column 13: 2568 to 2733 (Data column)
+    Column 14: 2733 to 2904 (Data column)
+    Column 15: 2904 to 2907 (Data column)
+    Column 16: 2907 to end (Data column)
+
+Table Group 174:
+----------------------------------------------------------------------
+  Pages: 221 to 221 (1 page)
+  Page numbers: [221]
+  Number of columns: 16
+  Column separators at x-positions: [693, 912, 1074, 1239, 1403, 1570, 1735, 1899, 2065, 2233, 2396, 2563, 2727, 2898, 2901]
+
+  Column structure:
+    Column 0: 0 to 693 (Label/Header column)
+    Column 1: 693 to 912 (Data column)
+    Column 2: 912 to 1074 (Data column)
+    Column 3: 1074 to 1239 (Data column)
+    Column 4: 1239 to 1403 (Data column)
+    Column 5: 1403 to 1570 (Data column)
+    Column 6: 1570 to 1735 (Data column)
+    Column 7: 1735 to 1899 (Data column)
+    Column 8: 1899 to 2065 (Data column)
+    Column 9: 2065 to 2233 (Data column)
+    Column 10: 2233 to 2396 (Data column)
+    Column 11: 2396 to 2563 (Data column)
+    Column 12: 2563 to 2727 (Data column)
+    Column 13: 2727 to 2898 (Data column)
+    Column 14: 2898 to 2901 (Data column)
+    Column 15: 2901 to end (Data column)
+
+Table Group 175:
+----------------------------------------------------------------------
+  Pages: 222 to 222 (1 page)
+  Page numbers: [222]
+  Number of columns: 11
+  Column separators at x-positions: [373, 1064, 1283, 1444, 1609, 1773, 2934, 3096, 3104, 3266]
+
+  Column structure:
+    Column 0: 0 to 373 (Label/Header column)
+    Column 1: 373 to 1064 (Data column)
+    Column 2: 1064 to 1283 (Data column)
+    Column 3: 1283 to 1444 (Data column)
+    Column 4: 1444 to 1609 (Data column)
+    Column 5: 1609 to 1773 (Data column)
+    Column 6: 1773 to 2934 (Data column)
+    Column 7: 2934 to 3096 (Data column)
+    Column 8: 3096 to 3104 (Data column)
+    Column 9: 3104 to 3266 (Data column)
+    Column 10: 3266 to end (Data column)
+
+Table Group 176:
+----------------------------------------------------------------------
+  Pages: 223 to 223 (1 page)
+  Page numbers: [223]
+  Number of columns: 11
+  Column separators at x-positions: [985, 1184, 1369, 1579, 1712, 1766, 2467, 2666, 3060, 3196]
+
+  Column structure:
+    Column 0: 0 to 985 (Label/Header column)
+    Column 1: 985 to 1184 (Data column)
+    Column 2: 1184 to 1369 (Data column)
+    Column 3: 1369 to 1579 (Data column)
+    Column 4: 1579 to 1712 (Data column)
+    Column 5: 1712 to 1766 (Data column)
+    Column 6: 1766 to 2467 (Data column)
+    Column 7: 2467 to 2666 (Data column)
+    Column 8: 2666 to 3060 (Data column)
+    Column 9: 3060 to 3196 (Data column)
+    Column 10: 3196 to end (Data column)
+
+Table Group 177:
+----------------------------------------------------------------------
+  Pages: 224 to 224 (1 page)
+  Page numbers: [224]
+  Number of columns: 10
+  Column separators at x-positions: [1553, 1764, 1897, 1951, 2650, 2849, 3031, 3244, 3379]
+
+  Column structure:
+    Column 0: 0 to 1553 (Label/Header column)
+    Column 1: 1553 to 1764 (Data column)
+    Column 2: 1764 to 1897 (Data column)
+    Column 3: 1897 to 1951 (Data column)
+    Column 4: 1951 to 2650 (Data column)
+    Column 5: 2650 to 2849 (Data column)
+    Column 6: 2849 to 3031 (Data column)
+    Column 7: 3031 to 3244 (Data column)
+    Column 8: 3244 to 3379 (Data column)
+    Column 9: 3379 to end (Data column)
+
+Table Group 178:
+----------------------------------------------------------------------
+  Pages: 225 to 225 (1 page)
+  Page numbers: [225]
+  Number of columns: 10
+  Column separators at x-positions: [1483, 1694, 1827, 1882, 2583, 2782, 2964, 3178, 3313]
+
+  Column structure:
+    Column 0: 0 to 1483 (Label/Header column)
+    Column 1: 1483 to 1694 (Data column)
+    Column 2: 1694 to 1827 (Data column)
+    Column 3: 1827 to 1882 (Data column)
+    Column 4: 1882 to 2583 (Data column)
+    Column 5: 2583 to 2782 (Data column)
+    Column 6: 2782 to 2964 (Data column)
+    Column 7: 2964 to 3178 (Data column)
+    Column 8: 3178 to 3313 (Data column)
+    Column 9: 3313 to end (Data column)
+
+Table Group 179:
+----------------------------------------------------------------------
+  Pages: 226 to 226 (1 page)
+  Page numbers: [226]
+  Number of columns: 6
+  Column separators at x-positions: [381, 1087, 1285, 1681, 1815]
+
+  Column structure:
+    Column 0: 0 to 381 (Label/Header column)
+    Column 1: 381 to 1087 (Data column)
+    Column 2: 1087 to 1285 (Data column)
+    Column 3: 1285 to 1681 (Data column)
+    Column 4: 1681 to 1815 (Data column)
+    Column 5: 1815 to end (Data column)
+
+Table Group 180:
+----------------------------------------------------------------------
+  Pages: 227 to 227 (1 page)
+  Page numbers: [227]
+  Number of columns: 11
+  Column separators at x-positions: [938, 1137, 1322, 1535, 1668, 1722, 2424, 2623, 3017, 3153]
+
+  Column structure:
+    Column 0: 0 to 938 (Label/Header column)
+    Column 1: 938 to 1137 (Data column)
+    Column 2: 1137 to 1322 (Data column)
+    Column 3: 1322 to 1535 (Data column)
+    Column 4: 1535 to 1668 (Data column)
+    Column 5: 1668 to 1722 (Data column)
+    Column 6: 1722 to 2424 (Data column)
+    Column 7: 2424 to 2623 (Data column)
+    Column 8: 2623 to 3017 (Data column)
+    Column 9: 3017 to 3153 (Data column)
+    Column 10: 3153 to end (Data column)
+
+Table Group 181:
+----------------------------------------------------------------------
+  Pages: 228 to 228 (1 page)
+  Page numbers: [228]
+  Number of columns: 11
+  Column separators at x-positions: [497, 503, 1799, 1932, 1986, 2687, 2885, 3069, 3281, 3415]
+
+  Column structure:
+    Column 0: 0 to 497 (Label/Header column)
+    Column 1: 497 to 503 (Data column)
+    Column 2: 503 to 1799 (Data column)
+    Column 3: 1799 to 1932 (Data column)
+    Column 4: 1932 to 1986 (Data column)
+    Column 5: 1986 to 2687 (Data column)
+    Column 6: 2687 to 2885 (Data column)
+    Column 7: 2885 to 3069 (Data column)
+    Column 8: 3069 to 3281 (Data column)
+    Column 9: 3281 to 3415 (Data column)
+    Column 10: 3415 to end (Data column)
+
+======================================================================
+SPREADSHEET RECONSTRUCTION GUIDE
+======================================================================
+
+To reconstruct the tables in a spreadsheet:
+
+1. Each Table Group represents a continuous table across multiple pages
+2. Filter the CSV by page numbers in each group
+3. Sort by line_num and column_index within each page
+4. Place data from column_index=0 in the first spreadsheet column (labels)
+5. Place data from column_index=1,2,3... in subsequent columns (data)
+6. Each unique line_num becomes a new row in the spreadsheet
+7. Continue rows across pages within the same Table Group
+
+Example SQL-like query for Table Group 1:
+  SELECT * FROM ocr_results 
+  WHERE page_num BETWEEN [start_page] AND [end_page]
+  ORDER BY page_num, line_num, column_index
+
+This ensures data flows naturally from one page to the next within each table.
+        
