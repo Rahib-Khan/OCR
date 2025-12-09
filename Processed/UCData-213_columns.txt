@@ -1,0 +1,18 @@
+# Column structure for page 213
+# Image: ./Image/UCData-213.png
+# Number of columns: 15
+# Column line x-positions (in pixels):
+line_1: 695
+line_2: 914
+line_3: 1078
+line_4: 1243
+line_5: 1409
+line_6: 1577
+line_7: 1743
+line_8: 1908
+line_9: 2074
+line_10: 2243
+line_11: 2406
+line_12: 2573
+line_13: 2736
+line_14: 2909

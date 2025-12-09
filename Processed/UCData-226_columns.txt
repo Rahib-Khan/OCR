@@ -1,0 +1,9 @@
+# Column structure for page 226
+# Image: ./Image/UCData-226.png
+# Number of columns: 6
+# Column line x-positions (in pixels):
+line_1: 381
+line_2: 1087
+line_3: 1285
+line_4: 1681
+line_5: 1815

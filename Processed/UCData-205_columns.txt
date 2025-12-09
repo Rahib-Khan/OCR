@@ -1,0 +1,25 @@
+# Column structure for page 205
+# Image: ./Image/UCData-205.png
+# Number of columns: 22
+# Column line x-positions (in pixels):
+line_1: 112
+line_2: 125
+line_3: 154
+line_4: 278
+line_5: 282
+line_6: 284
+line_7: 973
+line_8: 1192
+line_9: 1354
+line_10: 1520
+line_11: 1685
+line_12: 1853
+line_13: 2019
+line_14: 2183
+line_15: 2349
+line_16: 2518
+line_17: 2681
+line_18: 2848
+line_19: 3010
+line_20: 3180
+line_21: 3184

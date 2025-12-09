@@ -1,0 +1,20 @@
+# Column structure for page 185
+# Image: ./Image/UCData-185.png
+# Number of columns: 17
+# Column line x-positions (in pixels):
+line_1: 3
+line_2: 811
+line_3: 1023
+line_4: 1200
+line_5: 1361
+line_6: 1532
+line_7: 1664
+line_8: 1797
+line_9: 1929
+line_10: 2059
+line_11: 2191
+line_12: 2326
+line_13: 2455
+line_14: 2588
+line_15: 2723
+line_16: 2897

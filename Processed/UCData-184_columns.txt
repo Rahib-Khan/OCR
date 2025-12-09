@@ -1,0 +1,25 @@
+# Column structure for page 184
+# Image: ./Image/UCData-184.png
+# Number of columns: 22
+# Column line x-positions (in pixels):
+line_1: 0
+line_2: 697
+line_3: 838
+line_4: 1048
+line_5: 1224
+line_6: 1401
+line_7: 1557
+line_8: 1692
+line_9: 1823
+line_10: 1952
+line_11: 2084
+line_12: 2219
+line_13: 2353
+line_14: 2487
+line_15: 2617
+line_16: 2621
+line_17: 2753
+line_18: 2756
+line_19: 2898
+line_20: 2902
+line_21: 2903

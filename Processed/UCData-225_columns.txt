@@ -1,0 +1,13 @@
+# Column structure for page 225
+# Image: ./Image/UCData-225.png
+# Number of columns: 10
+# Column line x-positions (in pixels):
+line_1: 1483
+line_2: 1694
+line_3: 1827
+line_4: 1882
+line_5: 2583
+line_6: 2782
+line_7: 2964
+line_8: 3178
+line_9: 3313
