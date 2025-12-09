@@ -1,0 +1,19 @@
+# Column structure for page 156
+# Image: ./Image/UCData-156.png
+# Number of columns: 16
+# Column line x-positions (in pixels):
+line_1: 366
+line_2: 1172
+line_3: 1383
+line_4: 1560
+line_5: 1720
+line_6: 1889
+line_7: 2021
+line_8: 2152
+line_9: 2284
+line_10: 2413
+line_11: 2544
+line_12: 2679
+line_13: 2943
+line_14: 3077
+line_15: 3250

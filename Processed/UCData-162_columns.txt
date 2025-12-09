@@ -1,0 +1,10 @@
+# Column structure for page 162
+# Image: ./Image/UCData-162.png
+# Number of columns: 7
+# Column line x-positions (in pixels):
+line_1: 368
+line_2: 1170
+line_3: 1380
+line_4: 1557
+line_5: 1717
+line_6: 2148
