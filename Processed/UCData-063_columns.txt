@@ -1,0 +1,20 @@
+# Column structure for page 63
+# Image: ./Image/UCData-063.png
+# Number of columns: 17
+# Column line x-positions (in pixels):
+line_1: 693
+line_2: 912
+line_3: 915
+line_4: 1075
+line_5: 1240
+line_6: 1405
+line_7: 1572
+line_8: 1737
+line_9: 1901
+line_10: 2067
+line_11: 2235
+line_12: 2397
+line_13: 2564
+line_14: 2727
+line_15: 2898
+line_16: 2899

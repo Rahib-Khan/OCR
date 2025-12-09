@@ -1,0 +1,12 @@
+# Column structure for page 88
+# Image: ./Image/UCData-088.png
+# Number of columns: 9
+# Column line x-positions (in pixels):
+line_1: 513
+line_2: 1206
+line_3: 1427
+line_4: 1586
+line_5: 1750
+line_6: 1916
+line_7: 3078
+line_8: 3410
