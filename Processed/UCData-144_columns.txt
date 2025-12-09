@@ -1,0 +1,21 @@
+# Column structure for page 144
+# Image: ./Image/UCData-144.png
+# Number of columns: 18
+# Column line x-positions (in pixels):
+line_1: 0
+line_2: 3
+line_3: 691
+line_4: 909
+line_5: 1070
+line_6: 1235
+line_7: 1400
+line_8: 1567
+line_9: 1731
+line_10: 1895
+line_11: 2061
+line_12: 2229
+line_13: 2391
+line_14: 2559
+line_15: 2722
+line_16: 2892
+line_17: 2894

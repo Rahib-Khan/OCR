@@ -1,0 +1,6 @@
+# Column structure for page 139
+# Image: ./Image/UCData-139.png
+# Number of columns: 3
+# Column line x-positions (in pixels):
+line_1: 2359
+line_2: 2902

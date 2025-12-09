@@ -1,0 +1,20 @@
+# Column structure for page 149
+# Image: ./Image/UCData-149.png
+# Number of columns: 17
+# Column line x-positions (in pixels):
+line_1: 3
+line_2: 810
+line_3: 1021
+line_4: 1196
+line_5: 1356
+line_6: 1528
+line_7: 1661
+line_8: 1792
+line_9: 1925
+line_10: 2054
+line_11: 2187
+line_12: 2322
+line_13: 2451
+line_14: 2584
+line_15: 2719
+line_16: 2891
