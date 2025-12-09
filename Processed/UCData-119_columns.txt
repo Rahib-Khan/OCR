@@ -1,0 +1,21 @@
+# Column structure for page 119
+# Image: ./Image/UCData-119.png
+# Number of columns: 18
+# Column line x-positions (in pixels):
+line_1: 226
+line_2: 232
+line_3: 922
+line_4: 1140
+line_5: 1302
+line_6: 1468
+line_7: 1634
+line_8: 1802
+line_9: 1968
+line_10: 2131
+line_11: 2298
+line_12: 2466
+line_13: 2629
+line_14: 2797
+line_15: 2958
+line_16: 3129
+line_17: 3135

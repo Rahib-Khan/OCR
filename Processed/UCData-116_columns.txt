@@ -1,0 +1,20 @@
+# Column structure for page 116
+# Image: ./Image/UCData-116.png
+# Number of columns: 17
+# Column line x-positions (in pixels):
+line_1: 0
+line_2: 809
+line_3: 1019
+line_4: 1195
+line_5: 1355
+line_6: 1526
+line_7: 1659
+line_8: 1791
+line_9: 1924
+line_10: 2053
+line_11: 2186
+line_12: 2322
+line_13: 2453
+line_14: 2587
+line_15: 2722
+line_16: 2895
