@@ -1,0 +1,20 @@
+# Column structure for page 42
+# Image: ./Image/UCData-042.png
+# Number of columns: 17
+# Column line x-positions (in pixels):
+line_1: 477
+line_2: 484
+line_3: 488
+line_4: 1549
+line_5: 1714
+line_6: 1879
+line_7: 2047
+line_8: 2210
+line_9: 2374
+line_10: 2539
+line_11: 2707
+line_12: 2869
+line_13: 3035
+line_14: 3198
+line_15: 3368
+line_16: 3371
